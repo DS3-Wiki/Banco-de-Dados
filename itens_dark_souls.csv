@@ -1,0 +1,2200 @@
+﻿weapon_name;weapon_type;Str;Dex;Int;Faith;Luck;Physical;Magic;Fire;Lightning;Dark
+Dagger;Dagger;14;98;0;0;0;116;0;0;0;0
+Heavy Dagger;Dagger;100.8;0;0;0;0;107.3;0;0;0;0
+Sharp Dagger;Dagger;5.5;147;0;0;0;107.3;0;0;0;0
+Refined Dagger;Dagger;84.8;84.8;0;0;0;104.4;0;0;0;0
+Simple Dagger;Dagger;13;91;112;0;0;63;72.45;0;0;0
+Crystal Dagger;Dagger;10;70;132;0;0;59.85;81.9;0;0;0
+Fire Dagger;Dagger;0;0;0;0;0;120.45;0;120.45;0;0
+Chaos Dagger;Dagger;12;84;88;88;0;63;0;81.9;0;0
+Lightning Dagger;Dagger;10;70;0;132;0;59.85;0;0;81.9;0
+Deep Dagger;Dagger;0;0;0;0;0;120.45;0;0;0;120.45
+Dark Dagger;Dagger;12;84;88;88;0;63;0;0;0;81.9
+Poison Dagger;Dagger;14;98;0;0;0;89.9;0;0;0;0
+Blood Dagger;Dagger;14;98;0;0;0;89.9;0;0;0;0
+Raw Dagger;Dagger;0;0;0;0;0;145;0;0;0;0
+Blessed Dagger;Dagger;11;77;0;104;0;81.9;0;0;0;0
+Hollow Dagger;Dagger;14;98;0;0;36;110.2;0;0;0;0
+Bandit's Knife;Dagger;35;42;0;0;0;140;0;0;0;0
+Heavy Bandit's Knife;Dagger;69.3;0;0;0;0;129.5;0;0;0;0
+Sharp Bandit's Knife;Dagger;13.2;63;0;0;0;129.5;0;0;0;0
+Refined Bandit's Knife;Dagger;59.2;59.2;0;0;0;126;0;0;0;0
+Simple Bandit's Knife;Dagger;32.5;39;77;0;0;75;86.25;0;0;0
+Crystal Bandit's Knife;Dagger;25;30;90.75;0;0;71.25;97.5;0;0;0
+Fire Bandit's Knife;Dagger;0;0;0;0;0;127.05;0;127.05;0;0
+Chaos Bandit's Knife;Dagger;30;36;60.5;60.5;0;75;0;97.5;0;0
+Lightning Bandit's Knife;Dagger;25;30;0;90.75;0;71.25;0;0;97.5;0
+Deep Bandit's Knife;Dagger;0;0;0;0;0;127.05;0;0;0;127.05
+Dark Bandit's Knife;Dagger;30;36;60.5;60.5;0;75;0;0;0;97.5
+Poison Bandit's Knife;Dagger;35;42;0;0;0;108.5;0;0;0;0
+Blood Bandit's Knife;Dagger;35;42;0;0;0;108.5;0;0;0;0
+Raw Bandit's Knife;Dagger;0;0;0;0;0;175;0;0;0;0
+Blessed Bandit's Knife;Dagger;27.5;33;0;71.5;0;97.5;0;0;0;0
+Hollow Bandit's Knife;Dagger;35;42;0;0;24;133;0;0;0;0
+Parrying Dagger;Dagger;12.6;95.2;0;0;0;110;0;0;0;0
+Heavy Parrying Dagger;Dagger;96.6;0;0;0;0;101.75;0;0;0;0
+Sharp Parrying Dagger;Dagger;4.4;142.8;0;0;0;101.75;0;0;0;0
+Refined Parrying Dagger;Dagger;76.8;76.8;0;0;0;99;0;0;0;0
+Simple Parrying Dagger;Dagger;11.7;88.4;107.8;0;0;60;69;0;0;0
+Crystal Parrying Dagger;Dagger;9;68;127.05;0;0;57;78;0;0;0
+Fire Parrying Dagger;Dagger;0;0;0;0;0;107.25;0;107.25;0;0
+Chaos Parrying Dagger;Dagger;10.8;81.6;84.7;84.7;0;60;0;78;0;0
+Lightning Parrying Dagger;Dagger;9;68;0;127.05;0;57;0;0;78;0
+Deep Parrying Dagger;Dagger;0;0;0;0;0;107.25;0;0;0;107.25
+Dark Parrying Dagger;Dagger;10.8;81.6;84.7;84.7;0;60;0;0;0;78
+Poison Parrying Dagger;Dagger;12.6;95.2;0;0;0;85.25;0;0;0;0
+Blood Parrying Dagger;Dagger;12.6;95.2;0;0;0;85.25;0;0;0;0
+Raw Parrying Dagger;Dagger;0;0;0;0;0;137.5;0;0;0;0
+Blessed Parrying Dagger;Dagger;9.9;74.8;0;100.1;0;78;0;0;0;0
+Hollow Parrying Dagger;Dagger;12.6;95.2;0;0;33;104.5;0;0;0;0
+Rotten Ghru Dagger;Dagger;12.6;92.4;0;0;0;118;0;0;0;0
+Heavy Rotten Ghru Dagger;Dagger;94.5;0;0;0;0;109.15;0;0;0;0
+Sharp Rotten Ghru Dagger;Dagger;4.4;138.6;0;0;0;109.15;0;0;0;0
+Refined Rotten Ghru Dagger;Dagger;83.2;83.2;0;0;0;106.2;0;0;0;0
+Simple Rotten Ghru Dagger;Dagger;11.7;85.8;105;0;0;64;73.6;0;0;0
+Crystal Rotten Ghru Dagger;Dagger;9;66;123.75;0;0;60.8;83.2;0;0;0
+Fire Rotten Ghru Dagger;Dagger;0;0;0;0;0;113.85;0;113.85;0;0
+Chaos Rotten Ghru Dagger;Dagger;10.8;79.2;82.5;82.5;0;64;0;83.2;0;0
+Lightning Rotten Ghru Dagger;Dagger;9;66;0;123.75;0;60.8;0;0;83.2;0
+Deep Rotten Ghru Dagger;Dagger;0;0;0;0;0;113.85;0;0;0;113.85
+Dark Rotten Ghru Dagger;Dagger;10.8;79.2;82.5;82.5;0;64;0;0;0;83.2
+Poison Rotten Ghru Dagger;Dagger;12.6;92.4;0;0;0;91.45;0;0;0;0
+Blood Rotten Ghru Dagger;Dagger;12.6;92.4;0;0;0;91.45;0;0;0;0
+Raw Rotten Ghru Dagger;Dagger;0;0;0;0;0;147.5;0;0;0;0
+Blessed Rotten Ghru Dagger;Dagger;9.9;72.6;0;97.5;0;83.2;0;0;0;0
+Hollow Rotten Ghru Dagger;Dagger;12.6;92.4;0;0;33;112.1;0;0;0;0
+Harpe;Dagger;12.6;93.8;0;0;0;114;0;0;0;0
+Heavy Harpe;Dagger;94.5;0;0;0;0;105.45;0;0;0;0
+Sharp Harpe;Dagger;4.4;140.7;0;0;0;105.45;0;0;0;0
+Refined Harpe;Dagger;84.8;84.8;0;0;0;102.6;0;0;0;0
+Simple Harpe;Dagger;11.7;87.1;106.4;0;0;62;71.3;0;0;0
+Crystal Harpe;Dagger;9;67;125.4;0;0;58.9;80.6;0;0;0
+Fire Harpe;Dagger;0;0;0;0;0;115.5;0;115.5;0;0
+Chaos Harpe;Dagger;10.8;80.4;83.6;83.6;0;62;0;80.6;0;0
+Lightning Harpe;Dagger;9;67;0;125.4;0;58.9;0;0;80.6;0
+Deep Harpe;Dagger;0;0;0;0;0;115.5;0;0;0;115.5
+Dark Harpe;Dagger;10.8;80.4;83.6;83.6;0;62;0;0;0;80.6
+Poison Harpe;Dagger;12.6;93.8;0;0;0;88.35;0;0;0;0
+Blood Harpe;Dagger;12.6;93.8;0;0;0;88.35;0;0;0;0
+Raw Harpe;Dagger;0;0;0;0;0;142.5;0;0;0;0
+Blessed Harpe;Dagger;9.9;73.7;0;98.8;0;80.6;0;0;0;0
+Hollow Harpe;Dagger;12.6;93.8;0;0;33;108.3;0;0;0;0
+Scholar's Candlestick;Dagger;14;72.8;0;0;0;126;0;0;0;0
+Tailbone Short Sword;Dagger;14;28;0;0;0;174;0;0;0;0
+Corvian Greatknife;Dagger;25.2;25.2;0;0;0;184;0;0;0;0
+Heavy Corvian Greatknife;Dagger;37.8;0;0;0;0;170.2;0;0;0;0
+Sharp Corvian Greatknife;Dagger;19.8;43.2;0;0;0;170.2;0;0;0;0
+Refined Corvian Greatknife;Dagger;44.8;44.8;0;0;0;165.6;0;0;0;0
+Simple Corvian Greatknife;Dagger;23.4;23.4;50.4;0;0;77;88.55;0;0;0
+Crystal Corvian Greatknife;Dagger;18;18;59.4;0;0;73.15;100.1;0;0;0
+Fire Corvian Greatknife;Dagger;0;0;0;0;0;127.05;0;127.05;0;0
+Chaos Corvian Greatknife;Dagger;21.6;21.6;39.6;39.6;0;77;0;100.1;0;0
+Lightning Corvian Greatknife;Dagger;18;18;0;59.4;0;73.15;0;0;100.1;0
+Deep Corvian Greatknife;Dagger;0;0;0;0;0;127.05;0;0;0;127.05
+Dark Corvian Greatknife;Dagger;21.6;21.6;39.6;39.6;0;77;0;0;0;100.1
+Poison Corvian Greatknife;Dagger;25.2;25.2;0;0;0;142.6;0;0;0;0
+Blood Corvian Greatknife;Dagger;25.2;25.2;0;0;0;142.6;0;0;0;0
+Raw Corvian Greatknife;Dagger;0;0;0;0;0;230;0;0;0;0
+Blessed Corvian Greatknife;Dagger;19.8;19.8;0;46.8;0;100.1;0;0;0;0
+Hollow Corvian Greatknife;Dagger;25.2;25.2;0;0;13.5;174.8;0;0;0;0
+Handmaid's Dagger;Dagger;21;22.4;0;0;0;154;0;0;0;0
+Shortsword;Straight Sword;56;71.4;0;0;0;198;0;0;0;0
+Heavy Shortsword;Straight Sword;105;0;0;0;0;183.15;0;0;0;0
+Sharp Shortsword;Straight Sword;28.6;94.5;0;0;0;183.15;0;0;0;0
+Refined Shortsword;Straight Sword;88;88;0;0;0;178.2;0;0;0;0
+Simple Shortsword;Straight Sword;52;66.3;127.4;0;0;99;113.85;0;0;0
+Crystal Shortsword;Straight Sword;40;51;150.15;0;0;94.05;128.7;0;0;0
+Fire Shortsword;Straight Sword;0;0;0;0;0;163.35;0;163.35;0;0
+Chaos Shortsword;Straight Sword;48;61.2;100.1;100.1;0;99;0;128.7;0;0
+Lightning Shortsword;Straight Sword;40;51;0;150.15;0;94.05;0;0;128.7;0
+Deep Shortsword;Straight Sword;0;0;0;0;0;163.35;0;0;0;163.35
+Dark Shortsword;Straight Sword;48;61.2;100.1;100.1;0;99;0;0;0;128.7
+Poison Shortsword;Straight Sword;56;71.4;0;0;0;153.45;0;0;0;0
+Blood Shortsword;Straight Sword;56;71.4;0;0;0;153.45;0;0;0;0
+Raw Shortsword;Straight Sword;0;0;0;0;0;247.5;0;0;0;0
+Blessed Shortsword;Straight Sword;44;56.1;0;118.3;0;128.7;0;0;0;0
+Hollow Shortsword;Straight Sword;56;71.4;0;0;40.5;188.1;0;0;0;0
+Longsword;Straight Sword;70;49;0;0;0;220;0;0;0;0
+Heavy Longsword;Straight Sword;105;0;0;0;0;203.5;0;0;0;0
+Sharp Longsword;Straight Sword;55;84;0;0;0;203.5;0;0;0;0
+Refined Longsword;Straight Sword;83.2;83.2;0;0;0;198;0;0;0;0
+Simple Longsword;Straight Sword;65;45.5;119;0;0;110;126.5;0;0;0
+Crystal Longsword;Straight Sword;50;35;140.25;0;0;104.5;143;0;0;0
+Fire Longsword;Straight Sword;0;0;0;0;0;181.5;0;181.5;0;0
+Chaos Longsword;Straight Sword;60;42;93.5;93.5;0;110;0;143;0;0
+Lightning Longsword;Straight Sword;50;35;0;140.25;0;104.5;0;0;143;0
+Deep Longsword;Straight Sword;0;0;0;0;0;181.5;0;0;0;181.5
+Dark Longsword;Straight Sword;60;42;93.5;93.5;0;110;0;0;0;143
+Poison Longsword;Straight Sword;70;49;0;0;0;170.5;0;0;0;0
+Blood Longsword;Straight Sword;70;49;0;0;0;170.5;0;0;0;0
+Raw Longsword;Straight Sword;0;0;0;0;0;275;0;0;0;0
+Blessed Longsword;Straight Sword;55;38.5;0;110.5;0;143;0;0;0;0
+Hollow Longsword;Straight Sword;70;49;0;0;37.5;209;0;0;0;0
+Broadsword;Straight Sword;71.4;42;0;0;0;234;0;0;0;0
+Heavy Broadsword;Straight Sword;107.1;0;0;0;0;216.45;0;0;0;0
+Sharp Broadsword;Straight Sword;56.1;72;0;0;0;216.45;0;0;0;0
+Refined Broadsword;Straight Sword;80;80;0;0;0;210.6;0;0;0;0
+Simple Broadsword;Straight Sword;66.3;39;113.4;0;0;112;128.8;0;0;0
+Crystal Broadsword;Straight Sword;51;30;133.65;0;0;106.4;145.6;0;0;0
+Fire Broadsword;Straight Sword;0;0;0;0;0;184.8;0;184.8;0;0
+Chaos Broadsword;Straight Sword;61.2;36;89.1;89.1;0;112;0;145.6;0;0
+Lightning Broadsword;Straight Sword;51;30;0;133.65;0;106.4;0;0;145.6;0
+Deep Broadsword;Straight Sword;0;0;0;0;0;184.8;0;0;0;184.8
+Dark Broadsword;Straight Sword;61.2;36;89.1;89.1;0;112;0;0;0;145.6
+Poison Broadsword;Straight Sword;71.4;42;0;0;0;181.35;0;0;0;0
+Blood Broadsword;Straight Sword;71.4;42;0;0;0;181.35;0;0;0;0
+Raw Broadsword;Straight Sword;0;0;0;0;0;292.5;0;0;0;0
+Blessed Broadsword;Straight Sword;56.1;33;0;105.3;0;145.6;0;0;0;0
+Hollow Broadsword;Straight Sword;71.4;42;0;0;37.5;222.3;0;0;0;0
+Broken Straight Sword;Straight Sword;53.2;44.8;0;0;0;140;0;0;0;0
+Heavy Broken Straight Sword;Straight Sword;79.8;0;0;0;0;129.5;0;0;0;0
+Sharp Broken Straight Sword;Straight Sword;41.8;76.8;0;0;0;129.5;0;0;0;0
+Refined Broken Straight Sword;Straight Sword;72;72;0;0;0;126;0;0;0;0
+Simple Broken Straight Sword;Straight Sword;49.4;41.6;98;0;0;70;80.5;0;0;0
+Crystal Broken Straight Sword;Straight Sword;38;32;115.5;0;0;66.5;91;0;0;0
+Fire Broken Straight Sword;Straight Sword;0;0;0;0;0;115.5;0;115.5;0;0
+Chaos Broken Straight Sword;Straight Sword;45.6;38.4;77;77;0;70;0;91;0;0
+Lightning Broken Straight Sword;Straight Sword;38;32;0;115.5;0;66.5;0;0;91;0
+Deep Broken Straight Sword;Straight Sword;0;0;0;0;0;115.5;0;0;0;115.5
+Dark Broken Straight Sword;Straight Sword;45.6;38.4;77;77;0;70;0;0;0;91
+Poison Broken Straight Sword;Straight Sword;53.2;44.8;0;0;0;108.5;0;0;0;0
+Blood Broken Straight Sword;Straight Sword;53.2;44.8;0;0;0;108.5;0;0;0;0
+Raw Broken Straight Sword;Straight Sword;0;0;0;0;0;175;0;0;0;0
+Blessed Broken Straight Sword;Straight Sword;41.8;35.2;0;91;0;91;0;0;0;0
+Hollow Broken Straight Sword;Straight Sword;53.2;44.8;0;0;25.5;133;0;0;0;0
+Lothric Knight Sword;Straight Sword;57.4;70;0;0;0;206;0;0;0;0
+Heavy Lothric Knight Sword;Straight Sword;105;0;0;0;0;190.55;0;0;0;0
+Sharp Lothric Knight Sword;Straight Sword;28.6;94.5;0;0;0;190.55;0;0;0;0
+Refined Lothric Knight Sword;Straight Sword;88;88;0;0;0;185.4;0;0;0;0
+Simple Lothric Knight Sword;Straight Sword;53.3;65;127.4;0;0;103;118.45;0;0;0
+Crystal Lothric Knight Sword;Straight Sword;41;50;150.15;0;0;97.85;133.9;0;0;0
+Fire Lothric Knight Sword;Straight Sword;0;0;0;0;0;169.95;0;169.95;0;0
+Chaos Lothric Knight Sword;Straight Sword;49.2;60;100.1;100.1;0;103;0;133.9;0;0
+Lightning Lothric Knight Sword;Straight Sword;41;50;0;150.15;0;97.85;0;0;133.9;0
+Deep Lothric Knight Sword;Straight Sword;0;0;0;0;0;169.95;0;0;0;169.95
+Dark Lothric Knight Sword;Straight Sword;49.2;60;100.1;100.1;0;103;0;0;0;133.9
+Poison Lothric Knight Sword;Straight Sword;57.4;70;0;0;0;159.65;0;0;0;0
+Blood Lothric Knight Sword;Straight Sword;57.4;70;0;0;0;159.65;0;0;0;0
+Raw Lothric Knight Sword;Straight Sword;0;0;0;0;0;257.5;0;0;0;0
+Blessed Lothric Knight Sword;Straight Sword;45.1;55;0;118.3;0;133.9;0;0;0;0
+Hollow Lothric Knight Sword;Straight Sword;57.4;70;0;0;42;195.7;0;0;0;0
+Sunlight Straight Sword;Straight Sword;84;84;0;0;0;196;0;0;0;0
+Rotten Ghru Curved Sword;Curved Sword;21;81.2;0;0;0;206;0;0;0;0
+Heavy Rotten Ghru Curved Sword;Curved Sword;84;0;0;0;0;190.55;0;0;0;0
+Sharp Rotten Ghru Curved Sword;Curved Sword;7.7;121.8;0;0;0;190.55;0;0;0;0
+Refined Rotten Ghru Curved Sword;Curved Sword;73.6;73.6;0;0;0;185.4;0;0;0;0
+Simple Rotten Ghru Curved Sword;Curved Sword;19.5;75.4;102.2;0;0;103;118.45;0;0;0
+Crystal Rotten Ghru Curved Sword;Curved Sword;15;58;120.45;0;0;97.85;133.9;0;0;0
+Fire Rotten Ghru Curved Sword;Curved Sword;0;0;0;0;0;169.95;0;169.95;0;0
+Chaos Rotten Ghru Curved Sword;Curved Sword;18;69.6;80.3;80.3;0;103;0;133.9;0;0
+Lightning Rotten Ghru Curved Sword;Curved Sword;15;58;0;120.45;0;97.85;0;0;133.9;0
+Deep Rotten Ghru Curved Sword;Curved Sword;0;0;0;0;0;169.95;0;0;0;169.95
+Dark Rotten Ghru Curved Sword;Curved Sword;18;69.6;80.3;80.3;0;103;0;0;0;133.9
+Poison Rotten Ghru Curved Sword;Curved Sword;21;81.2;0;0;0;159.65;0;0;0;0
+Blood Rotten Ghru Curved Sword;Curved Sword;21;81.2;0;0;0;159.65;0;0;0;0
+Raw Rotten Ghru Curved Sword;Curved Sword;0;0;0;0;0;257.5;0;0;0;0
+Blessed Rotten Ghru Curved Sword;Curved Sword;16.5;63.8;0;94.9;0;133.9;0;0;0;0
+Hollow Rotten Ghru Curved Sword;Curved Sword;21;81.2;0;0;31.5;195.7;0;0;0;0
+Irithyll Straight Sword;Straight Sword;64.4;42;0;0;0;216;0;0;0;0
+Cleric's Candlestick;Straight Sword;35;29.4;112;0;0;115.2;126;0;0;0
+Morion Blade;Straight Sword;64.4;35;0;0;0;228;0;0;0;0
+Astora Straight Sword;Straight Sword;36.4;28;0;0;0;258;0;0;0;0
+Heavy Astora Straight Sword;Straight Sword;54.6;0;0;0;0;238.65;0;0;0;0
+Sharp Astora Straight Sword;Straight Sword;28.6;48;0;0;0;238.65;0;0;0;0
+Refined Astora Straight Sword;Straight Sword;44.8;44.8;0;0;0;232.2;0;0;0;0
+Simple Astora Straight Sword;Straight Sword;33.8;26;64.4;0;0;109;125.35;0;0;0
+Crystal Astora Straight Sword;Straight Sword;26;20;75.9;0;0;103.55;141.7;0;0;0
+Fire Astora Straight Sword;Straight Sword;0;0;0;0;0;179.85;0;179.85;0;0
+Chaos Astora Straight Sword;Straight Sword;31.2;24;50.6;50.6;0;109;0;141.7;0;0
+Lightning Astora Straight Sword;Straight Sword;26;20;0;75.9;0;103.55;0;0;141.7;0
+Deep Astora Straight Sword;Straight Sword;0;0;0;0;0;179.85;0;0;0;179.85
+Dark Astora Straight Sword;Straight Sword;31.2;24;50.6;50.6;0;109;0;0;0;141.7
+Poison Astora Straight Sword;Straight Sword;36.4;28;0;0;0;199.95;0;0;0;0
+Blood Astora Straight Sword;Straight Sword;36.4;28;0;0;0;199.95;0;0;0;0
+Raw Astora Straight Sword;Straight Sword;0;0;0;0;0;322.5;0;0;0;0
+Blessed Astora Straight Sword;Straight Sword;28.6;22;0;59.8;0;141.7;0;0;0;0
+Hollow Astora Straight Sword;Straight Sword;36.4;28;0;0;21;245.1;0;0;0;0
+Barbed Straight Sword;Straight Sword;63;43.4;0;0;0;222;0;0;0;0
+Heavy Barbed Straight Sword;Straight Sword;94.5;0;0;0;0;205.35;0;0;0;0
+Sharp Barbed Straight Sword;Straight Sword;49.5;74.4;0;0;0;205.35;0;0;0;0
+Refined Barbed Straight Sword;Straight Sword;76.8;76.8;0;0;0;199.8;0;0;0;0
+Simple Barbed Straight Sword;Straight Sword;58.5;40.3;106.4;0;0;106;121.9;0;0;0
+Crystal Barbed Straight Sword;Straight Sword;45;31;125.4;0;0;100.7;137.8;0;0;0
+Fire Barbed Straight Sword;Straight Sword;0;0;0;0;0;174.9;0;174.9;0;0
+Chaos Barbed Straight Sword;Straight Sword;54;37.2;83.6;83.6;0;106;0;137.8;0;0
+Lightning Barbed Straight Sword;Straight Sword;45;31;0;125.4;0;100.7;0;0;137.8;0
+Deep Barbed Straight Sword;Straight Sword;0;0;0;0;0;174.9;0;0;0;174.9
+Dark Barbed Straight Sword;Straight Sword;54;37.2;83.6;83.6;0;106;0;0;0;137.8
+Poison Barbed Straight Sword;Straight Sword;63;43.4;0;0;0;172.05;0;0;0;0
+Blood Barbed Straight Sword;Straight Sword;63;43.4;0;0;0;172.05;0;0;0;0
+Raw Barbed Straight Sword;Straight Sword;0;0;0;0;0;277.5;0;0;0;0
+Blessed Barbed Straight Sword;Straight Sword;49.5;34.1;0;98.8;0;137.8;0;0;0;0
+Hollow Barbed Straight Sword;Straight Sword;63;43.4;0;0;33;210.9;0;0;0;0
+Executioner's Greatsword;Greatsword;85.4;28;0;0;0;262;0;0;0;0
+Anri's Straight Sword;Straight Sword;21;19.6;0;11.2;110.6;204;0;0;0;0
+Estoc;Thrusting Sword;35;70;0;0;0;210;0;0;0;0
+Heavy Estoc;Thrusting Sword;86.1;0;0;0;0;194.25;0;0;0;0
+Sharp Estoc;Thrusting Sword;17.6;94.5;0;0;0;194.25;0;0;0;0
+Refined Estoc;Thrusting Sword;75.2;75.2;0;0;0;189;0;0;0;0
+Simple Estoc;Thrusting Sword;32.5;65;105;0;0;100;115;0;0;0
+Crystal Estoc;Thrusting Sword;25;50;123.75;0;0;95;130;0;0;0
+Fire Estoc;Thrusting Sword;0;0;0;0;0;165;0;165;0;0
+Chaos Estoc;Thrusting Sword;30;60;82.5;82.5;0;100;0;130;0;0
+Lightning Estoc;Thrusting Sword;25;50;0;123.75;0;95;0;0;130;0
+Deep Estoc;Thrusting Sword;0;0;0;0;0;165;0;0;0;165
+Dark Estoc;Thrusting Sword;30;60;82.5;82.5;0;100;0;0;0;130
+Poison Estoc;Thrusting Sword;35;70;0;0;0;162.75;0;0;0;0
+Blood Estoc;Thrusting Sword;35;70;0;0;0;162.75;0;0;0;0
+Raw Estoc;Thrusting Sword;0;0;0;0;0;262.5;0;0;0;0
+Blessed Estoc;Thrusting Sword;27.5;55;0;97.5;0;130;0;0;0;0
+Hollow Estoc;Thrusting Sword;35;70;0;0;33;199.5;0;0;0;0
+Mail Breaker;Dagger;14;35;0;0;0;160;0;0;0;0
+Heavy Mail Breaker;Dagger;44.1;0;0;0;0;148;0;0;0;0
+Sharp Mail Breaker;Dagger;5.5;52.5;0;0;0;148;0;0;0;0
+Refined Mail Breaker;Dagger;43.2;43.2;0;0;0;144;0;0;0;0
+Simple Mail Breaker;Dagger;13;32.5;49;0;0;70;80.5;0;0;0
+Crystal Mail Breaker;Dagger;10;25;57.75;0;0;66.5;91;0;0;0
+Fire Mail Breaker;Dagger;0;0;0;0;0;115.5;0;115.5;0;0
+Chaos Mail Breaker;Dagger;12;30;38.5;38.5;0;70;0;91;0;0
+Lightning Mail Breaker;Dagger;10;25;0;57.75;0;66.5;0;0;91;0
+Deep Mail Breaker;Dagger;0;0;0;0;0;115.5;0;0;0;115.5
+Dark Mail Breaker;Dagger;12;30;38.5;38.5;0;70;0;0;0;91
+Poison Mail Breaker;Dagger;14;35;0;0;0;124;0;0;0;0
+Blood Mail Breaker;Dagger;14;35;0;0;0;124;0;0;0;0
+Raw Mail Breaker;Dagger;0;0;0;0;0;200;0;0;0;0
+Blessed Mail Breaker;Dagger;11;27.5;0;45.5;0;91;0;0;0;0
+Hollow Mail Breaker;Dagger;14;35;0;0;15;152;0;0;0;0
+Rapier;Thrusting Sword;28;84;0;0;0;190;0;0;0;0
+Heavy Rapier;Thrusting Sword;92.4;0;0;0;0;175.75;0;0;0;0
+Sharp Rapier;Thrusting Sword;14.3;113.4;0;0;0;175.75;0;0;0;0
+Refined Rapier;Thrusting Sword;80;80;0;0;0;171;0;0;0;0
+Simple Rapier;Thrusting Sword;26;78;112;0;0;95;109.25;0;0;0
+Crystal Rapier;Thrusting Sword;20;60;132;0;0;90.25;123.5;0;0;0
+Fire Rapier;Thrusting Sword;0;0;0;0;0;156.75;0;156.75;0;0
+Chaos Rapier;Thrusting Sword;24;72;88;88;0;95;0;123.5;0;0
+Lightning Rapier;Thrusting Sword;20;60;0;132;0;90.25;0;0;123.5;0
+Deep Rapier;Thrusting Sword;0;0;0;0;0;156.75;0;0;0;156.75
+Dark Rapier;Thrusting Sword;24;72;88;88;0;95;0;0;0;123.5
+Poison Rapier;Thrusting Sword;28;84;0;0;0;147.25;0;0;0;0
+Blood Rapier;Thrusting Sword;28;84;0;0;0;147.25;0;0;0;0
+Raw Rapier;Thrusting Sword;0;0;0;0;0;237.5;0;0;0;0
+Blessed Rapier;Thrusting Sword;22;66;0;104;0;123.5;0;0;0;0
+Hollow Rapier;Thrusting Sword;28;84;0;0;36;180.5;0;0;0;0
+Ricard's Rapier;Thrusting Sword;29.4;84;0;0;0;194;0;0;0;0
+Heavy Ricard's Rapier;Thrusting Sword;92.4;0;0;0;0;179.45;0;0;0;0
+Sharp Ricard's Rapier;Thrusting Sword;14.3;113.4;0;0;0;179.45;0;0;0;0
+Refined Ricard's Rapier;Thrusting Sword;80;80;0;0;0;174.6;0;0;0;0
+Simple Ricard's Rapier;Thrusting Sword;27.3;78;113.4;0;0;97;111.55;0;0;0
+Crystal Ricard's Rapier;Thrusting Sword;21;60;133.65;0;0;92.15;126.1;0;0;0
+Fire Ricard's Rapier;Thrusting Sword;0;0;0;0;0;160.05;0;160.05;0;0
+Chaos Ricard's Rapier;Thrusting Sword;25.2;72;89.1;89.1;0;97;0;126.1;0;0
+Lightning Ricard's Rapier;Thrusting Sword;21;60;0;133.65;0;92.15;0;0;126.1;0
+Deep Ricard's Rapier;Thrusting Sword;0;0;0;0;0;160.05;0;0;0;160.05
+Dark Ricard's Rapier;Thrusting Sword;25.2;72;89.1;89.1;0;97;0;0;0;126.1
+Poison Ricard's Rapier;Thrusting Sword;29.4;84;0;0;0;150.35;0;0;0;0
+Blood Ricard's Rapier;Thrusting Sword;29.4;84;0;0;0;150.35;0;0;0;0
+Raw Ricard's Rapier;Thrusting Sword;0;0;0;0;0;242.5;0;0;0;0
+Blessed Ricard's Rapier;Thrusting Sword;23.1;66;0;105.3;0;126.1;0;0;0;0
+Hollow Ricard's Rapier;Thrusting Sword;29.4;84;0;0;37.5;184.3;0;0;0;0
+Crystal Sage's Rapier;Thrusting Sword;21;28;105;0;0;100;150;0;0;0
+Irithyll Rapier;Thrusting Sword;57.4;70;0;0;0;202;0;0;0;0
+Shotel;Curved Sword;21;81.2;0;0;0;208;0;0;0;0
+Heavy Shotel;Curved Sword;84;0;0;0;0;192.4;0;0;0;0
+Sharp Shotel;Curved Sword;7.7;102.9;0;0;0;192.4;0;0;0;0
+Refined Shotel;Curved Sword;73.6;73.6;0;0;0;187.2;0;0;0;0
+Simple Shotel;Curved Sword;19.5;75.4;102.2;0;0;104;119.6;0;0;0
+Crystal Shotel;Curved Sword;15;58;120.45;0;0;98.8;135.2;0;0;0
+Fire Shotel;Curved Sword;0;0;0;0;0;171.6;0;171.6;0;0
+Chaos Shotel;Curved Sword;18;69.6;80.3;80.3;0;104;0;135.2;0;0
+Lightning Shotel;Curved Sword;15;58;0;120.45;0;98.8;0;0;135.2;0
+Deep Shotel;Curved Sword;0;0;0;0;0;171.6;0;0;0;171.6
+Dark Shotel;Curved Sword;18;69.6;80.3;80.3;0;104;0;0;0;135.2
+Poison Shotel;Curved Sword;21;81.2;0;0;0;161.2;0;0;0;0
+Blood Shotel;Curved Sword;21;81.2;0;0;0;161.2;0;0;0;0
+Raw Shotel;Curved Sword;0;0;0;0;0;260;0;0;0;0
+Blessed Shotel;Curved Sword;16.5;63.8;0;94.9;0;135.2;0;0;0;0
+Hollow Shotel;Curved Sword;21;81.2;0;0;31.5;197.6;0;0;0;0
+Scimitar;Curved Sword;7;112;0;0;0;180;0;0;0;0
+Heavy Scimitar;Curved Sword;96.6;0;0;0;0;166.5;0;0;0;0
+Sharp Scimitar;Curved Sword;2.2;142.8;0;0;0;166.5;0;0;0;0
+Refined Scimitar;Curved Sword;83.2;83.2;0;0;0;162;0;0;0;0
+Simple Scimitar;Curved Sword;6.5;104;119;0;0;90;103.5;0;0;0
+Crystal Scimitar;Curved Sword;5;80;140.25;0;0;85.5;117;0;0;0
+Fire Scimitar;Curved Sword;0;0;0;0;0;148.5;0;148.5;0;0
+Chaos Scimitar;Curved Sword;6;96;93.5;93.5;0;90;0;117;0;0
+Lightning Scimitar;Curved Sword;5;80;0;140.25;0;85.5;0;0;117;0
+Deep Scimitar;Curved Sword;0;0;0;0;0;148.5;0;0;0;148.5
+Dark Scimitar;Curved Sword;6;96;93.5;93.5;0;90;0;0;0;117
+Poison Scimitar;Curved Sword;7;112;0;0;0;139.5;0;0;0;0
+Blood Scimitar;Curved Sword;7;112;0;0;0;139.5;0;0;0;0
+Raw Scimitar;Curved Sword;0;0;0;0;0;225;0;0;0;0
+Blessed Scimitar;Curved Sword;5.5;88;0;110.5;0;117;0;0;0;0
+Hollow Scimitar;Curved Sword;7;112;0;0;37.5;171;0;0;0;0
+Falchion;Curved Sword;35;63;0;0;0;234;0;0;0;0
+Heavy Falchion;Curved Sword;79.8;0;0;0;0;216.45;0;0;0;0
+Sharp Falchion;Curved Sword;17.6;84;0;0;0;216.45;0;0;0;0
+Refined Falchion;Curved Sword;72;72;0;0;0;210.6;0;0;0;0
+Simple Falchion;Curved Sword;32.5;58.5;98;0;0;112;128.8;0;0;0
+Crystal Falchion;Curved Sword;25;45;115.5;0;0;106.4;145.6;0;0;0
+Fire Falchion;Curved Sword;0;0;0;0;0;184.8;0;184.8;0;0
+Chaos Falchion;Curved Sword;30;54;77;77;0;112;0;145.6;0;0
+Lightning Falchion;Curved Sword;25;45;0;115.5;0;106.4;0;0;145.6;0
+Deep Falchion;Curved Sword;0;0;0;0;0;184.8;0;0;0;184.8
+Dark Falchion;Curved Sword;30;54;77;77;0;112;0;0;0;145.6
+Poison Falchion;Curved Sword;35;63;0;0;0;181.35;0;0;0;0
+Blood Falchion;Curved Sword;35;63;0;0;0;181.35;0;0;0;0
+Raw Falchion;Curved Sword;0;0;0;0;0;292.5;0;0;0;0
+Blessed Falchion;Curved Sword;27.5;49.5;0;91;0;145.6;0;0;0;0
+Hollow Falchion;Curved Sword;35;63;0;0;31.5;222.3;0;0;0;0
+Carthus Curved Sword;Curved Sword;43.4;70;0;0;0;230;0;0;0;0
+Heavy Carthus Curved Sword;Curved Sword;92.4;0;0;0;0;212.75;0;0;0;0
+Sharp Carthus Curved Sword;Curved Sword;22;94.5;0;0;0;212.75;0;0;0;0
+Refined Carthus Curved Sword;Curved Sword;80;80;0;0;0;207;0;0;0;0
+Simple Carthus Curved Sword;Curved Sword;40.3;65;113.4;0;0;115;132.25;0;0;0
+Crystal Carthus Curved Sword;Curved Sword;31;50;133.65;0;0;109.25;149.5;0;0;0
+Fire Carthus Curved Sword;Curved Sword;0;0;0;0;0;189.75;0;189.75;0;0
+Chaos Carthus Curved Sword;Curved Sword;37.2;60;89.1;89.1;0;115;0;149.5;0;0
+Lightning Carthus Curved Sword;Curved Sword;31;50;0;133.65;0;109.25;0;0;149.5;0
+Deep Carthus Curved Sword;Curved Sword;0;0;0;0;0;189.75;0;0;0;189.75
+Dark Carthus Curved Sword;Curved Sword;37.2;60;89.1;89.1;0;115;0;0;0;149.5
+Poison Carthus Curved Sword;Curved Sword;43.4;70;0;0;0;178.25;0;0;0;0
+Blood Carthus Curved Sword;Curved Sword;43.4;70;0;0;0;178.25;0;0;0;0
+Raw Carthus Curved Sword;Curved Sword;0;0;0;0;0;287.5;0;0;0;0
+Blessed Carthus Curved Sword;Curved Sword;34.1;55;0;105.3;0;149.5;0;0;0;0
+Hollow Carthus Curved Sword;Curved Sword;43.4;70;0;0;37.5;218.5;0;0;0;0
+Carthus Curved Greatsword;Curved Greatsword;57.4;77;0;0;0;244;0;0;0;0
+Heavy Carthus Curved Greatsword;Curved Greatsword;109.2;0;0;0;0;225.7;0;0;0;0
+Sharp Carthus Curved Greatsword;Curved Greatsword;28.6;102.9;0;0;0;225.7;0;0;0;0
+Refined Carthus Curved Greatsword;Curved Greatsword;92.8;92.8;0;0;0;219.6;0;0;0;0
+Simple Carthus Curved Greatsword;Curved Greatsword;53.3;71.5;134.4;0;0;117;134.55;0;0;0
+Crystal Carthus Curved Greatsword;Curved Greatsword;41;55;158.4;0;0;111.15;152.1;0;0;0
+Fire Carthus Curved Greatsword;Curved Greatsword;0;0;0;0;0;193.05;0;193.05;0;0
+Chaos Carthus Curved Greatsword;Curved Greatsword;49.2;66;105.6;105.6;0;117;0;152.1;0;0
+Lightning Carthus Curved Greatsword;Curved Greatsword;41;55;0;158.4;0;111.15;0;0;152.1;0
+Deep Carthus Curved Greatsword;Curved Greatsword;0;0;0;0;0;193.05;0;0;0;193.05
+Dark Carthus Curved Greatsword;Curved Greatsword;49.2;66;105.6;105.6;0;117;0;0;0;152.1
+Poison Carthus Curved Greatsword;Curved Greatsword;57.4;77;0;0;0;189.1;0;0;0;0
+Blood Carthus Curved Greatsword;Curved Greatsword;57.4;77;0;0;0;189.1;0;0;0;0
+Raw Carthus Curved Greatsword;Curved Greatsword;0;0;0;0;0;305;0;0;0;0
+Blessed Carthus Curved Greatsword;Curved Greatsword;45.1;60.5;0;124.8;0;152.1;0;0;0;0
+Hollow Carthus Curved Greatsword;Curved Greatsword;57.4;77;0;0;42;231.8;0;0;0;0
+Pontiff Knight Curved Sword;Curved Sword;43.4;68.6;0;0;0;214;0;0;0;0
+Storm Curved Sword;Curved Sword;29.4;84;0;0;0;200;0;0;0;0
+Painting Guardian's Curved Sword;Curved Sword;7;113.4;0;0;0;176;0;0;0;0
+Heavy Painting Guardian's Curved Sword;Curved Sword;115.5;0;0;0;0;162.8;0;0;0;0
+Sharp Painting Guardian's Curved Sword;Curved Sword;2.2;142.8;0;0;0;162.8;0;0;0;0
+Refined Painting Guardian's Curved Sword;Curved Sword;84.8;84.8;0;0;0;158.4;0;0;0;0
+Simple Painting Guardian's Curved Sword;Curved Sword;6.5;105.3;120.4;0;0;88;101.2;0;0;0
+Crystal Painting Guardian's Curved Sword;Curved Sword;5;81;141.9;0;0;83.6;114.4;0;0;0
+Fire Painting Guardian's Curved Sword;Curved Sword;0;0;0;0;0;145.2;0;145.2;0;0
+Chaos Painting Guardian's Curved Sword;Curved Sword;6;97.2;94.6;94.6;0;88;0;114.4;0;0
+Lightning Painting Guardian's Curved Sword;Curved Sword;5;81;0;141.9;0;83.6;0;0;114.4;0
+Deep Painting Guardian's Curved Sword;Curved Sword;0;0;0;0;0;145.2;0;0;0;145.2
+Dark Painting Guardian's Curved Sword;Curved Sword;6;97.2;94.6;94.6;0;88;0;0;0;114.4
+Poison Painting Guardian's Curved Sword;Curved Sword;7;113.4;0;0;0;136.4;0;0;0;0
+Blood Painting Guardian's Curved Sword;Curved Sword;7;113.4;0;0;0;136.4;0;0;0;0
+Raw Painting Guardian's Curved Sword;Curved Sword;0;0;0;0;0;220;0;0;0;0
+Blessed Painting Guardian's Curved Sword;Curved Sword;5.5;89.1;0;111.8;0;114.4;0;0;0;0
+Hollow Painting Guardian's Curved Sword;Curved Sword;7;113.4;0;0;37.5;167.2;0;0;0;0
+Crescent Moon Sword;Curved Sword;0;77;43.4;0;0;142;142;0;0;0
+Carthus Shotel;Curved Sword;21;81.2;0;0;0;212;0;0;0;0
+Heavy Carthus Shotel;Curved Sword;98.7;0;0;0;0;196.1;0;0;0;0
+Sharp Carthus Shotel;Curved Sword;7.7;102.9;0;0;0;196.1;0;0;0;0
+Refined Carthus Shotel;Curved Sword;73.6;73.6;0;0;0;190.8;0;0;0;0
+Simple Carthus Shotel;Curved Sword;19.5;75.4;102.2;0;0;101;116.15;0;0;0
+Crystal Carthus Shotel;Curved Sword;15;58;120.45;0;0;95.95;131.3;0;0;0
+Fire Carthus Shotel;Curved Sword;0;0;0;0;0;166.65;0;166.65;0;0
+Chaos Carthus Shotel;Curved Sword;18;69.6;80.3;80.3;0;101;0;131.3;0;0
+Lightning Carthus Shotel;Curved Sword;15;58;0;120.45;0;95.95;0;0;131.3;0
+Deep Carthus Shotel;Curved Sword;0;0;0;0;0;166.65;0;0;0;166.65
+Dark Carthus Shotel;Curved Sword;18;69.6;80.3;80.3;0;101;0;0;0;131.3
+Poison Carthus Shotel;Curved Sword;21;81.2;0;0;0;164.3;0;0;0;0
+Blood Carthus Shotel;Curved Sword;21;81.2;0;0;0;164.3;0;0;0;0
+Raw Carthus Shotel;Curved Sword;0;0;0;0;0;265;0;0;0;0
+Blessed Carthus Shotel;Curved Sword;16.5;63.8;0;94.9;0;131.3;0;0;0;0
+Hollow Carthus Shotel;Curved Sword;21;81.2;0;0;31.5;201.4;0;0;0;0
+Uchigatana;Katana;28;70;0;0;0;230;0;0;0;0
+Heavy Uchigatana;Katana;79.8;0;0;0;0;212.75;0;0;0;0
+Sharp Uchigatana;Katana;14.3;94.5;0;0;0;212.75;0;0;0;0
+Refined Uchigatana;Katana;64;64;0;0;0;207;0;0;0;0
+Simple Uchigatana;Katana;26;65;98;0;0;110;126.5;0;0;0
+Crystal Uchigatana;Katana;20;50;115.5;0;0;104.5;143;0;0;0
+Fire Uchigatana;Katana;0;0;0;0;0;181.5;0;181.5;0;0
+Chaos Uchigatana;Katana;24;60;77;77;0;110;0;143;0;0
+Lightning Uchigatana;Katana;20;50;0;115.5;0;104.5;0;0;143;0
+Deep Uchigatana;Katana;0;0;0;0;0;181.5;0;0;0;181.5
+Dark Uchigatana;Katana;24;60;77;77;0;110;0;0;0;143
+Poison Uchigatana;Katana;28;70;0;0;0;178.25;0;0;0;0
+Blood Uchigatana;Katana;28;70;0;0;0;178.25;0;0;0;0
+Raw Uchigatana;Katana;0;0;0;0;0;287.5;0;0;0;0
+Blessed Uchigatana;Katana;22;55;0;91;0;143;0;0;0;0
+Hollow Uchigatana;Katana;28;70;0;0;31.5;218.5;0;0;0;0
+Washing Pole;Katana;35;63;0;0;0;242;0;0;0;0
+Heavy Washing Pole;Katana;79.8;0;0;0;0;223.85;0;0;0;0
+Sharp Washing Pole;Katana;17.6;84;0;0;0;223.85;0;0;0;0
+Refined Washing Pole;Katana;64;64;0;0;0;217.8;0;0;0;0
+Simple Washing Pole;Katana;32.5;58.5;98;0;0;111;127.65;0;0;0
+Crystal Washing Pole;Katana;25;45;115.5;0;0;105.45;144.3;0;0;0
+Fire Washing Pole;Katana;0;0;0;0;0;183.15;0;183.15;0;0
+Chaos Washing Pole;Katana;30;54;77;77;0;111;0;144.3;0;0
+Lightning Washing Pole;Katana;25;45;0;115.5;0;105.45;0;0;144.3;0
+Deep Washing Pole;Katana;0;0;0;0;0;183.15;0;0;0;183.15
+Dark Washing Pole;Katana;30;54;77;77;0;111;0;0;0;144.3
+Poison Washing Pole;Katana;35;63;0;0;0;187.55;0;0;0;0
+Blood Washing Pole;Katana;35;63;0;0;0;187.55;0;0;0;0
+Raw Washing Pole;Katana;0;0;0;0;0;302.5;0;0;0;0
+Blessed Washing Pole;Katana;27.5;49.5;0;91;0;144.3;0;0;0;0
+Hollow Washing Pole;Katana;35;63;0;0;30;229.9;0;0;0;0
+Chaos Blade;Katana;7;170.8;0;0;0;180;0;0;0;0
+Black Blade;Katana;29.4;68.6;0;0;0;244;0;0;0;0
+Heavy Black Blade;Katana;79.8;0;0;0;0;225.7;0;0;0;0
+Sharp Black Blade;Katana;14.3;92.4;0;0;0;225.7;0;0;0;0
+Refined Black Blade;Katana;64;64;0;0;0;219.6;0;0;0;0
+Simple Black Blade;Katana;27.3;63.7;98;0;0;117;134.55;0;0;0
+Crystal Black Blade;Katana;21;49;115.5;0;0;111.15;152.1;0;0;0
+Fire Black Blade;Katana;0;0;0;0;0;193.05;0;193.05;0;0
+Chaos Black Blade;Katana;25.2;58.8;77;77;0;117;0;152.1;0;0
+Lightning Black Blade;Katana;21;49;0;115.5;0;111.15;0;0;152.1;0
+Deep Black Blade;Katana;0;0;0;0;0;193.05;0;0;0;193.05
+Dark Black Blade;Katana;25.2;58.8;77;77;0;117;0;0;0;152.1
+Poison Black Blade;Katana;29.4;68.6;0;0;0;189.1;0;0;0;0
+Blood Black Blade;Katana;29.4;68.6;0;0;0;189.1;0;0;0;0
+Raw Black Blade;Katana;0;0;0;0;0;305;0;0;0;0
+Blessed Black Blade;Katana;23.1;53.9;0;91;0;152.1;0;0;0;0
+Hollow Black Blade;Katana;29.4;68.6;0;0;33;231.8;0;0;0;0
+Bloodlust;Katana;8.4;110.6;0;0;0;184;0;0;0;0
+Darkdrift;Katana;28;57.4;0;0;0;234;0;0;0;0
+Bastard Sword;Greatsword;63;42;0;0;0;276;0;0;0;0
+Heavy Bastard Sword;Greatsword;94.5;0;0;0;0;255.3;0;0;0;0
+Sharp Bastard Sword;Greatsword;49.5;72;0;0;0;255.3;0;0;0;0
+Refined Bastard Sword;Greatsword;75.2;75.2;0;0;0;248.4;0;0;0;0
+Simple Bastard Sword;Greatsword;58.5;39;105;0;0;128;147.2;0;0;0
+Crystal Bastard Sword;Greatsword;45;30;123.75;0;0;121.6;166.4;0;0;0
+Fire Bastard Sword;Greatsword;0;0;0;0;0;211.2;0;211.2;0;0
+Chaos Bastard Sword;Greatsword;54;36;82.5;82.5;0;128;0;166.4;0;0
+Lightning Bastard Sword;Greatsword;45;30;0;123.75;0;121.6;0;0;166.4;0
+Deep Bastard Sword;Greatsword;0;0;0;0;0;211.2;0;0;0;211.2
+Dark Bastard Sword;Greatsword;54;36;82.5;82.5;0;128;0;0;0;166.4
+Poison Bastard Sword;Greatsword;63;42;0;0;0;213.9;0;0;0;0
+Blood Bastard Sword;Greatsword;63;42;0;0;0;213.9;0;0;0;0
+Raw Bastard Sword;Greatsword;0;0;0;0;0;345;0;0;0;0
+Blessed Bastard Sword;Greatsword;49.5;33;0;97.5;0;166.4;0;0;0;0
+Hollow Bastard Sword;Greatsword;63;42;0;0;28.5;262.2;0;0;0;0
+Claymore;Greatsword;56;49;0;0;0;276;0;0;0;0
+Heavy Claymore;Greatsword;84;0;0;0;0;255.3;0;0;0;0
+Sharp Claymore;Greatsword;44;84;0;0;0;255.3;0;0;0;0
+Refined Claymore;Greatsword;75.2;75.2;0;0;0;248.4;0;0;0;0
+Simple Claymore;Greatsword;52;45.5;105;0;0;128;147.2;0;0;0
+Crystal Claymore;Greatsword;40;35;123.75;0;0;121.6;166.4;0;0;0
+Fire Claymore;Greatsword;0;0;0;0;0;211.2;0;211.2;0;0
+Chaos Claymore;Greatsword;48;42;82.5;82.5;0;128;0;166.4;0;0
+Lightning Claymore;Greatsword;40;35;0;123.75;0;121.6;0;0;166.4;0
+Deep Claymore;Greatsword;0;0;0;0;0;211.2;0;0;0;211.2
+Dark Claymore;Greatsword;48;42;82.5;82.5;0;128;0;0;0;166.4
+Poison Claymore;Greatsword;56;49;0;0;0;213.9;0;0;0;0
+Blood Claymore;Greatsword;56;49;0;0;0;213.9;0;0;0;0
+Raw Claymore;Greatsword;0;0;0;0;0;345;0;0;0;0
+Blessed Claymore;Greatsword;44;38.5;0;97.5;0;166.4;0;0;0;0
+Hollow Claymore;Greatsword;56;49;0;0;30;262.2;0;0;0;0
+Zweihander;Ultra Greatsword;70;49;0;0;0;290;0;0;0;0
+Heavy Zweihander;Ultra Greatsword;105;0;0;0;0;268.25;0;0;0;0
+Sharp Zweihander;Ultra Greatsword;55;84;0;0;0;268.25;0;0;0;0
+Refined Zweihander;Ultra Greatsword;83.2;83.2;0;0;0;261;0;0;0;0
+Simple Zweihander;Ultra Greatsword;65;45.5;119;0;0;135;155.25;0;0;0
+Crystal Zweihander;Ultra Greatsword;50;35;140.25;0;0;128.25;175.5;0;0;0
+Fire Zweihander;Ultra Greatsword;0;0;0;0;0;222.75;0;222.75;0;0
+Chaos Zweihander;Ultra Greatsword;60;42;93.5;93.5;0;135;0;175.5;0;0
+Lightning Zweihander;Ultra Greatsword;50;35;0;140.25;0;128.25;0;0;175.5;0
+Deep Zweihander;Ultra Greatsword;0;0;0;0;0;222.75;0;0;0;222.75
+Dark Zweihander;Ultra Greatsword;60;42;93.5;93.5;0;135;0;0;0;175.5
+Poison Zweihander;Ultra Greatsword;70;49;0;0;0;224.75;0;0;0;0
+Blood Zweihander;Ultra Greatsword;70;49;0;0;0;224.75;0;0;0;0
+Raw Zweihander;Ultra Greatsword;0;0;0;0;0;362.5;0;0;0;0
+Blessed Zweihander;Ultra Greatsword;55;38.5;0;110.5;0;175.5;0;0;0;0
+Hollow Zweihander;Ultra Greatsword;70;49;0;0;33;275.5;0;0;0;0
+Greatsword;Ultra Greatsword;63;56;0;0;0;318;0;0;0;0
+Heavy Greatsword;Ultra Greatsword;94.5;0;0;0;0;294.15;0;0;0;0
+Sharp Greatsword;Ultra Greatsword;14.3;96;0;0;0;294.15;0;0;0;0
+Refined Greatsword;Ultra Greatsword;75.2;75.2;0;0;0;286.2;0;0;0;0
+Simple Greatsword;Ultra Greatsword;58.5;52;119;0;0;144;165.6;0;0;0
+Crystal Greatsword;Ultra Greatsword;45;40;140.25;0;0;136.8;187.2;0;0;0
+Fire Greatsword;Ultra Greatsword;0;0;0;0;0;237.6;0;237.6;0;0
+Chaos Greatsword;Ultra Greatsword;54;48;93.5;93.5;0;144;0;187.2;0;0
+Lightning Greatsword;Ultra Greatsword;45;40;0;140.25;0;136.8;0;0;187.2;0
+Deep Greatsword;Ultra Greatsword;0;0;0;0;0;237.6;0;0;0;237.6
+Dark Greatsword;Ultra Greatsword;54;48;93.5;93.5;0;144;0;0;0;187.2
+Poison Greatsword;Ultra Greatsword;63;56;0;0;0;246.45;0;0;0;0
+Blood Greatsword;Ultra Greatsword;63;56;0;0;0;246.45;0;0;0;0
+Raw Greatsword;Ultra Greatsword;0;0;0;0;0;397.5;0;0;0;0
+Blessed Greatsword;Ultra Greatsword;49.5;44;0;110.5;0;187.2;0;0;0;0
+Hollow Greatsword;Ultra Greatsword;63;56;0;0;34.5;302.1;0;0;0;0
+Astora Greatsword;Ultra Greatsword;63;71.4;0;0;0;264;0;0;0;0
+Heavy Astora Greatsword;Ultra Greatsword;109.2;0;0;0;0;244.2;0;0;0;0
+Sharp Astora Greatsword;Ultra Greatsword;31.9;94.5;0;0;0;244.2;0;0;0;0
+Refined Astora Greatsword;Ultra Greatsword;92.8;92.8;0;0;0;237.6;0;0;0;0
+Simple Astora Greatsword;Ultra Greatsword;58.5;66.3;134.4;0;0;132;151.8;0;0;0
+Crystal Astora Greatsword;Ultra Greatsword;45;51;158.4;0;0;125.4;171.6;0;0;0
+Fire Astora Greatsword;Ultra Greatsword;0;0;0;0;0;217.8;0;217.8;0;0
+Chaos Astora Greatsword;Ultra Greatsword;54;61.2;105.6;105.6;0;132;0;171.6;0;0
+Lightning Astora Greatsword;Ultra Greatsword;45;51;0;158.4;0;125.4;0;0;171.6;0
+Deep Astora Greatsword;Ultra Greatsword;0;0;0;0;0;217.8;0;0;0;217.8
+Dark Astora Greatsword;Ultra Greatsword;54;61.2;105.6;105.6;0;132;0;0;0;171.6
+Poison Astora Greatsword;Ultra Greatsword;63;71.4;0;0;0;204.6;0;0;0;0
+Blood Astora Greatsword;Ultra Greatsword;63;71.4;0;0;0;204.6;0;0;0;0
+Raw Astora Greatsword;Ultra Greatsword;0;0;0;0;0;330;0;0;0;0
+Blessed Astora Greatsword;Ultra Greatsword;49.5;56.1;0;124.8;0;171.6;0;0;0;0
+Hollow Astora Greatsword;Ultra Greatsword;63;71.4;0;0;39;250.8;0;0;0;0
+Murakumo;Curved Greatsword;58.8;74.2;0;0;0;250;0;0;0;0
+Heavy Murakumo;Curved Greatsword;109.2;0;0;0;0;231.25;0;0;0;0
+Sharp Murakumo;Curved Greatsword;23.1;111.3;0;0;0;231.25;0;0;0;0
+Refined Murakumo;Curved Greatsword;91.2;91.2;0;0;0;225;0;0;0;0
+Simple Murakumo;Curved Greatsword;54.6;68.9;133;0;0;120;138;0;0;0
+Crystal Murakumo;Curved Greatsword;42;53;156.75;0;0;114;156;0;0;0
+Fire Murakumo;Curved Greatsword;0;0;0;0;0;198;0;198;0;0
+Chaos Murakumo;Curved Greatsword;50.4;63.6;104.5;104.5;0;120;0;156;0;0
+Lightning Murakumo;Curved Greatsword;42;53;0;156.75;0;114;0;0;156;0
+Deep Murakumo;Curved Greatsword;0;0;0;0;0;198;0;0;0;198
+Dark Murakumo;Curved Greatsword;50.4;63.6;104.5;104.5;0;120;0;0;0;156
+Poison Murakumo;Curved Greatsword;58.8;74.2;0;0;0;193.75;0;0;0;0
+Blood Murakumo;Curved Greatsword;58.8;74.2;0;0;0;193.75;0;0;0;0
+Raw Murakumo;Curved Greatsword;0;0;0;0;0;312.5;0;0;0;0
+Blessed Murakumo;Curved Greatsword;46.2;58.3;0;123.5;0;156;0;0;0;0
+Hollow Murakumo;Curved Greatsword;58.8;74.2;0;0;42;237.5;0;0;0;0
+Lothric Knight Greatsword;Ultra Greatsword;43.4;63;0;0;0;262;0;0;174;0
+Heavy Lothric Knight Greatsword;Ultra Greatsword;86.1;0;0;0;0;242.35;0;0;174;0
+Sharp Lothric Knight Greatsword;Ultra Greatsword;22;84;0;0;0;242.35;0;0;174;0
+Refined Lothric Knight Greatsword;Ultra Greatsword;76.8;76.8;0;0;0;235.8;0;0;174;0
+Simple Lothric Knight Greatsword;Ultra Greatsword;40.3;58.5;106.4;0;0;126;144.9;0;87;0
+Crystal Lothric Knight Greatsword;Ultra Greatsword;31;45;125.4;0;0;119.7;163.8;0;87;0
+Fire Lothric Knight Greatsword;Ultra Greatsword;0;0;0;0;0;207.9;0;207.9;87;0
+Chaos Lothric Knight Greatsword;Ultra Greatsword;37.2;54;83.6;83.6;0;126;0;163.8;87;0
+Lightning Lothric Knight Greatsword;Ultra Greatsword;31;45;0;125.4;0;119.7;0;0;215.8;0
+Deep Lothric Knight Greatsword;Ultra Greatsword;0;0;0;0;0;207.9;0;0;87;207.9
+Dark Lothric Knight Greatsword;Ultra Greatsword;37.2;54;83.6;83.6;0;126;0;0;87;163.8
+Poison Lothric Knight Greatsword;Ultra Greatsword;43.4;63;0;0;0;203.05;0;0;134.85;0
+Blood Lothric Knight Greatsword;Ultra Greatsword;43.4;63;0;0;0;203.05;0;0;134.85;0
+Raw Lothric Knight Greatsword;Ultra Greatsword;0;0;0;0;0;327.5;0;0;174;0
+Blessed Lothric Knight Greatsword;Ultra Greatsword;34.1;49.5;0;98.8;0;163.8;0;0;113.1;0
+Hollow Lothric Knight Greatsword;Ultra Greatsword;43.4;63;0;0;33;248.9;0;0;165.3;0
+Black Knight Greatsword;Ultra Greatsword;85.4;35;0;0;0;322;0;0;0;0
+Flamberge;Greatsword;35;29.4;0;0;0;316;0;0;0;0
+Heavy Flamberge;Greatsword;73.5;0;0;0;0;292.3;0;0;0;0
+Sharp Flamberge;Greatsword;27.5;50.4;0;0;0;292.3;0;0;0;0
+Refined Flamberge;Greatsword;52.8;52.8;0;0;0;284.4;0;0;0;0
+Simple Flamberge;Greatsword;32.5;27.3;64.4;0;0;128;147.2;0;0;0
+Crystal Flamberge;Greatsword;25;21;75.9;0;0;121.6;166.4;0;0;0
+Fire Flamberge;Greatsword;0;0;0;0;0;211.2;0;211.2;0;0
+Chaos Flamberge;Greatsword;30;25.2;50.6;50.6;0;128;0;166.4;0;0
+Lightning Flamberge;Greatsword;25;21;0;75.9;0;121.6;0;0;166.4;0
+Deep Flamberge;Greatsword;0;0;0;0;0;211.2;0;0;0;211.2
+Dark Flamberge;Greatsword;30;25.2;50.6;50.6;0;128;0;0;0;166.4
+Poison Flamberge;Greatsword;35;29.4;0;0;0;244.9;0;0;0;0
+Blood Flamberge;Greatsword;35;29.4;0;0;0;244.9;0;0;0;0
+Raw Flamberge;Greatsword;0;0;0;0;0;395;0;0;0;0
+Blessed Flamberge;Greatsword;27.5;23.1;0;59.8;0;166.4;0;0;0;0
+Hollow Flamberge;Greatsword;35;29.4;0;0;18;300.2;0;0;0;0
+Exile Greatsword;Curved Greatsword;56;63;0;0;0;292;0;0;0;0
+Heavy Exile Greatsword;Curved Greatsword;105;0;0;0;0;270.1;0;0;0;0
+Sharp Exile Greatsword;Curved Greatsword;44;108;0;0;0;270.1;0;0;0;0
+Refined Exile Greatsword;Curved Greatsword;83.2;83.2;0;0;0;262.8;0;0;0;0
+Simple Exile Greatsword;Curved Greatsword;52;58.5;119;0;0;131;150.65;0;0;0
+Crystal Exile Greatsword;Curved Greatsword;40;45;140.25;0;0;124.45;170.3;0;0;0
+Fire Exile Greatsword;Curved Greatsword;0;0;0;0;0;216.15;0;216.15;0;0
+Chaos Exile Greatsword;Curved Greatsword;48;54;93.5;93.5;0;131;0;170.3;0;0
+Lightning Exile Greatsword;Curved Greatsword;40;45;0;140.25;0;124.45;0;0;170.3;0
+Deep Exile Greatsword;Curved Greatsword;0;0;0;0;0;216.15;0;0;0;216.15
+Dark Exile Greatsword;Curved Greatsword;48;54;93.5;93.5;0;131;0;0;0;170.3
+Poison Exile Greatsword;Curved Greatsword;56;63;0;0;0;226.3;0;0;0;0
+Blood Exile Greatsword;Curved Greatsword;56;63;0;0;0;226.3;0;0;0;0
+Raw Exile Greatsword;Curved Greatsword;0;0;0;0;0;365;0;0;0;0
+Blessed Exile Greatsword;Curved Greatsword;44;49.5;0;110.5;0;170.3;0;0;0;0
+Hollow Exile Greatsword;Curved Greatsword;56;63;0;0;34.5;277.4;0;0;0;0
+Greatsword of Judgement;Greatsword;50.4;49;78.4;0;0;200;158;0;0;0
+Profaned Greatsword;Ultra Greatsword;78.4;63;0;0;0;294;0;0;0;0
+Cathedral Knight Greatsword;Ultra Greatsword;78.4;28;0;0;0;298;0;0;0;0
+Heavy Cathedral Knight Greatsword;Ultra Greatsword;106.4;0;0;0;0;275.65;0;0;0;0
+Sharp Cathedral Knight Greatsword;Ultra Greatsword;20.9;105.6;0;0;0;275.65;0;0;0;0
+Refined Cathedral Knight Greatsword;Ultra Greatsword;76.8;76.8;0;0;0;268.2;0;0;0;0
+Simple Cathedral Knight Greatsword;Ultra Greatsword;72.8;26;106.4;0;0;134;154.1;0;0;0
+Crystal Cathedral Knight Greatsword;Ultra Greatsword;56;20;125.4;0;0;127.3;174.2;0;0;0
+Fire Cathedral Knight Greatsword;Ultra Greatsword;0;0;0;0;0;221.1;0;221.1;0;0
+Chaos Cathedral Knight Greatsword;Ultra Greatsword;67.2;24;83.6;83.6;0;134;0;174.2;0;0
+Lightning Cathedral Knight Greatsword;Ultra Greatsword;56;20;0;125.4;0;127.3;0;0;174.2;0
+Deep Cathedral Knight Greatsword;Ultra Greatsword;0;0;0;0;0;221.1;0;0;0;221.1
+Dark Cathedral Knight Greatsword;Ultra Greatsword;67.2;24;83.6;83.6;0;134;0;0;0;174.2
+Poison Cathedral Knight Greatsword;Ultra Greatsword;78.4;28;0;0;0;230.95;0;0;0;0
+Blood Cathedral Knight Greatsword;Ultra Greatsword;78.4;28;0;0;0;230.95;0;0;0;0
+Raw Cathedral Knight Greatsword;Ultra Greatsword;0;0;0;0;0;372.5;0;0;0;0
+Blessed Cathedral Knight Greatsword;Ultra Greatsword;61.6;22;0;98.8;0;174.2;0;0;0;0
+Hollow Cathedral Knight Greatsword;Ultra Greatsword;78.4;28;0;0;28.5;283.1;0;0;0;0
+Farron Greatsword;Ultra Greatsword (Unique);57.4;102.2;0;0;0;228;0;0;0;0
+Yhorm's Great Machete;Greataxe;109.2;0;0;0;0;338;0;0;0;0
+Dark Sword;Straight Sword;78.4;42;0;0;0;220;0;0;0;0
+Heavy Dark Sword;Straight Sword;117.6;0;0;0;0;203;0;0;0;0
+Sharp Dark Sword;Straight Sword;61.6;72;0;0;0;203;0;0;0;0
+Refined Dark Sword;Straight Sword;84.8;84.8;0;0;0;198;0;0;0;0
+Simple Dark Sword;Straight Sword;72.8;39;120.4;0;0;105;120;0;0;0
+Crystal Dark Sword;Straight Sword;56;30;141.9;0;0;99;136;0;0;0
+Fire Dark Sword;Straight Sword;0;0;0;0;0;173;0;173;0;0
+Chaos Dark Sword;Straight Sword;67.2;36;94.6;94.6;0;105;0;136;0;0
+Lightning Dark Sword;Straight Sword;56;30;0;141.9;0;99;0;0;136;0
+Deep Dark Sword;Straight Sword;0;0;0;0;0;173;0;0;0;173
+Dark Dark Sword;Straight Sword;67.2;36;94.6;94.6;0;105;0;0;0;136
+Poison Dark Sword;Straight Sword;78.4;42;0;0;0;170;0;0;0;0
+Blood Dark Sword;Straight Sword;78.4;42;0;0;0;170;0;0;0;0
+Raw Dark Sword;Straight Sword;0;0;0;0;0;275;0;0;0;0
+Blessed Dark Sword;Straight Sword;61.6;33;0;111.8;0;136;0;0;0;0
+Hollow Dark Sword;Straight Sword;78.4;42;0;0;39;209;0;0;0;0
+Black Knight Sword;Greatsword;57.4;49;0;0;0;302;0;0;0;0
+Lorian's Greatsword;Ultra Greatsword;64.4;42;43.4;43.4;0;276;0;144;0;0
+Twin Princes' Greatsword;Greatsword;43.4;42;36.4;36.4;0;230;0;152;0;0
+Lothric's Holy Sword;Straight Sword;46.2;63;0;18.2;0;196;0;0;0;0
+Wolnir's Holy Sword;Greatsword;51.8;14;0;51.8;0;276;0;0;0;0
+Wolf Knight's Greatsword;Greatsword;79.8;61.6;0;0;0;254;0;0;0;0
+Hollowslayer Greatsword;Greatsword;49;78.4;0;0;0;264;0;0;0;0
+Moonlight Greatsword;Greatsword;18.2;0;100.8;0;0;126;238;0;0;0
+Drakeblood Greatsword;Greatsword;42;42;0;0;0;178;142;0;142;0
+Heavy Drakeblood Greatsword;Greatsword;84;0;0;0;0;164.65;142;0;142;0
+Sharp Drakeblood Greatsword;Greatsword;33;72;0;0;0;164.65;142;0;142;0
+Refined Drakeblood Greatsword;Greatsword;64;64;0;0;0;160.2;142;0;142;0
+Simple Drakeblood Greatsword;Greatsword;39;39;84;0;0;89;161;0;71;0
+Crystal Drakeblood Greatsword;Greatsword;30;30;99;0;0;84.55;182;0;71;0
+Fire Drakeblood Greatsword;Greatsword;0;0;0;0;0;146.85;71;146.85;71;0
+Chaos Drakeblood Greatsword;Greatsword;36;36;66;66;0;89;71;115.7;71;0
+Lightning Drakeblood Greatsword;Greatsword;30;30;0;99;0;84.55;71;0;182;0
+Deep Drakeblood Greatsword;Greatsword;0;0;0;0;0;146.85;71;0;71;146.85
+Dark Drakeblood Greatsword;Greatsword;36;36;66;66;0;89;71;0;71;115.7
+Poison Drakeblood Greatsword;Greatsword;42;42;0;0;0;137.95;110.05;0;110.05;0
+Blood Drakeblood Greatsword;Greatsword;42;42;0;0;0;137.95;110.05;0;110.05;0
+Raw Drakeblood Greatsword;Greatsword;0;0;0;0;0;222.5;142;0;142;0
+Blessed Drakeblood Greatsword;Greatsword;33;33;0;78;0;115.7;92.3;0;92.3;0
+Hollow Drakeblood Greatsword;Greatsword;42;42;0;0;24;169.1;134.9;0;134.9;0
+Firelink Greatsword;Greatsword;43.4;40.6;0;0;0;234;0;162;0;0
+Fume Ultra Greatsword;Ultra Greatsword;148.4;7;0;0;0;260;0;0;0;0
+Old Wolf Curved Sword;Curved Greatsword;29.4;100.8;0;0;0;244;0;0;0;0
+Storm Ruler;Greatsword;56;42;0;0;0;260;0;0;0;0
+Hand Axe;Axe;63;49;0;0;0;220;0;0;0;0
+Heavy Hand Axe;Axe;94.5;0;0;0;0;203.5;0;0;0;0
+Sharp Hand Axe;Axe;49.5;73.5;0;0;0;203.5;0;0;0;0
+Refined Hand Axe;Axe;81;81;0;0;0;192.5;0;0;0;0
+Simple Hand Axe;Axe;58.5;45.5;112;0;0;110;126.5;0;0;0
+Crystal Hand Axe;Axe;45;35;132;0;0;104.5;143;0;0;0
+Fire Hand Axe;Axe;0;0;0;0;0;181.5;0;181.5;0;0
+Chaos Hand Axe;Axe;54;42;88;88;0;110;0;143;0;0
+Lightning Hand Axe;Axe;45;35;0;132;0;104.5;0;0;143;0
+Deep Hand Axe;Axe;0;0;0;0;0;181.5;0;0;0;181.5
+Dark Hand Axe;Axe;54;42;88;88;0;110;0;0;0;143
+Poison Hand Axe;Axe;63;49;0;0;0;170.5;0;0;0;0
+Blood Hand Axe;Axe;63;49;0;0;0;170.5;0;0;0;0
+Raw Hand Axe;Axe;0;0;0;0;0;275;0;0;0;0
+Blessed Hand Axe;Axe;49.5;38.5;0;104;0;143;0;0;0;0
+Hollow Hand Axe;Axe;63;49;0;0;31.5;209;0;0;0;0
+Battle Axe;Axe;63;35;0;0;0;250;0;0;0;0
+Heavy Battle Axe;Axe;94.5;0;0;0;0;231.25;0;0;0;0
+Sharp Battle Axe;Axe;49.5;52.5;0;0;0;231.25;0;0;0;0
+Refined Battle Axe;Axe;72;72;0;0;0;218.75;0;0;0;0
+Simple Battle Axe;Axe;58.5;32.5;98;0;0;115;132.25;0;0;0
+Crystal Battle Axe;Axe;45;25;115.5;0;0;109.25;149.5;0;0;0
+Fire Battle Axe;Axe;0;0;0;0;0;189.75;0;189.75;0;0
+Chaos Battle Axe;Axe;54;30;77;77;0;115;0;149.5;0;0
+Lightning Battle Axe;Axe;45;25;0;115.5;0;109.25;0;0;149.5;0
+Deep Battle Axe;Axe;0;0;0;0;0;189.75;0;0;0;189.75
+Dark Battle Axe;Axe;54;30;77;77;0;115;0;0;0;149.5
+Poison Battle Axe;Axe;63;35;0;0;0;193.75;0;0;0;0
+Blood Battle Axe;Axe;63;35;0;0;0;193.75;0;0;0;0
+Raw Battle Axe;Axe;0;0;0;0;0;312.5;0;0;0;0
+Blessed Battle Axe;Axe;49.5;27.5;0;91;0;149.5;0;0;0;0
+Hollow Battle Axe;Axe;63;35;0;0;25.5;237.5;0;0;0;0
+Brigand Axe;Axe;63;36.4;0;0;0;248;0;0;0;0
+Heavy Brigand Axe;Axe;94.5;0;0;0;0;229.4;0;0;0;0
+Sharp Brigand Axe;Axe;49.5;54.6;0;0;0;229.4;0;0;0;0
+Refined Brigand Axe;Axe;72;72;0;0;0;217;0;0;0;0
+Simple Brigand Axe;Axe;58.5;33.8;99.4;0;0;114;131.1;0;0;0
+Crystal Brigand Axe;Axe;45;26;117.15;0;0;108.3;148.2;0;0;0
+Fire Brigand Axe;Axe;0;0;0;0;0;188.1;0;188.1;0;0
+Chaos Brigand Axe;Axe;54;31.2;78.1;78.1;0;114;0;148.2;0;0
+Lightning Brigand Axe;Axe;45;26;0;117.15;0;108.3;0;0;148.2;0
+Deep Brigand Axe;Axe;0;0;0;0;0;188.1;0;0;0;188.1
+Dark Brigand Axe;Axe;54;31.2;78.1;78.1;0;114;0;0;0;148.2
+Poison Brigand Axe;Axe;63;36.4;0;0;0;192.2;0;0;0;0
+Blood Brigand Axe;Axe;63;36.4;0;0;0;192.2;0;0;0;0
+Raw Brigand Axe;Axe;0;0;0;0;0;310;0;0;0;0
+Blessed Brigand Axe;Axe;49.5;28.6;0;92.3;0;148.2;0;0;0;0
+Hollow Brigand Axe;Axe;63;36.4;0;0;25.5;235.6;0;0;0;0
+Crescent Axe;Halberd;49;57.4;0;0;0;238;0;0;0;0
+Heavy Crescent Axe;Halberd;86.1;0;0;0;0;220.15;0;0;0;0
+Sharp Crescent Axe;Halberd;24.2;75.6;0;0;0;220.15;0;0;0;0
+Refined Crescent Axe;Halberd;76.8;76.8;0;0;0;214.2;0;0;0;0
+Simple Crescent Axe;Halberd;45.5;53.3;106.4;0;0;109;125.35;0;0;0
+Crystal Crescent Axe;Halberd;35;41;125.4;0;0;103.55;141.7;0;0;0
+Fire Crescent Axe;Halberd;0;0;0;0;0;179.85;0;179.85;0;0
+Chaos Crescent Axe;Halberd;42;49.2;83.6;83.6;0;109;0;141.7;0;0
+Lightning Crescent Axe;Halberd;35;41;0;125.4;0;103.55;0;0;141.7;0
+Deep Crescent Axe;Halberd;0;0;0;0;0;179.85;0;0;0;179.85
+Dark Crescent Axe;Halberd;42;49.2;83.6;83.6;0;109;0;0;0;141.7
+Poison Crescent Axe;Halberd;49;57.4;0;0;0;184.45;0;0;0;0
+Blood Crescent Axe;Halberd;49;57.4;0;0;0;184.45;0;0;0;0
+Raw Crescent Axe;Halberd;0;0;0;0;0;297.5;0;0;0;0
+Blessed Crescent Axe;Halberd;38.5;45.1;0;98.8;0;141.7;0;0;0;0
+Hollow Crescent Axe;Halberd;49;57.4;0;0;31.5;226.1;0;0;0;0
+Greataxe;Greataxe;64.4;19.6;0;0;0;376;0;0;0;0
+Heavy Greataxe;Greataxe;96.6;0;0;0;0;347.8;0;0;0;0
+Sharp Greataxe;Greataxe;34.1;69.6;0;0;0;347.8;0;0;0;0
+Refined Greataxe;Greataxe;63;63;0;0;0;329;0;0;0;0
+Simple Greataxe;Greataxe;59.8;18.2;84;0;0;153;175.95;0;0;0
+Crystal Greataxe;Greataxe;46;14;99;0;0;145.35;198.9;0;0;0
+Fire Greataxe;Greataxe;0;0;0;0;0;252.45;0;252.45;0;0
+Chaos Greataxe;Greataxe;55.2;16.8;66;66;0;153;0;198.9;0;0
+Lightning Greataxe;Greataxe;46;14;0;99;0;145.35;0;0;198.9;0
+Deep Greataxe;Greataxe;0;0;0;0;0;252.45;0;0;0;252.45
+Dark Greataxe;Greataxe;55.2;16.8;66;66;0;153;0;0;0;198.9
+Poison Greataxe;Greataxe;64.4;19.6;0;0;0;291.4;0;0;0;0
+Blood Greataxe;Greataxe;64.4;19.6;0;0;0;291.4;0;0;0;0
+Raw Greataxe;Greataxe;0;0;0;0;0;470;0;0;0;0
+Blessed Greataxe;Greataxe;50.6;15.4;0;78;0;198.9;0;0;0;0
+Hollow Greataxe;Greataxe;64.4;19.6;0;0;21;357.2;0;0;0;0
+Butcher Knife;Axe;145.6;0;0;0;0;190;0;0;0;0
+Dragonslayer's Axe;Axe;36.4;11.2;0;0;0;210;0;0;210;0
+Heavy Dragonslayer's Axe;Axe;54.6;0;0;0;0;194.25;0;0;210;0
+Sharp Dragonslayer's Axe;Axe;12.1;55.2;0;0;0;194.25;0;0;210;0
+Refined Dragonslayer's Axe;Axe;39.6;39.6;0;0;0;183.75;0;0;210;0
+Simple Dragonslayer's Axe;Axe;33.8;10.4;47.6;0;0;105;120.75;0;105;0
+Crystal Dragonslayer's Axe;Axe;26;8;56.1;0;0;99.75;136.5;0;105;0
+Fire Dragonslayer's Axe;Axe;0;0;0;0;0;173.25;0;173.25;105;0
+Chaos Dragonslayer's Axe;Axe;31.2;9.6;37.4;37.4;0;105;0;136.5;105;0
+Lightning Dragonslayer's Axe;Axe;26;8;0;56.1;0;99.75;0;0;234;0
+Deep Dragonslayer's Axe;Axe;0;0;0;0;0;173.25;0;0;105;173.25
+Dark Dragonslayer's Axe;Axe;31.2;9.6;37.4;37.4;0;105;0;0;105;136.5
+Poison Dragonslayer's Axe;Axe;36.4;11.2;0;0;0;162.75;0;0;162.75;0
+Blood Dragonslayer's Axe;Axe;36.4;11.2;0;0;0;162.75;0;0;162.75;0
+Raw Dragonslayer's Axe;Axe;0;0;0;0;0;262.5;0;0;210;0
+Blessed Dragonslayer's Axe;Axe;28.6;8.8;0;44.2;0;136.5;0;0;136.5;0
+Hollow Dragonslayer's Axe;Axe;36.4;11.2;0;0;12;199.5;0;0;199.5;0
+Thrall Axe;Axe;60.2;53.2;0;0;0;208;0;0;0;0
+Heavy Thrall Axe;Axe;90.3;0;0;0;0;192.4;0;0;0;0
+Sharp Thrall Axe;Axe;47.3;79.8;0;0;0;192.4;0;0;0;0
+Refined Thrall Axe;Axe;81;81;0;0;0;182;0;0;0;0
+Simple Thrall Axe;Axe;55.9;49.4;113.4;0;0;104;119.6;0;0;0
+Crystal Thrall Axe;Axe;43;38;133.65;0;0;98.8;135.2;0;0;0
+Fire Thrall Axe;Axe;0;0;0;0;0;171.6;0;171.6;0;0
+Chaos Thrall Axe;Axe;51.6;45.6;89.1;89.1;0;104;0;135.2;0;0
+Lightning Thrall Axe;Axe;43;38;0;133.65;0;98.8;0;0;135.2;0
+Deep Thrall Axe;Axe;0;0;0;0;0;171.6;0;0;0;171.6
+Dark Thrall Axe;Axe;51.6;45.6;89.1;89.1;0;104;0;0;0;135.2
+Poison Thrall Axe;Axe;60.2;53.2;0;0;0;161.2;0;0;0;0
+Blood Thrall Axe;Axe;60.2;53.2;0;0;0;161.2;0;0;0;0
+Raw Thrall Axe;Axe;0;0;0;0;0;260;0;0;0;0
+Blessed Thrall Axe;Axe;47.3;41.8;0;105.3;0;135.2;0;0;0;0
+Hollow Thrall Axe;Axe;60.2;53.2;0;0;31.5;197.6;0;0;0;0
+Dragonslayer Greataxe;Greataxe;58.8;18.2;0;50.4;0;364;0;0;136;0
+Demon's Greataxe;Greataxe;84;19.6;35;35;0;286;0;160;0;0
+Eleonora;Axe;43.4;21;0;0;0;284;0;0;0;0
+Man Serpent Hatchet;Axe;63;35;0;0;0;250;0;0;0;0
+Heavy Man Serpent Hatchet;Axe;94.5;0;0;0;0;231.25;0;0;0;0
+Sharp Man Serpent Hatchet;Axe;49.5;52.5;0;0;0;231.25;0;0;0;0
+Refined Man Serpent Hatchet;Axe;72;72;0;0;0;218.75;0;0;0;0
+Simple Man Serpent Hatchet;Axe;58.5;32.5;98;0;0;115;132.25;0;0;0
+Crystal Man Serpent Hatchet;Axe;45;25;115.5;0;0;109.25;149.5;0;0;0
+Fire Man Serpent Hatchet;Axe;0;0;0;0;0;189.75;0;189.75;0;0
+Chaos Man Serpent Hatchet;Axe;54;30;77;77;0;115;0;149.5;0;0
+Lightning Man Serpent Hatchet;Axe;45;25;0;115.5;0;109.25;0;0;149.5;0
+Deep Man Serpent Hatchet;Axe;0;0;0;0;0;189.75;0;0;0;189.75
+Dark Man Serpent Hatchet;Axe;54;30;77;77;0;115;0;0;0;149.5
+Poison Man Serpent Hatchet;Axe;63;35;0;0;0;193.75;0;0;0;0
+Blood Man Serpent Hatchet;Axe;63;35;0;0;0;193.75;0;0;0;0
+Raw Man Serpent Hatchet;Axe;0;0;0;0;0;312.5;0;0;0;0
+Blessed Man Serpent Hatchet;Axe;49.5;27.5;0;91;0;149.5;0;0;0;0
+Hollow Man Serpent Hatchet;Axe;63;35;0;0;25.5;237.5;0;0;0;0
+Club;Hammer;91;0;0;0;0;216;0;0;0;0
+Heavy Club;Hammer;123.5;0;0;0;0;199.8;0;0;0;0
+Sharp Club;Hammer;14.3;108;0;0;0;199.8;0;0;0;0
+Refined Club;Hammer;65;65;0;0;0;199.8;0;0;0;0
+Simple Club;Hammer;84.5;0;91;0;0;108;124.2;0;0;0
+Crystal Club;Hammer;65;0;107.25;0;0;102.6;140.4;0;0;0
+Fire Club;Hammer;0;0;0;0;0;178.2;0;178.2;0;0
+Chaos Club;Hammer;78;0;71.5;71.5;0;108;0;140.4;0;0
+Lightning Club;Hammer;65;0;0;107.25;0;102.6;0;0;140.4;0
+Deep Club;Hammer;0;0;0;0;0;178.2;0;0;0;178.2
+Dark Club;Hammer;78;0;71.5;71.5;0;108;0;0;0;140.4
+Poison Club;Hammer;91;0;0;0;0;167.4;0;0;0;0
+Blood Club;Hammer;91;0;0;0;0;167.4;0;0;0;0
+Raw Club;Hammer;0;0;0;0;0;270;0;0;0;0
+Blessed Club;Hammer;71.5;0;0;84.5;0;140.4;0;0;0;0
+Hollow Club;Hammer;91;0;0;0;19.5;205.2;0;0;0;0
+Mace;Hammer;77;21;0;0;0;230;0;0;0;0
+Heavy Mace;Hammer;115.5;0;0;0;0;212.75;0;0;0;0
+Sharp Mace;Hammer;33;96;0;0;0;212.75;0;0;0;0
+Refined Mace;Hammer;90;90;0;0;0;201.25;0;0;0;0
+Simple Mace;Hammer;71.5;19.5;98;0;0;110;126.5;0;0;0
+Crystal Mace;Hammer;55;15;115.5;0;0;104.5;143;0;0;0
+Fire Mace;Hammer;0;0;0;0;0;181.5;0;181.5;0;0
+Chaos Mace;Hammer;66;18;77;77;0;110;0;143;0;0
+Lightning Mace;Hammer;55;15;0;115.5;0;104.5;0;0;143;0
+Deep Mace;Hammer;0;0;0;0;0;181.5;0;0;0;181.5
+Dark Mace;Hammer;66;18;77;77;0;110;0;0;0;143
+Poison Mace;Hammer;77;21;0;0;0;178.25;0;0;0;0
+Blood Mace;Hammer;77;21;0;0;0;178.25;0;0;0;0
+Raw Mace;Hammer;0;0;0;0;0;287.5;0;0;0;0
+Blessed Mace;Hammer;60.5;16.5;0;91;0;143;0;0;0;0
+Hollow Mace;Hammer;77;21;0;0;24;218.5;0;0;0;0
+Morning Star;Hammer;56;15.4;0;0;0;244;0;0;0;0
+Heavy Morning Star;Hammer;84;0;0;0;0;225.7;0;0;0;0
+Sharp Morning Star;Hammer;16.5;86.4;0;0;0;225.7;0;0;0;0
+Refined Morning Star;Hammer;72;72;0;0;0;213.5;0;0;0;0
+Simple Morning Star;Hammer;52;14.3;71.4;0;0;107;123.05;0;0;0
+Crystal Morning Star;Hammer;40;11;84.15;0;0;101.65;139.1;0;0;0
+Fire Morning Star;Hammer;0;0;0;0;0;176.55;0;176.55;0;0
+Chaos Morning Star;Hammer;48;13.2;56.1;56.1;0;107;0;139.1;0;0
+Lightning Morning Star;Hammer;40;11;0;84.15;0;101.65;0;0;139.1;0
+Deep Morning Star;Hammer;0;0;0;0;0;176.55;0;0;0;176.55
+Dark Morning Star;Hammer;48;13.2;56.1;56.1;0;107;0;0;0;139.1
+Poison Morning Star;Hammer;56;15.4;0;0;0;189.1;0;0;0;0
+Blood Morning Star;Hammer;56;15.4;0;0;0;189.1;0;0;0;0
+Raw Morning Star;Hammer;0;0;0;0;0;305;0;0;0;0
+Blessed Morning Star;Hammer;44;12.1;0;66.3;0;139.1;0;0;0;0
+Hollow Morning Star;Hammer;56;15.4;0;0;16.5;231.8;0;0;0;0
+Reinforced Club;Hammer;92.4;0;0;0;0;220;0;0;0;0
+Heavy Reinforced Club;Hammer;125.4;0;0;0;0;203.5;0;0;0;0
+Sharp Reinforced Club;Hammer;14.3;110.4;0;0;0;203.5;0;0;0;0
+Refined Reinforced Club;Hammer;65;65;0;0;0;203.5;0;0;0;0
+Simple Reinforced Club;Hammer;85.8;0;92.4;0;0;110;126.5;0;0;0
+Crystal Reinforced Club;Hammer;66;0;108.9;0;0;104.5;143;0;0;0
+Fire Reinforced Club;Hammer;0;0;0;0;0;181.5;0;181.5;0;0
+Chaos Reinforced Club;Hammer;79.2;0;72.6;72.6;0;110;0;143;0;0
+Lightning Reinforced Club;Hammer;66;0;0;108.9;0;104.5;0;0;143;0
+Deep Reinforced Club;Hammer;0;0;0;0;0;181.5;0;0;0;181.5
+Dark Reinforced Club;Hammer;79.2;0;72.6;72.6;0;110;0;0;0;143
+Poison Reinforced Club;Hammer;92.4;0;0;0;0;170.5;0;0;0;0
+Blood Reinforced Club;Hammer;92.4;0;0;0;0;170.5;0;0;0;0
+Raw Reinforced Club;Hammer;0;0;0;0;0;275;0;0;0;0
+Blessed Reinforced Club;Hammer;72.6;0;0;85.8;0;143;0;0;0;0
+Hollow Reinforced Club;Hammer;92.4;0;0;0;21;209;0;0;0;0
+Large Club;Great Hammer;81.2;0;0;0;0;296;0;0;0;0
+Heavy Large Club;Great Hammer;110.2;0;0;0;0;273.8;0;0;0;0
+Sharp Large Club;Great Hammer;12.1;96;0;0;0;273.8;0;0;0;0
+Refined Large Club;Great Hammer;57.5;57.5;0;0;0;273.8;0;0;0;0
+Simple Large Club;Great Hammer;75.4;0;81.2;0;0;138;158.7;0;0;0
+Crystal Large Club;Great Hammer;58;0;95.7;0;0;131.1;179.4;0;0;0
+Fire Large Club;Great Hammer;0;0;0;0;0;227.7;0;227.7;0;0
+Chaos Large Club;Great Hammer;69.6;0;63.8;63.8;0;138;0;179.4;0;0
+Lightning Large Club;Great Hammer;58;0;0;95.7;0;131.1;0;0;179.4;0
+Deep Large Club;Great Hammer;0;0;0;0;0;227.7;0;0;0;227.7
+Dark Large Club;Great Hammer;69.6;0;63.8;63.8;0;138;0;0;0;179.4
+Poison Large Club;Great Hammer;81.2;0;0;0;0;229.4;0;0;0;0
+Blood Large Club;Great Hammer;81.2;0;0;0;0;229.4;0;0;0;0
+Raw Large Club;Great Hammer;0;0;0;0;0;370;0;0;0;0
+Blessed Large Club;Great Hammer;63.8;0;0;75.4;0;179.4;0;0;0;0
+Hollow Large Club;Great Hammer;81.2;0;0;0;18;281.2;0;0;0;0
+Great Club;Great Hammer;93.8;0;0;0;0;304;0;0;0;0
+Heavy Great Club;Great Hammer;127.3;0;0;0;0;281.2;0;0;0;0
+Sharp Great Club;Great Hammer;14.3;110.4;0;0;0;281.2;0;0;0;0
+Refined Great Club;Great Hammer;66.25;66.25;0;0;0;281.2;0;0;0;0
+Simple Great Club;Great Hammer;87.1;0;93.8;0;0;142;163.3;0;0;0
+Crystal Great Club;Great Hammer;67;0;110.55;0;0;134.9;184.6;0;0;0
+Fire Great Club;Great Hammer;0;0;0;0;0;234.3;0;234.3;0;0
+Chaos Great Club;Great Hammer;80.4;0;73.7;73.7;0;142;0;184.6;0;0
+Lightning Great Club;Great Hammer;67;0;0;110.55;0;134.9;0;0;184.6;0
+Deep Great Club;Great Hammer;0;0;0;0;0;234.3;0;0;0;234.3
+Dark Great Club;Great Hammer;80.4;0;73.7;73.7;0;142;0;0;0;184.6
+Poison Great Club;Great Hammer;93.8;0;0;0;0;235.6;0;0;0;0
+Blood Great Club;Great Hammer;93.8;0;0;0;0;235.6;0;0;0;0
+Raw Great Club;Great Hammer;0;0;0;0;0;380;0;0;0;0
+Blessed Great Club;Great Hammer;73.7;0;0;87.1;0;184.6;0;0;0;0
+Hollow Great Club;Great Hammer;93.8;0;0;0;21;288.8;0;0;0;0
+Great Mace;Great Hammer;56;0;0;0;0;346;0;0;0;0
+Heavy Great Mace;Great Hammer;76;0;0;0;0;320.05;0;0;0;0
+Sharp Great Mace;Great Hammer;8.8;67.2;0;0;0;320.05;0;0;0;0
+Refined Great Mace;Great Hammer;40;40;0;0;0;320.05;0;0;0;0
+Simple Great Mace;Great Hammer;52;0;56;0;0;143;164.45;0;0;0
+Crystal Great Mace;Great Hammer;40;0;66;0;0;135.85;185.9;0;0;0
+Fire Great Mace;Great Hammer;0;0;0;0;0;235.95;0;235.95;0;0
+Chaos Great Mace;Great Hammer;48;0;44;44;0;143;0;185.9;0;0
+Lightning Great Mace;Great Hammer;40;0;0;66;0;135.85;0;0;185.9;0
+Deep Great Mace;Great Hammer;0;0;0;0;0;235.95;0;0;0;235.95
+Dark Great Mace;Great Hammer;48;0;44;44;0;143;0;0;0;185.9
+Poison Great Mace;Great Hammer;56;0;0;0;0;268.15;0;0;0;0
+Blood Great Mace;Great Hammer;56;0;0;0;0;268.15;0;0;0;0
+Raw Great Mace;Great Hammer;0;0;0;0;0;432.5;0;0;0;0
+Blessed Great Mace;Great Hammer;44;0;0;52;0;185.9;0;0;0;0
+Hollow Great Mace;Great Hammer;56;0;0;0;12;328.7;0;0;0;0
+Great Wooden Hammer;Great Hammer;85.4;0;0;0;0;206;0;0;0;0
+Heavy Great Wooden Hammer;Great Hammer;115.9;0;0;0;0;190.55;0;0;0;0
+Sharp Great Wooden Hammer;Great Hammer;13.2;100.8;0;0;0;190.55;0;0;0;0
+Refined Great Wooden Hammer;Great Hammer;60;60;0;0;0;190.55;0;0;0;0
+Simple Great Wooden Hammer;Great Hammer;79.3;0;85.4;0;0;103;118.45;0;0;0
+Crystal Great Wooden Hammer;Great Hammer;61;0;100.65;0;0;97.85;133.9;0;0;0
+Fire Great Wooden Hammer;Great Hammer;0;0;0;0;0;169.95;0;169.95;0;0
+Chaos Great Wooden Hammer;Great Hammer;73.2;0;67.1;67.1;0;103;0;133.9;0;0
+Lightning Great Wooden Hammer;Great Hammer;61;0;0;100.65;0;97.85;0;0;133.9;0
+Deep Great Wooden Hammer;Great Hammer;0;0;0;0;0;169.95;0;0;0;169.95
+Dark Great Wooden Hammer;Great Hammer;73.2;0;67.1;67.1;0;103;0;0;0;133.9
+Poison Great Wooden Hammer;Great Hammer;85.4;0;0;0;0;159.65;0;0;0;0
+Blood Great Wooden Hammer;Great Hammer;85.4;0;0;0;0;159.65;0;0;0;0
+Raw Great Wooden Hammer;Great Hammer;0;0;0;0;0;257.5;0;0;0;0
+Blessed Great Wooden Hammer;Great Hammer;67.1;0;0;79.3;0;133.9;0;0;0;0
+Hollow Great Wooden Hammer;Great Hammer;85.4;0;0;0;19.5;195.7;0;0;0;0
+Gargoyle Flame Hammer;Great Hammer;70;0;28;28;0;244;0;200;0;0
+Vordt's Great Hammer;Great Hammer;85.4;0;0;0;0;320;0;0;0;0
+Old King's Great Hammer;Great Hammer;58.8;0;50.4;50.4;0;328;0;126;0;0
+Heysel Pick;Hammer;43.4;14;120.4;0;0;162;122;0;0;0
+Warpick;Hammer;75.6;22.4;0;0;0;226;0;0;0;0
+Heavy Warpick;Hammer;113.4;0;0;0;0;209.05;0;0;0;0
+Sharp Warpick;Hammer;31.9;98.4;0;0;0;209.05;0;0;0;0
+Refined Warpick;Hammer;90;90;0;0;0;197.75;0;0;0;0
+Simple Warpick;Hammer;70.2;20.8;98;0;0;113;129.95;0;0;0
+Crystal Warpick;Hammer;54;16;115.5;0;0;107.35;146.9;0;0;0
+Fire Warpick;Hammer;0;0;0;0;0;186.45;0;186.45;0;0
+Chaos Warpick;Hammer;64.8;19.2;77;77;0;113;0;146.9;0;0
+Lightning Warpick;Hammer;54;16;0;115.5;0;107.35;0;0;146.9;0
+Deep Warpick;Hammer;0;0;0;0;0;186.45;0;0;0;186.45
+Dark Warpick;Hammer;64.8;19.2;77;77;0;113;0;0;0;146.9
+Poison Warpick;Hammer;75.6;22.4;0;0;0;175.15;0;0;0;0
+Blood Warpick;Hammer;75.6;22.4;0;0;0;175.15;0;0;0;0
+Raw Warpick;Hammer;0;0;0;0;0;282.5;0;0;0;0
+Blessed Warpick;Hammer;59.4;17.6;0;91;0;146.9;0;0;0;0
+Hollow Warpick;Hammer;75.6;22.4;0;0;24;214.7;0;0;0;0
+Pickaxe;Great Hammer;82.6;0;0;0;0;280;0;0;0;0
+Heavy Pickaxe;Great Hammer;112.1;0;0;0;0;259;0;0;0;0
+Sharp Pickaxe;Great Hammer;12.1;98.4;0;0;0;259;0;0;0;0
+Refined Pickaxe;Great Hammer;58.75;58.75;0;0;0;259;0;0;0;0
+Simple Pickaxe;Great Hammer;76.7;0;82.6;0;0;125;143.75;0;0;0
+Crystal Pickaxe;Great Hammer;59;0;97.35;0;0;118.75;162.5;0;0;0
+Fire Pickaxe;Great Hammer;0;0;0;0;0;206.25;0;206.25;0;0
+Chaos Pickaxe;Great Hammer;70.8;0;64.9;64.9;0;125;0;162.5;0;0
+Lightning Pickaxe;Great Hammer;59;0;0;97.35;0;118.75;0;0;162.5;0
+Deep Pickaxe;Great Hammer;0;0;0;0;0;206.25;0;0;0;206.25
+Dark Pickaxe;Great Hammer;70.8;0;64.9;64.9;0;125;0;0;0;162.5
+Poison Pickaxe;Great Hammer;82.6;0;0;0;0;217;0;0;0;0
+Blood Pickaxe;Great Hammer;82.6;0;0;0;0;217;0;0;0;0
+Raw Pickaxe;Great Hammer;0;0;0;0;0;350;0;0;0;0
+Blessed Pickaxe;Great Hammer;64.9;0;0;76.7;0;162.5;0;0;0;0
+Hollow Pickaxe;Great Hammer;82.6;0;0;0;18;266;0;0;0;0
+Dragon Tooth;Great Hammer;88.2;0;0;0;0;342;0;0;0;0
+Smough's Great Hammer;Great Hammer;86.8;0;0;0;0;358;0;0;0;0
+Blacksmith Hammer;Hammer;82.6;0;0;0;0;210;0;0;0;0
+Heavy Blacksmith Hammer;Hammer;112.1;0;0;0;0;194.25;0;0;0;0
+Sharp Blacksmith Hammer;Hammer;12.1;98.4;0;0;0;194.25;0;0;0;0
+Refined Blacksmith Hammer;Hammer;58.75;58.75;0;0;0;194.25;0;0;0;0
+Simple Blacksmith Hammer;Hammer;76.7;0;82.6;0;0;105;120.75;0;0;0
+Crystal Blacksmith Hammer;Hammer;59;0;97.35;0;0;99.75;136.5;0;0;0
+Fire Blacksmith Hammer;Hammer;0;0;0;0;0;173.25;0;173.25;0;0
+Chaos Blacksmith Hammer;Hammer;70.8;0;64.9;64.9;0;105;0;136.5;0;0
+Lightning Blacksmith Hammer;Hammer;59;0;0;97.35;0;99.75;0;0;136.5;0
+Deep Blacksmith Hammer;Hammer;0;0;0;0;0;173.25;0;0;0;173.25
+Dark Blacksmith Hammer;Hammer;70.8;0;64.9;64.9;0;105;0;0;0;136.5
+Poison Blacksmith Hammer;Hammer;82.6;0;0;0;0;162.75;0;0;0;0
+Blood Blacksmith Hammer;Hammer;82.6;0;0;0;0;162.75;0;0;0;0
+Raw Blacksmith Hammer;Hammer;0;0;0;0;0;262.5;0;0;0;0
+Blessed Blacksmith Hammer;Hammer;64.9;0;0;76.7;0;136.5;0;0;0;0
+Hollow Blacksmith Hammer;Hammer;82.6;0;0;0;18;199.5;0;0;0;0
+Morne's Great Hammer;Great Hammer;65.8;0;0;30.8;0;348;0;0;0;0
+Spiked Mace;Great Hammer;84;0;0;0;0;298;0;0;0;0
+Heavy Spiked Mace;Great Hammer;114;0;0;0;0;275.65;0;0;0;0
+Sharp Spiked Mace;Great Hammer;13.2;100.8;0;0;0;275.65;0;0;0;0
+Refined Spiked Mace;Great Hammer;60;60;0;0;0;275.65;0;0;0;0
+Simple Spiked Mace;Great Hammer;78;0;84;0;0;139;159.85;0;0;0
+Crystal Spiked Mace;Great Hammer;60;0;99;0;0;132.05;180.7;0;0;0
+Fire Spiked Mace;Great Hammer;0;0;0;0;0;229.35;0;229.35;0;0
+Chaos Spiked Mace;Great Hammer;72;0;66;66;0;139;0;180.7;0;0
+Lightning Spiked Mace;Great Hammer;60;0;0;99;0;132.05;0;0;180.7;0
+Deep Spiked Mace;Great Hammer;0;0;0;0;0;229.35;0;0;0;229.35
+Dark Spiked Mace;Great Hammer;72;0;66;66;0;139;0;0;0;180.7
+Poison Spiked Mace;Great Hammer;84;0;0;0;0;230.95;0;0;0;0
+Blood Spiked Mace;Great Hammer;84;0;0;0;0;230.95;0;0;0;0
+Raw Spiked Mace;Great Hammer;0;0;0;0;0;372.5;0;0;0;0
+Blessed Spiked Mace;Great Hammer;66;0;0;78;0;180.7;0;0;0;0
+Hollow Spiked Mace;Great Hammer;84;0;0;0;18;283.1;0;0;0;0
+Spear;Spear;42;71.4;0;0;0;208;0;0;0;0
+Heavy Spear;Spear;92.4;0;0;0;0;192.4;0;0;0;0
+Sharp Spear;Spear;20.9;94.5;0;0;0;192.4;0;0;0;0
+Refined Spear;Spear;80;80;0;0;0;187.2;0;0;0;0
+Simple Spear;Spear;39;66.3;113.4;0;0;104;119.6;0;0;0
+Crystal Spear;Spear;30;51;133.65;0;0;98.8;135.2;0;0;0
+Fire Spear;Spear;0;0;0;0;0;171.6;0;171.6;0;0
+Chaos Spear;Spear;36;61.2;89.1;89.1;0;104;0;135.2;0;0
+Lightning Spear;Spear;30;51;0;133.65;0;98.8;0;0;135.2;0
+Deep Spear;Spear;0;0;0;0;0;171.6;0;0;0;171.6
+Dark Spear;Spear;36;61.2;89.1;89.1;0;104;0;0;0;135.2
+Poison Spear;Spear;42;71.4;0;0;0;161.2;0;0;0;0
+Blood Spear;Spear;42;71.4;0;0;0;161.2;0;0;0;0
+Raw Spear;Spear;0;0;0;0;0;260;0;0;0;0
+Blessed Spear;Spear;33;56.1;0;105.3;0;135.2;0;0;0;0
+Hollow Spear;Spear;42;71.4;0;0;36;197.6;0;0;0;0
+Winged Spear;Spear;56;84;0;0;0;190;0;0;0;0
+Heavy Winged Spear;Spear;115.5;0;0;0;0;175.75;0;0;0;0
+Sharp Winged Spear;Spear;28.6;113.4;0;0;0;175.75;0;0;0;0
+Refined Winged Spear;Spear;96;96;0;0;0;171;0;0;0;0
+Simple Winged Spear;Spear;52;78;140;0;0;95;109.25;0;0;0
+Crystal Winged Spear;Spear;40;60;165;0;0;90.25;123.5;0;0;0
+Fire Winged Spear;Spear;0;0;0;0;0;156.75;0;156.75;0;0
+Chaos Winged Spear;Spear;48;72;110;110;0;95;0;123.5;0;0
+Lightning Winged Spear;Spear;40;60;0;165;0;90.25;0;0;123.5;0
+Deep Winged Spear;Spear;0;0;0;0;0;156.75;0;0;0;156.75
+Dark Winged Spear;Spear;48;72;110;110;0;95;0;0;0;123.5
+Poison Winged Spear;Spear;56;84;0;0;0;147.25;0;0;0;0
+Blood Winged Spear;Spear;56;84;0;0;0;147.25;0;0;0;0
+Raw Winged Spear;Spear;0;0;0;0;0;237.5;0;0;0;0
+Blessed Winged Spear;Spear;44;66;0;130;0;123.5;0;0;0;0
+Hollow Winged Spear;Spear;56;84;0;0;45;180.5;0;0;0;0
+Partizan;Spear;49;64.4;0;0;0;216;0;0;0;0
+Heavy Partizan;Spear;92.4;0;0;0;0;199.8;0;0;0;0
+Sharp Partizan;Spear;24.2;86.1;0;0;0;199.8;0;0;0;0
+Refined Partizan;Spear;80;80;0;0;0;194.4;0;0;0;0
+Simple Partizan;Spear;45.5;59.8;113.4;0;0;108;124.2;0;0;0
+Crystal Partizan;Spear;35;46;133.65;0;0;102.6;140.4;0;0;0
+Fire Partizan;Spear;0;0;0;0;0;178.2;0;178.2;0;0
+Chaos Partizan;Spear;42;55.2;89.1;89.1;0;108;0;140.4;0;0
+Lightning Partizan;Spear;35;46;0;133.65;0;102.6;0;0;140.4;0
+Deep Partizan;Spear;0;0;0;0;0;178.2;0;0;0;178.2
+Dark Partizan;Spear;42;55.2;89.1;89.1;0;108;0;0;0;140.4
+Poison Partizan;Spear;49;64.4;0;0;0;167.4;0;0;0;0
+Blood Partizan;Spear;49;64.4;0;0;0;167.4;0;0;0;0
+Raw Partizan;Spear;0;0;0;0;0;270;0;0;0;0
+Blessed Partizan;Spear;38.5;50.6;0;105.3;0;140.4;0;0;0;0
+Hollow Partizan;Spear;49;64.4;0;0;36;205.2;0;0;0;0
+Greatlance;Pike;57.4;42;0;0;0;258;0;0;0;0
+Heavy Greatlance;Pike;86.1;0;0;0;0;238.65;0;0;0;0
+Sharp Greatlance;Pike;45.1;72;0;0;0;238.65;0;0;0;0
+Refined Greatlance;Pike;72;72;0;0;0;225.75;0;0;0;0
+Simple Greatlance;Pike;53.3;39;99.4;0;0;119;136.85;0;0;0
+Crystal Greatlance;Pike;41;30;117.15;0;0;113.05;154.7;0;0;0
+Fire Greatlance;Pike;0;0;0;0;0;196.35;0;196.35;0;0
+Chaos Greatlance;Pike;49.2;36;78.1;78.1;0;119;0;154.7;0;0
+Lightning Greatlance;Pike;41;30;0;117.15;0;113.05;0;0;154.7;0
+Deep Greatlance;Pike;0;0;0;0;0;196.35;0;0;0;196.35
+Dark Greatlance;Pike;49.2;36;78.1;78.1;0;119;0;0;0;154.7
+Poison Greatlance;Pike;57.4;42;0;0;0;199.95;0;0;0;0
+Blood Greatlance;Pike;57.4;42;0;0;0;199.95;0;0;0;0
+Raw Greatlance;Pike;0;0;0;0;0;322.5;0;0;0;0
+Blessed Greatlance;Pike;45.1;33;0;92.3;0;154.7;0;0;0;0
+Hollow Greatlance;Pike;57.4;42;0;0;33;245.1;0;0;0;0
+Lothric Knight Long Spear;Pike;43.4;70;0;0;0;224;0;0;0;0
+Heavy Lothric Knight Long Spear;Pike;92.4;0;0;0;0;207.2;0;0;0;0
+Sharp Lothric Knight Long Spear;Pike;22;94.5;0;0;0;207.2;0;0;0;0
+Refined Lothric Knight Long Spear;Pike;80;80;0;0;0;201.6;0;0;0;0
+Simple Lothric Knight Long Spear;Pike;40.3;65;113.4;0;0;107;123.05;0;0;0
+Crystal Lothric Knight Long Spear;Pike;31;50;133.65;0;0;101.65;139.1;0;0;0
+Fire Lothric Knight Long Spear;Pike;0;0;0;0;0;176.55;0;176.55;0;0
+Chaos Lothric Knight Long Spear;Pike;37.2;60;89.1;89.1;0;107;0;139.1;0;0
+Lightning Lothric Knight Long Spear;Pike;31;50;0;133.65;0;101.65;0;0;139.1;0
+Deep Lothric Knight Long Spear;Pike;0;0;0;0;0;176.55;0;0;0;176.55
+Dark Lothric Knight Long Spear;Pike;37.2;60;89.1;89.1;0;107;0;0;0;139.1
+Poison Lothric Knight Long Spear;Pike;43.4;70;0;0;0;173.6;0;0;0;0
+Blood Lothric Knight Long Spear;Pike;43.4;70;0;0;0;173.6;0;0;0;0
+Raw Lothric Knight Long Spear;Pike;0;0;0;0;0;280;0;0;0;0
+Blessed Lothric Knight Long Spear;Pike;34.1;55;0;105.3;0;139.1;0;0;0;0
+Hollow Lothric Knight Long Spear;Pike;43.4;70;0;0;37.5;212.8;0;0;0;0
+Four-Pronged Plow;Spear;47.6;65.8;0;0;0;210;0;0;0;0
+Heavy Four-Pronged Plow;Spear;92.4;0;0;0;0;194.25;0;0;0;0
+Sharp Four-Pronged Plow;Spear;24.2;88.2;0;0;0;194.25;0;0;0;0
+Refined Four-Pronged Plow;Spear;80;80;0;0;0;189;0;0;0;0
+Simple Four-Pronged Plow;Spear;44.2;61.1;113.4;0;0;105;120.75;0;0;0
+Crystal Four-Pronged Plow;Spear;34;47;133.65;0;0;99.75;136.5;0;0;0
+Fire Four-Pronged Plow;Spear;0;0;0;0;0;173.25;0;173.25;0;0
+Chaos Four-Pronged Plow;Spear;40.8;56.4;89.1;89.1;0;105;0;136.5;0;0
+Lightning Four-Pronged Plow;Spear;34;47;0;133.65;0;99.75;0;0;136.5;0
+Deep Four-Pronged Plow;Spear;0;0;0;0;0;173.25;0;0;0;173.25
+Dark Four-Pronged Plow;Spear;40.8;56.4;89.1;89.1;0;105;0;0;0;136.5
+Poison Four-Pronged Plow;Spear;47.6;65.8;0;0;0;162.75;0;0;0;0
+Blood Four-Pronged Plow;Spear;47.6;65.8;0;0;0;162.75;0;0;0;0
+Raw Four-Pronged Plow;Spear;0;0;0;0;0;262.5;0;0;0;0
+Blessed Four-Pronged Plow;Spear;37.4;51.7;0;105.3;0;136.5;0;0;0;0
+Hollow Four-Pronged Plow;Spear;47.6;65.8;0;0;36;199.5;0;0;0;0
+Gargoyle Flame Spear;Spear;28;49;28;28;0;206;0;180;0;0
+Rotten Ghru Spear;Spear;47.6;65.8;0;0;0;208;0;0;0;0
+Heavy Rotten Ghru Spear;Spear;92.4;0;0;0;0;192.4;0;0;0;0
+Sharp Rotten Ghru Spear;Spear;24.2;88.2;0;0;0;192.4;0;0;0;0
+Refined Rotten Ghru Spear;Spear;80;80;0;0;0;187.2;0;0;0;0
+Simple Rotten Ghru Spear;Spear;44.2;61.1;113.4;0;0;104;119.6;0;0;0
+Crystal Rotten Ghru Spear;Spear;34;47;133.65;0;0;98.8;135.2;0;0;0
+Fire Rotten Ghru Spear;Spear;0;0;0;0;0;171.6;0;171.6;0;0
+Chaos Rotten Ghru Spear;Spear;40.8;56.4;89.1;89.1;0;104;0;135.2;0;0
+Lightning Rotten Ghru Spear;Spear;34;47;0;133.65;0;98.8;0;0;135.2;0
+Deep Rotten Ghru Spear;Spear;0;0;0;0;0;171.6;0;0;0;171.6
+Dark Rotten Ghru Spear;Spear;40.8;56.4;89.1;89.1;0;104;0;0;0;135.2
+Poison Rotten Ghru Spear;Spear;47.6;65.8;0;0;0;161.2;0;0;0;0
+Blood Rotten Ghru Spear;Spear;47.6;65.8;0;0;0;161.2;0;0;0;0
+Raw Rotten Ghru Spear;Spear;0;0;0;0;0;260;0;0;0;0
+Blessed Rotten Ghru Spear;Spear;37.4;51.7;0;105.3;0;135.2;0;0;0;0
+Hollow Rotten Ghru Spear;Spear;47.6;65.8;0;0;34.5;197.6;0;0;0;0
+Tailbone Spear;Spear;28;57.4;0;0;0;216;0;0;0;0
+Soldering Iron;Spear;33.6;58.8;0;0;0;78;0;192;0;0
+Dragonslayer Swordspear;Spear;43.4;68.6;0;57.4;0;234;0;0;62;0
+Arstor's Spear;Spear;29.4;82.6;0;0;0;216;0;0;0;0
+Saint Bident;Spear;21;28;0;49;0;196;0;0;0;0
+Heavy Saint Bident;Spear;63;0;0;49;0;181.3;0;0;0;0
+Sharp Saint Bident;Spear;16.5;48;0;49;0;181.3;0;0;0;0
+Refined Saint Bident;Spear;43.2;43.2;0;49;0;176.4;0;0;0;0
+Simple Saint Bident;Spear;19.5;26;49;49;0;98;112.7;0;0;0
+Crystal Saint Bident;Spear;15;20;57.75;57.75;0;93.1;127.4;0;0;0
+Fire Saint Bident;Spear;0;0;0;0;0;161.7;0;161.7;0;0
+Chaos Saint Bident;Spear;18;24;38.5;38.5;0;98;0;127.4;0;0
+Lightning Saint Bident;Spear;15;20;0;57.75;0;93.1;0;0;127.4;0
+Deep Saint Bident;Spear;0;0;0;0;0;161.7;0;0;0;161.7
+Dark Saint Bident;Spear;18;24;38.5;38.5;0;98;0;0;0;127.4
+Poison Saint Bident;Spear;21;28;0;49;0;151.9;0;0;0;0
+Blood Saint Bident;Spear;21;28;0;49;0;151.9;0;0;0;0
+Raw Saint Bident;Spear;0;0;0;0;0;245;0;0;0;0
+Blessed Saint Bident;Spear;16.5;22;0;45.5;0;127.4;0;0;0;0
+Hollow Saint Bident;Spear;21;28;0;49;15;186.2;0;0;0;0
+Yorshka's Spear;Spear;56;78.4;0;0;0;172;0;0;0;0
+Pike;Pike;40.6;72.8;0;0;0;210;0;0;0;0
+Heavy Pike;Pike;92.4;0;0;0;0;194.25;0;0;0;0
+Sharp Pike;Pike;19.8;96.6;0;0;0;194.25;0;0;0;0
+Refined Pike;Pike;80;80;0;0;0;189;0;0;0;0
+Simple Pike;Pike;37.7;67.6;113.4;0;0;105;120.75;0;0;0
+Crystal Pike;Pike;29;52;133.65;0;0;99.75;136.5;0;0;0
+Fire Pike;Pike;0;0;0;0;0;173.25;0;173.25;0;0
+Chaos Pike;Pike;34.8;62.4;89.1;89.1;0;105;0;136.5;0;0
+Lightning Pike;Pike;29;52;0;133.65;0;99.75;0;0;136.5;0
+Deep Pike;Pike;0;0;0;0;0;173.25;0;0;0;173.25
+Dark Pike;Pike;34.8;62.4;89.1;89.1;0;105;0;0;0;136.5
+Poison Pike;Pike;40.6;72.8;0;0;0;162.75;0;0;0;0
+Blood Pike;Pike;40.6;72.8;0;0;0;162.75;0;0;0;0
+Raw Pike;Pike;0;0;0;0;0;262.5;0;0;0;0
+Blessed Pike;Pike;31.9;57.2;0;105.3;0;136.5;0;0;0;0
+Hollow Pike;Pike;40.6;72.8;0;0;34.5;199.5;0;0;0;0
+Dragonslayer Spear;Spear;43.4;84;0;36.4;0;198;0;0;122;0
+Great Scythe;Reaper;28;84;0;0;0;210;0;0;0;0
+Heavy Great Scythe;Reaper;92.4;0;0;0;0;194.25;0;0;0;0
+Sharp Great Scythe;Reaper;14.3;113.4;0;0;0;194.25;0;0;0;0
+Refined Great Scythe;Reaper;80;80;0;0;0;189;0;0;0;0
+Simple Great Scythe;Reaper;26;78;112;0;0;105;120.75;0;0;0
+Crystal Great Scythe;Reaper;20;60;132;0;0;99.75;136.5;0;0;0
+Fire Great Scythe;Reaper;0;0;0;0;0;173.25;0;173.25;0;0
+Chaos Great Scythe;Reaper;24;72;88;88;0;105;0;136.5;0;0
+Lightning Great Scythe;Reaper;20;60;0;132;0;99.75;0;0;136.5;0
+Deep Great Scythe;Reaper;0;0;0;0;0;173.25;0;0;0;173.25
+Dark Great Scythe;Reaper;24;72;88;88;0;105;0;0;0;136.5
+Poison Great Scythe;Reaper;28;84;0;0;0;162.75;0;0;0;0
+Blood Great Scythe;Reaper;28;84;0;0;0;162.75;0;0;0;0
+Raw Great Scythe;Reaper;0;0;0;0;0;262.5;0;0;0;0
+Blessed Great Scythe;Reaper;22;66;0;104;0;136.5;0;0;0;0
+Hollow Great Scythe;Reaper;28;84;0;0;37.5;199.5;0;0;0;0
+Lucerne;Halberd;49;57.4;0;0;0;252;0;0;0;0
+Heavy Lucerne;Halberd;86.1;0;0;0;0;233.1;0;0;0;0
+Sharp Lucerne;Halberd;24.2;75.6;0;0;0;233.1;0;0;0;0
+Refined Lucerne;Halberd;76.8;76.8;0;0;0;226.8;0;0;0;0
+Simple Lucerne;Halberd;45.5;53.3;106.4;0;0;121;139.15;0;0;0
+Crystal Lucerne;Halberd;35;41;125.4;0;0;114.95;157.3;0;0;0
+Fire Lucerne;Halberd;0;0;0;0;0;199.65;0;199.65;0;0
+Chaos Lucerne;Halberd;42;49.2;83.6;83.6;0;121;0;157.3;0;0
+Lightning Lucerne;Halberd;35;41;0;125.4;0;114.95;0;0;157.3;0
+Deep Lucerne;Halberd;0;0;0;0;0;199.65;0;0;0;199.65
+Dark Lucerne;Halberd;42;49.2;83.6;83.6;0;121;0;0;0;157.3
+Poison Lucerne;Halberd;49;57.4;0;0;0;195.3;0;0;0;0
+Blood Lucerne;Halberd;49;57.4;0;0;0;195.3;0;0;0;0
+Raw Lucerne;Halberd;0;0;0;0;0;315;0;0;0;0
+Blessed Lucerne;Halberd;38.5;45.1;0;98.8;0;157.3;0;0;0;0
+Hollow Lucerne;Halberd;49;57.4;0;0;31.5;239.4;0;0;0;0
+Glaive;Halberd;57.4;21;0;0;0;282;0;0;0;0
+Heavy Glaive;Halberd;86.1;0;0;0;0;260.85;0;0;0;0
+Sharp Glaive;Halberd;28.6;72;0;0;0;260.85;0;0;0;0
+Refined Glaive;Halberd;68.4;68.4;0;0;0;246.75;0;0;0;0
+Simple Glaive;Halberd;53.3;19.5;78.4;0;0;126;144.9;0;0;0
+Crystal Glaive;Halberd;41;15;92.4;0;0;119.7;163.8;0;0;0
+Fire Glaive;Halberd;0;0;0;0;0;207.9;0;207.9;0;0
+Chaos Glaive;Halberd;49.2;18;61.6;61.6;0;126;0;163.8;0;0
+Lightning Glaive;Halberd;41;15;0;92.4;0;119.7;0;0;163.8;0
+Deep Glaive;Halberd;0;0;0;0;0;207.9;0;0;0;207.9
+Dark Glaive;Halberd;49.2;18;61.6;61.6;0;126;0;0;0;163.8
+Poison Glaive;Halberd;57.4;21;0;0;0;218.55;0;0;0;0
+Blood Glaive;Halberd;57.4;21;0;0;0;218.55;0;0;0;0
+Raw Glaive;Halberd;0;0;0;0;0;352.5;0;0;0;0
+Blessed Glaive;Halberd;45.1;16.5;0;72.8;0;163.8;0;0;0;0
+Hollow Glaive;Halberd;57.4;21;0;0;21;267.9;0;0;0;0
+Halberd;Halberd;42;70;0;0;0;250;0;0;0;0
+Heavy Halberd;Halberd;92.4;0;0;0;0;231.25;0;0;0;0
+Sharp Halberd;Halberd;20.9;94.5;0;0;0;231.25;0;0;0;0
+Refined Halberd;Halberd;80;80;0;0;0;225;0;0;0;0
+Simple Halberd;Halberd;39;65;112;0;0;120;138;0;0;0
+Crystal Halberd;Halberd;30;50;132;0;0;114;156;0;0;0
+Fire Halberd;Halberd;0;0;0;0;0;198;0;198;0;0
+Chaos Halberd;Halberd;36;60;88;88;0;120;0;156;0;0
+Lightning Halberd;Halberd;30;50;0;132;0;114;0;0;156;0
+Deep Halberd;Halberd;0;0;0;0;0;198;0;0;0;198
+Dark Halberd;Halberd;36;60;88;88;0;120;0;0;0;156
+Poison Halberd;Halberd;42;70;0;0;0;193.75;0;0;0;0
+Blood Halberd;Halberd;42;70;0;0;0;193.75;0;0;0;0
+Raw Halberd;Halberd;0;0;0;0;0;312.5;0;0;0;0
+Blessed Halberd;Halberd;33;55;0;104;0;156;0;0;0;0
+Hollow Halberd;Halberd;42;70;0;0;34.5;237.5;0;0;0;0
+Black Knight Greataxe;Greataxe;71.4;42;0;0;0;350;0;0;0;0
+Pontiff Knight Great Scythe;Reaper;15.4;159.6;0;0;0;174;0;0;0;0
+Great Corvian Scythe;Reaper;56;92.4;0;0;0;194;0;0;0;0
+Heavy Great Corvian Scythe;Reaper;121.8;0;0;0;0;179.45;0;0;0;0
+Sharp Great Corvian Scythe;Reaper;28.6;123.9;0;0;0;179.45;0;0;0;0
+Refined Great Corvian Scythe;Reaper;100.8;100.8;0;0;0;174.6;0;0;0;0
+Simple Great Corvian Scythe;Reaper;52;85.8;148.4;0;0;97;111.55;0;0;0
+Crystal Great Corvian Scythe;Reaper;40;66;174.9;0;0;92.15;126.1;0;0;0
+Fire Great Corvian Scythe;Reaper;0;0;0;0;0;160.05;0;160.05;0;0
+Chaos Great Corvian Scythe;Reaper;48;79.2;116.6;116.6;0;97;0;126.1;0;0
+Lightning Great Corvian Scythe;Reaper;40;66;0;174.9;0;92.15;0;0;126.1;0
+Deep Great Corvian Scythe;Reaper;0;0;0;0;0;160.05;0;0;0;160.05
+Dark Great Corvian Scythe;Reaper;48;79.2;116.6;116.6;0;97;0;0;0;126.1
+Poison Great Corvian Scythe;Reaper;56;92.4;0;0;0;150.35;0;0;0;0
+Blood Great Corvian Scythe;Reaper;56;92.4;0;0;0;150.35;0;0;0;0
+Raw Great Corvian Scythe;Reaper;0;0;0;0;0;242.5;0;0;0;0
+Blessed Great Corvian Scythe;Reaper;44;72.6;0;137.8;0;126.1;0;0;0;0
+Hollow Great Corvian Scythe;Reaper;56;92.4;0;0;45;184.3;0;0;0;0
+Winged Knight Halberd;Halberd;57.4;21;0;0;0;290;0;0;0;0
+Heavy Winged Knight Halberd;Halberd;86.1;0;0;0;0;268.25;0;0;0;0
+Sharp Winged Knight Halberd;Halberd;17.6;96;0;0;0;268.25;0;0;0;0
+Refined Winged Knight Halberd;Halberd;77.4;77.4;0;0;0;253.75;0;0;0;0
+Simple Winged Knight Halberd;Halberd;53.3;19.5;78.4;0;0;130;149.5;0;0;0
+Crystal Winged Knight Halberd;Halberd;41;15;92.4;0;0;123.5;169;0;0;0
+Fire Winged Knight Halberd;Halberd;0;0;0;0;0;214.5;0;214.5;0;0
+Chaos Winged Knight Halberd;Halberd;49.2;18;61.6;61.6;0;130;0;169;0;0
+Lightning Winged Knight Halberd;Halberd;41;15;0;92.4;0;123.5;0;0;169;0
+Deep Winged Knight Halberd;Halberd;0;0;0;0;0;214.5;0;0;0;214.5
+Dark Winged Knight Halberd;Halberd;49.2;18;61.6;61.6;0;130;0;0;0;169
+Poison Winged Knight Halberd;Halberd;57.4;21;0;0;0;224.75;0;0;0;0
+Blood Winged Knight Halberd;Halberd;57.4;21;0;0;0;224.75;0;0;0;0
+Raw Winged Knight Halberd;Halberd;0;0;0;0;0;362.5;0;0;0;0
+Blessed Winged Knight Halberd;Halberd;45.1;16.5;0;72.8;0;169;0;0;0;0
+Hollow Winged Knight Halberd;Halberd;57.4;21;0;0;21;275.5;0;0;0;0
+Gundyr's Halberd;Halberd;93.8;14;0;0;0;264;0;0;0;0
+Red Hilted Halberd;Halberd;49;56;0;0;0;260;0;0;0;0
+Heavy Red Hilted Halberd;Halberd;86.1;0;0;0;0;240.5;0;0;0;0
+Sharp Red Hilted Halberd;Halberd;24.2;75.6;0;0;0;240.5;0;0;0;0
+Refined Red Hilted Halberd;Halberd;75.2;75.2;0;0;0;234;0;0;0;0
+Simple Red Hilted Halberd;Halberd;45.5;52;105;0;0;125;143.75;0;0;0
+Crystal Red Hilted Halberd;Halberd;35;40;123.75;0;0;118.75;162.5;0;0;0
+Fire Red Hilted Halberd;Halberd;0;0;0;0;0;206.25;0;206.25;0;0
+Chaos Red Hilted Halberd;Halberd;42;48;82.5;82.5;0;125;0;162.5;0;0
+Lightning Red Hilted Halberd;Halberd;35;40;0;123.75;0;118.75;0;0;162.5;0
+Deep Red Hilted Halberd;Halberd;0;0;0;0;0;206.25;0;0;0;206.25
+Dark Red Hilted Halberd;Halberd;42;48;82.5;82.5;0;125;0;0;0;162.5
+Poison Red Hilted Halberd;Halberd;49;56;0;0;0;201.5;0;0;0;0
+Blood Red Hilted Halberd;Halberd;49;56;0;0;0;201.5;0;0;0;0
+Raw Red Hilted Halberd;Halberd;0;0;0;0;0;325;0;0;0;0
+Blessed Red Hilted Halberd;Halberd;38.5;44;0;97.5;0;162.5;0;0;0;0
+Hollow Red Hilted Halberd;Halberd;49;56;0;0;31.5;247;0;0;0;0
+Black Knight Glaive;Halberd;50.4;56;0;0;0;278;0;0;0;0
+Immolation Tinder;Halberd;50.4;56;134.4;0;0;206;0;132;0;0
+Claw;Claw;22.4;77;0;0;0;150;0;0;0;0
+Heavy Claw;Claw;96.6;0;0;0;0;138.75;0;0;0;0
+Sharp Claw;Claw;8.8;115.5;0;0;0;138.75;0;0;0;0
+Refined Claw;Claw;80;80;0;0;0;135;0;0;0;0
+Simple Claw;Claw;20.8;71.5;99.4;0;0;75;86.25;0;0;0
+Crystal Claw;Claw;16;55;117.15;0;0;71.25;97.5;0;0;0
+Fire Claw;Claw;0;0;0;0;0;123.75;0;123.75;0;0
+Chaos Claw;Claw;19.2;66;78.1;78.1;0;75;0;97.5;0;0
+Lightning Claw;Claw;16;55;0;117.15;0;71.25;0;0;97.5;0
+Deep Claw;Claw;0;0;0;0;0;123.75;0;0;0;123.75
+Dark Claw;Claw;19.2;66;78.1;78.1;0;75;0;0;0;97.5
+Poison Claw;Claw;22.4;77;0;0;0;116.25;0;0;0;0
+Blood Claw;Claw;22.4;77;0;0;0;116.25;0;0;0;0
+Raw Claw;Claw;0;0;0;0;0;187.5;0;0;0;0
+Blessed Claw;Claw;17.6;60.5;0;92.3;0;97.5;0;0;0;0
+Hollow Claw;Claw;22.4;77;0;0;34.5;142.5;0;0;0;0
+Caestus;Fist;56;56;0;0;0;160;0;0;0;0
+Heavy Caestus;Fist;105;0;0;0;0;148;0;0;0;0
+Sharp Caestus;Fist;13.2;96;0;0;0;148;0;0;0;0
+Refined Caestus;Fist;80;80;0;0;0;144;0;0;0;0
+Simple Caestus;Fist;52;52;112;0;0;80;92;0;0;0
+Crystal Caestus;Fist;40;40;132;0;0;76;104;0;0;0
+Fire Caestus;Fist;0;0;0;0;0;132;0;132;0;0
+Chaos Caestus;Fist;48;48;88;88;0;80;0;104;0;0
+Lightning Caestus;Fist;40;40;0;132;0;76;0;0;104;0
+Deep Caestus;Fist;0;0;0;0;0;132;0;0;0;132
+Dark Caestus;Fist;48;48;88;88;0;80;0;0;0;104
+Poison Caestus;Fist;56;56;0;0;0;124;0;0;0;0
+Blood Caestus;Fist;56;56;0;0;0;124;0;0;0;0
+Raw Caestus;Fist;0;0;0;0;0;200;0;0;0;0
+Blessed Caestus;Fist;44;44;0;104;0;104;0;0;0;0
+Hollow Caestus;Fist;56;56;0;0;33;152;0;0;0;0
+Manikin Claws;Claw;19.6;81.2;0;0;0;158;0;0;0;0
+Heavy Manikin Claws;Claw;96.6;0;0;0;0;146.15;0;0;0;0
+Sharp Manikin Claws;Claw;7.7;121.8;0;0;0;146.15;0;0;0;0
+Refined Manikin Claws;Claw;81.6;81.6;0;0;0;142.2;0;0;0;0
+Simple Manikin Claws;Claw;18.2;75.4;100.8;0;0;79;90.85;0;0;0
+Crystal Manikin Claws;Claw;14;58;118.8;0;0;75.05;102.7;0;0;0
+Fire Manikin Claws;Claw;0;0;0;0;0;130.35;0;130.35;0;0
+Chaos Manikin Claws;Claw;16.8;69.6;79.2;79.2;0;79;0;102.7;0;0
+Lightning Manikin Claws;Claw;14;58;0;118.8;0;75.05;0;0;102.7;0
+Deep Manikin Claws;Claw;0;0;0;0;0;130.35;0;0;0;130.35
+Dark Manikin Claws;Claw;16.8;69.6;79.2;79.2;0;79;0;0;0;102.7
+Poison Manikin Claws;Claw;19.6;81.2;0;0;0;122.45;0;0;0;0
+Blood Manikin Claws;Claw;19.6;81.2;0;0;0;122.45;0;0;0;0
+Raw Manikin Claws;Claw;0;0;0;0;0;197.5;0;0;0;0
+Blessed Manikin Claws;Claw;15.4;63.8;0;93.6;0;102.7;0;0;0;0
+Hollow Manikin Claws;Claw;19.6;81.2;0;0;31.5;150.1;0;0;0;0
+Demon's Fist;Fist;63;0;28;28;0;170;0;140;0;0
+Dark Hand;Fist;60;60;45;45;0;88;0;0;0;150
+Whip;Whip;0;84;0;0;0;180;0;0;0;0
+Heavy Whip;Whip;81.9;0;0;0;0;166.5;0;0;0;0
+Sharp Whip;Whip;0;113.4;0;0;0;166.5;0;0;0;0
+Refined Whip;Whip;64;64;0;0;0;162;0;0;0;0
+Simple Whip;Whip;0;78;84;0;0;90;103.5;0;0;0
+Crystal Whip;Whip;0;60;99;0;0;85.5;117;0;0;0
+Fire Whip;Whip;0;0;0;0;0;148.5;0;148.5;0;0
+Chaos Whip;Whip;0;72;66;66;0;90;0;117;0;0
+Lightning Whip;Whip;0;60;0;99;0;85.5;0;0;117;0
+Deep Whip;Whip;0;0;0;0;0;148.5;0;0;0;148.5
+Dark Whip;Whip;0;72;66;66;0;90;0;0;0;117
+Poison Whip;Whip;0;84;0;0;0;139.5;0;0;0;0
+Blood Whip;Whip;0;84;0;0;0;139.5;0;0;0;0
+Raw Whip;Whip;0;0;0;0;0;225;0;0;0;0
+Blessed Whip;Whip;0;66;0;78;0;117;0;0;0;0
+Hollow Whip;Whip;0;84;0;0;31.5;171;0;0;0;0
+Witch's Locks;Whip;0;49;84;84;0;134;0;140;0;0
+Notched Whip;Whip;0;63;0;0;0;190;0;0;0;0
+Heavy Notched Whip;Whip;60.9;0;0;0;0;175.75;0;0;0;0
+Sharp Notched Whip;Whip;0;84;0;0;0;175.75;0;0;0;0
+Refined Notched Whip;Whip;48;48;0;0;0;171;0;0;0;0
+Simple Notched Whip;Whip;0;58.5;63;0;0;95;109.25;0;0;0
+Crystal Notched Whip;Whip;0;45;74.25;0;0;90.25;123.5;0;0;0
+Fire Notched Whip;Whip;0;0;0;0;0;156.75;0;156.75;0;0
+Chaos Notched Whip;Whip;0;54;49.5;49.5;0;95;0;123.5;0;0
+Lightning Notched Whip;Whip;0;45;0;74.25;0;90.25;0;0;123.5;0
+Deep Notched Whip;Whip;0;0;0;0;0;156.75;0;0;0;156.75
+Dark Notched Whip;Whip;0;54;49.5;49.5;0;95;0;0;0;123.5
+Poison Notched Whip;Whip;0;63;0;0;0;147.25;0;0;0;0
+Blood Notched Whip;Whip;0;63;0;0;0;147.25;0;0;0;0
+Raw Notched Whip;Whip;0;0;0;0;0;237.5;0;0;0;0
+Blessed Notched Whip;Whip;0;49.5;0;58.5;0;123.5;0;0;0;0
+Hollow Notched Whip;Whip;0;63;0;0;22.5;180.5;0;0;0;0
+Spotted Whip;Whip;0;63;0;0;0;204;0;0;0;0
+Talisman;Talisman;28;0;0;140;0;117;0;0;0;0
+Sorcerer's Staff;Staff;28;0;140;0;0;135;0;0;0;0
+Storyteller's Staff;Staff;28;0;131.6;0;0;136.8;0;0;0;0
+Mendicant's Staff;Staff;29.4;0;120.4;0;0;136.8;0;0;0;0
+Man-grub's Staff;Staff;29.4;0;0;0;0;158;0;0;0;0
+Archdeacon's Great Staff;Staff;29.4;0;0;156.8;0;156;0;0;0;0
+Golden Ritual Spear;Spear;21;51.8;0;134.4;0;128;134;0;0;0
+Yorshka's Chime;Sacred Chime;29.4;0;0;163.8;0;122.4;0;0;0;0
+Sage's Crystal Staff;Staff;28;0;119;0;0;154;0;0;0;0
+Heretic's Staff;Staff;29.4;0;134.4;0;0;142.2;0;0;0;0
+Court Sorcerer's Staff;Staff;28;0;154;0;0;135;0;0;0;0
+Witch Tree Branch;Staff;28;0;93.8;0;0;129.6;0;0;0;0
+Izalith Staff;Staff;43.4;42;117.6;71.4;0;210;0;0;0;0
+Cleric's Sacred Chime;Sacred Chime;29.4;0;0;147;0;118.8;0;0;0;0
+Priest's Chime;Sacred Chime;28;0;0;138.6;0;117;0;0;0;0
+Saint-tree Bellvine;Sacred Chime;28;0;0;109.2;0;117;0;0;0;0
+Caitha's Chime;Sacred Chime;28;0;112;124.6;0;130;0;0;0;0
+Crystal Chime;Sacred Chime;28;0;68.6;68.6;0;128;0;0;0;0
+Sunlight Talisman;Talisman;29.4;0;0;114.8;0;120.6;0;0;0;0
+Canvas Talisman;Talisman;29.4;0;0;134.4;0;118.8;0;0;0;0
+Sunless Talisman;Talisman;28;0;112;119;0;130;0;0;0;0
+Saint's Talisman;Talisman;29.4;0;0;158.2;0;120.6;0;0;0;0
+White Hair Talisman;Talisman;28;0;42;70;0;128;0;138;0;0
+Pyromancy Flame;Pyromancy Flame;0;0;71.4;71.4;0;0;0;180;0;0
+Dragonslayer Greatbow;Greatbow;49;70;0;0;0;220;0;0;0;0
+Short Bow;Bow;14;50.4;0;0;0;154;0;0;0;0
+Composite Bow;Bow;50.4;42;0;0;0;146;0;0;0;0
+Light Crossbow;Crossbow;0;0;0;0;0;224;0;0;0;0
+Arbalest;Crossbow;0;0;0;0;0;273;0;0;0;0
+Longbow;Bow;14;49;0;0;0;164;0;0;0;0
+Dragonrider Bow;Bow;43.4;21;0;0;0;200;0;0;0;0
+Avelyn;Crossbow;0;0;0;0;0;128;0;0;0;0
+Knight's Crossbow;Crossbow;0;0;0;0;0;140;0;0;140;0
+Heavy Crossbow;Crossbow;0;0;0;0;0;72;0;0;0;0
+Darkmoon Longbow;Bow;0;14;84;0;0;66;80;0;0;0
+Onislayer Greatbow;Greatbow;21;85.4;0;0;0;194;0;0;0;0
+Black Bow of Pharis;Bow;22.4;89.6;0;0;0;134;0;0;0;0
+Sniper Crossbow;Crossbow;0;0;0;0;0;245;0;0;0;0
+Sellsword Twinblades;Curved Sword (Paired);21;81.2;0;0;0;198;0;0;0;0
+Heavy Sellsword Twinblades;Curved Sword (Paired);84;0;0;0;0;183.15;0;0;0;0
+Sharp Sellsword Twinblades;Curved Sword (Paired);7.7;121.8;0;0;0;183.15;0;0;0;0
+Refined Sellsword Twinblades;Curved Sword (Paired);73.6;73.6;0;0;0;178.2;0;0;0;0
+Simple Sellsword Twinblades;Curved Sword (Paired);19.5;75.4;102.2;0;0;99;113.85;0;0;0
+Crystal Sellsword Twinblades;Curved Sword (Paired);15;58;120.45;0;0;94.05;128.7;0;0;0
+Fire Sellsword Twinblades;Curved Sword (Paired);0;0;0;0;0;163.35;0;163.35;0;0
+Chaos Sellsword Twinblades;Curved Sword (Paired);18;69.6;80.3;80.3;0;99;0;128.7;0;0
+Lightning Sellsword Twinblades;Curved Sword (Paired);15;58;0;120.45;0;94.05;0;0;128.7;0
+Deep Sellsword Twinblades;Curved Sword (Paired);0;0;0;0;0;163.35;0;0;0;163.35
+Dark Sellsword Twinblades;Curved Sword (Paired);18;69.6;80.3;80.3;0;99;0;0;0;128.7
+Poison Sellsword Twinblades;Curved Sword (Paired);21;81.2;0;0;0;153.45;0;0;0;0
+Blood Sellsword Twinblades;Curved Sword (Paired);21;81.2;0;0;0;153.45;0;0;0;0
+Raw Sellsword Twinblades;Curved Sword (Paired);0;0;0;0;0;247.5;0;0;0;0
+Blessed Sellsword Twinblades;Curved Sword (Paired);16.5;63.8;0;94.9;0;128.7;0;0;0;0
+Hollow Sellsword Twinblades;Curved Sword (Paired);21;81.2;0;0;31.5;188.1;0;0;0;0
+Warden Twinblades;Curved Sword (Paired);43.4;63;0;0;0;186;0;0;0;0
+Heavy Warden Twinblades;Curved Sword (Paired);86.1;0;0;0;0;172.05;0;0;0;0
+Sharp Warden Twinblades;Curved Sword (Paired);16.5;94.5;0;0;0;172.05;0;0;0;0
+Refined Warden Twinblades;Curved Sword (Paired);76.8;76.8;0;0;0;167.4;0;0;0;0
+Simple Warden Twinblades;Curved Sword (Paired);40.3;58.5;106.4;0;0;93;106.95;0;0;0
+Crystal Warden Twinblades;Curved Sword (Paired);31;45;125.4;0;0;88.35;120.9;0;0;0
+Fire Warden Twinblades;Curved Sword (Paired);0;0;0;0;0;153.45;0;153.45;0;0
+Chaos Warden Twinblades;Curved Sword (Paired);37.2;54;83.6;83.6;0;93;0;120.9;0;0
+Lightning Warden Twinblades;Curved Sword (Paired);31;45;0;125.4;0;88.35;0;0;120.9;0
+Deep Warden Twinblades;Curved Sword (Paired);0;0;0;0;0;153.45;0;0;0;153.45
+Dark Warden Twinblades;Curved Sword (Paired);37.2;54;83.6;83.6;0;93;0;0;0;120.9
+Poison Warden Twinblades;Curved Sword (Paired);43.4;63;0;0;0;144.15;0;0;0;0
+Blood Warden Twinblades;Curved Sword (Paired);43.4;63;0;0;0;144.15;0;0;0;0
+Raw Warden Twinblades;Curved Sword (Paired);0;0;0;0;0;232.5;0;0;0;0
+Blessed Warden Twinblades;Curved Sword (Paired);34.1;49.5;0;98.8;0;120.9;0;0;0;0
+Hollow Warden Twinblades;Curved Sword (Paired);43.4;63;0;0;34.5;176.7;0;0;0;0
+Winged Knight Twinaxes;Axe (Paired);63;35;0;0;0;244;0;0;0;0
+Heavy Winged Knight Twinaxes;Axe (Paired);94.5;0;0;0;0;225.7;0;0;0;0
+Sharp Winged Knight Twinaxes;Axe (Paired);49.5;52.5;0;0;0;225.7;0;0;0;0
+Refined Winged Knight Twinaxes;Axe (Paired);72;72;0;0;0;213.5;0;0;0;0
+Simple Winged Knight Twinaxes;Axe (Paired);58.5;32.5;98;0;0;112;128.8;0;0;0
+Crystal Winged Knight Twinaxes;Axe (Paired);45;25;115.5;0;0;106.4;145.6;0;0;0
+Fire Winged Knight Twinaxes;Axe (Paired);0;0;0;0;0;184.8;0;184.8;0;0
+Chaos Winged Knight Twinaxes;Axe (Paired);54;30;77;77;0;112;0;145.6;0;0
+Lightning Winged Knight Twinaxes;Axe (Paired);45;25;0;115.5;0;106.4;0;0;145.6;0
+Deep Winged Knight Twinaxes;Axe (Paired);0;0;0;0;0;184.8;0;0;0;184.8
+Dark Winged Knight Twinaxes;Axe (Paired);54;30;77;77;0;112;0;0;0;145.6
+Poison Winged Knight Twinaxes;Axe (Paired);63;35;0;0;0;189.1;0;0;0;0
+Blood Winged Knight Twinaxes;Axe (Paired);63;35;0;0;0;189.1;0;0;0;0
+Raw Winged Knight Twinaxes;Axe (Paired);0;0;0;0;0;305;0;0;0;0
+Blessed Winged Knight Twinaxes;Axe (Paired);49.5;27.5;0;91;0;145.6;0;0;0;0
+Hollow Winged Knight Twinaxes;Axe (Paired);63;35;0;0;25.5;231.8;0;0;0;0
+Dancer's Enchanted Swords;Curved Sword (Paired);36.4;49;50.4;50.4;0;144;114;114;0;0
+Great Machete;Greataxe;61.6;22.4;0;0;0;334;0;0;0;0
+Heavy Great Machete;Greataxe;92.4;0;0;0;0;308.95;0;0;0;0
+Sharp Great Machete;Greataxe;31.9;74.4;0;0;0;308.95;0;0;0;0
+Refined Great Machete;Greataxe;72;72;0;0;0;292.25;0;0;0;0
+Simple Great Machete;Greataxe;57.2;20.8;84;0;0;147;169.05;0;0;0
+Crystal Great Machete;Greataxe;44;16;99;0;0;139.65;191.1;0;0;0
+Fire Great Machete;Greataxe;0;0;0;0;0;242.55;0;242.55;0;0
+Chaos Great Machete;Greataxe;52.8;19.2;66;66;0;147;0;191.1;0;0
+Lightning Great Machete;Greataxe;44;16;0;99;0;139.65;0;0;191.1;0
+Deep Great Machete;Greataxe;0;0;0;0;0;242.55;0;0;0;242.55
+Dark Great Machete;Greataxe;52.8;19.2;66;66;0;147;0;0;0;191.1
+Poison Great Machete;Greataxe;61.6;22.4;0;0;0;258.85;0;0;0;0
+Blood Great Machete;Greataxe;61.6;22.4;0;0;0;258.85;0;0;0;0
+Raw Great Machete;Greataxe;0;0;0;0;0;417.5;0;0;0;0
+Blessed Great Machete;Greataxe;48.4;17.6;0;78;0;191.1;0;0;0;0
+Hollow Great Machete;Greataxe;61.6;22.4;0;0;21;317.3;0;0;0;0
+Brigand Twindaggers;Dagger (Paired);49;49;0;0;0;134;0;0;0;0
+Heavy Brigand Twindaggers;Dagger (Paired);73.5;0;0;0;0;123.95;0;0;0;0
+Sharp Brigand Twindaggers;Dagger (Paired);18.7;73.5;0;0;0;123.95;0;0;0;0
+Refined Brigand Twindaggers;Dagger (Paired);72;72;0;0;0;120.6;0;0;0;0
+Simple Brigand Twindaggers;Dagger (Paired);45.5;45.5;98;0;0;69;79.35;0;0;0
+Crystal Brigand Twindaggers;Dagger (Paired);35;35;115.5;0;0;65.55;89.7;0;0;0
+Fire Brigand Twindaggers;Dagger (Paired);0;0;0;0;0;127.05;0;127.05;0;0
+Chaos Brigand Twindaggers;Dagger (Paired);42;42;77;77;0;69;0;89.7;0;0
+Lightning Brigand Twindaggers;Dagger (Paired);35;35;0;115.5;0;65.55;0;0;89.7;0
+Deep Brigand Twindaggers;Dagger (Paired);0;0;0;0;0;127.05;0;0;0;127.05
+Dark Brigand Twindaggers;Dagger (Paired);42;42;77;77;0;69;0;0;0;89.7
+Poison Brigand Twindaggers;Dagger (Paired);49;49;0;0;0;103.85;0;0;0;0
+Blood Brigand Twindaggers;Dagger (Paired);49;49;0;0;0;103.85;0;0;0;0
+Raw Brigand Twindaggers;Dagger (Paired);0;0;0;0;0;167.5;0;0;0;0
+Blessed Brigand Twindaggers;Dagger (Paired);38.5;38.5;0;91;0;89.7;0;0;0;0
+Hollow Brigand Twindaggers;Dagger (Paired);49;49;0;0;31.5;127.3;0;0;0;0
+Gotthard Twinswords;Sword (Paired);63;56;0;0;0;200;0;0;0;0
+Heavy Gotthard Twinswords;Sword (Paired);115.5;0;0;0;0;185;0;0;0;0
+Sharp Gotthard Twinswords;Sword (Paired);49.5;96;0;0;0;185;0;0;0;0
+Refined Gotthard Twinswords;Sword (Paired);83.2;83.2;0;0;0;180;0;0;0;0
+Simple Gotthard Twinswords;Sword (Paired);58.5;52;119;0;0;100;115;0;0;0
+Crystal Gotthard Twinswords;Sword (Paired);45;40;140.25;0;0;95;130;0;0;0
+Fire Gotthard Twinswords;Sword (Paired);0;0;0;0;0;165;0;165;0;0
+Chaos Gotthard Twinswords;Sword (Paired);54;48;93.5;93.5;0;100;0;130;0;0
+Lightning Gotthard Twinswords;Sword (Paired);45;40;0;140.25;0;95;0;0;130;0
+Deep Gotthard Twinswords;Sword (Paired);0;0;0;0;0;165;0;0;0;165
+Dark Gotthard Twinswords;Sword (Paired);54;48;93.5;93.5;0;100;0;0;0;130
+Poison Gotthard Twinswords;Sword (Paired);63;56;0;0;0;155;0;0;0;0
+Blood Gotthard Twinswords;Sword (Paired);63;56;0;0;0;155;0;0;0;0
+Raw Gotthard Twinswords;Sword (Paired);0;0;0;0;0;250;0;0;0;0
+Blessed Gotthard Twinswords;Sword (Paired);49.5;44;0;110.5;0;130;0;0;0;0
+Hollow Gotthard Twinswords;Sword (Paired);63;56;0;0;37.5;190;0;0;0;0
+Onikiri and Ubadachi;Katana (Paired);56;71.4;0;0;0;208;0;0;0;0
+Heavy Onikiri and Ubadachi;Katana (Paired);113.4;0;0;0;0;192.4;0;0;0;0
+Sharp Onikiri and Ubadachi;Katana (Paired);28.6;94.5;0;0;0;192.4;0;0;0;0
+Refined Onikiri and Ubadachi;Katana (Paired);80;80;0;0;0;187.2;0;0;0;0
+Simple Onikiri and Ubadachi;Katana (Paired);52;66.3;127.4;0;0;104;119.6;0;0;0
+Crystal Onikiri and Ubadachi;Katana (Paired);40;51;150.15;0;0;98.8;135.2;0;0;0
+Fire Onikiri and Ubadachi;Katana (Paired);0;0;0;0;0;171.6;0;171.6;0;0
+Chaos Onikiri and Ubadachi;Katana (Paired);48;61.2;100.1;100.1;0;104;0;135.2;0;0
+Lightning Onikiri and Ubadachi;Katana (Paired);40;51;0;150.15;0;98.8;0;0;135.2;0
+Deep Onikiri and Ubadachi;Katana (Paired);0;0;0;0;0;171.6;0;0;0;171.6
+Dark Onikiri and Ubadachi;Katana (Paired);48;61.2;100.1;100.1;0;104;0;0;0;135.2
+Poison Onikiri and Ubadachi;Katana (Paired);56;71.4;0;0;0;161.2;0;0;0;0
+Blood Onikiri and Ubadachi;Katana (Paired);56;71.4;0;0;0;161.2;0;0;0;0
+Raw Onikiri and Ubadachi;Katana (Paired);0;0;0;0;0;260;0;0;0;0
+Blessed Onikiri and Ubadachi;Katana (Paired);44;56.1;0;118.3;0;135.2;0;0;0;0
+Hollow Onikiri and Ubadachi;Katana (Paired);56;71.4;0;0;37.5;197.6;0;0;0;0
+Drang Twinspears;Spear (Paired);42;70;0;0;0;200;0;0;0;0
+Heavy Drang Twinspears;Spear (Paired);92.4;0;0;0;0;185;0;0;0;0
+Sharp Drang Twinspears;Spear (Paired);20.9;94.5;0;0;0;185;0;0;0;0
+Refined Drang Twinspears;Spear (Paired);72;72;0;0;0;180;0;0;0;0
+Simple Drang Twinspears;Spear (Paired);39;65;112;0;0;100;115;0;0;0
+Crystal Drang Twinspears;Spear (Paired);30;50;132;0;0;95;130;0;0;0
+Fire Drang Twinspears;Spear (Paired);0;0;0;0;0;165;0;165;0;0
+Chaos Drang Twinspears;Spear (Paired);36;60;88;88;0;100;0;130;0;0
+Lightning Drang Twinspears;Spear (Paired);30;50;0;132;0;95;0;0;130;0
+Deep Drang Twinspears;Spear (Paired);0;0;0;0;0;165;0;0;0;165
+Dark Drang Twinspears;Spear (Paired);36;60;88;88;0;100;0;0;0;130
+Poison Drang Twinspears;Spear (Paired);42;70;0;0;0;155;0;0;0;0
+Blood Drang Twinspears;Spear (Paired);42;70;0;0;0;155;0;0;0;0
+Raw Drang Twinspears;Spear (Paired);0;0;0;0;0;250;0;0;0;0
+Blessed Drang Twinspears;Spear (Paired);33;55;0;104;0;130;0;0;0;0
+Hollow Drang Twinspears;Spear (Paired);42;70;0;0;36;190;0;0;0;0
+Drang Hammers;Hammer (Paired);77;14;0;0;0;220;0;0;0;0
+Heavy Drang Hammers;Hammer (Paired);115.5;0;0;0;0;203.5;0;0;0;0
+Sharp Drang Hammers;Hammer (Paired);33;84;0;0;0;203.5;0;0;0;0
+Refined Drang Hammers;Hammer (Paired);84.6;84.6;0;0;0;192.5;0;0;0;0
+Simple Drang Hammers;Hammer (Paired);71.5;13;91;0;0;110;126.5;0;0;0
+Crystal Drang Hammers;Hammer (Paired);55;10;107.25;0;0;104.5;143;0;0;0
+Fire Drang Hammers;Hammer (Paired);0;0;0;0;0;181.5;0;181.5;0;0
+Chaos Drang Hammers;Hammer (Paired);66;12;71.5;71.5;0;110;0;143;0;0
+Lightning Drang Hammers;Hammer (Paired);55;10;0;107.25;0;104.5;0;0;143;0
+Deep Drang Hammers;Hammer (Paired);0;0;0;0;0;181.5;0;0;0;181.5
+Dark Drang Hammers;Hammer (Paired);66;12;71.5;71.5;0;110;0;0;0;143
+Poison Drang Hammers;Hammer (Paired);77;14;0;0;0;170.5;0;0;0;0
+Blood Drang Hammers;Hammer (Paired);77;14;0;0;0;170.5;0;0;0;0
+Raw Drang Hammers;Hammer (Paired);0;0;0;0;0;275;0;0;0;0
+Blessed Drang Hammers;Hammer (Paired);60.5;11;0;84.5;0;143;0;0;0;0
+Hollow Drang Hammers;Hammer (Paired);77;14;0;0;21;209;0;0;0;0
+Buckler;Small Shield;26.6;0;0;0;0;134;0;0;0;0
+Heavy Buckler;Small Shield;39.9;0;0;0;0;123.95;0;0;0;0
+Sharp Buckler;Small Shield;20.9;0;0;0;0;123.95;0;0;0;0
+Refined Buckler;Small Shield;30.4;30.4;0;0;0;120.6;0;0;0;0
+Simple Buckler;Small Shield;24.7;0;26.6;0;0;67;77.05;0;0;0
+Crystal Buckler;Small Shield;19;0;31.35;0;0;63.65;87.1;0;0;0
+Fire Buckler;Small Shield;0;0;0;0;0;110.55;0;110.55;0;0
+Chaos Buckler;Small Shield;22.8;0;20.9;20.9;0;67;0;87.1;0;0
+Lightning Buckler;Small Shield;19;0;0;31.35;0;63.65;0;0;87.1;0
+Deep Buckler;Small Shield;0;0;0;0;0;110.55;0;0;0;110.55
+Dark Buckler;Small Shield;22.8;0;20.9;20.9;0;67;0;0;0;87.1
+Poison Buckler;Small Shield;26.6;0;0;0;0;103.85;0;0;0;0
+Blood Buckler;Small Shield;26.6;0;0;0;0;103.85;0;0;0;0
+Raw Buckler;Small Shield;0;0;0;0;0;167.5;0;0;0;0
+Blessed Buckler;Small Shield;20.9;0;0;24.7;0;87.1;0;0;0;0
+Hollow Buckler;Small Shield;26.6;0;0;0;6;127.3;0;0;0;0
+Small Leather Shield;Small Shield;28;0;0;0;0;140;0;0;0;0
+Heavy Small Leather Shield;Small Shield;42;0;0;0;0;129.5;0;0;0;0
+Sharp Small Leather Shield;Small Shield;22;0;0;0;0;129.5;0;0;0;0
+Refined Small Leather Shield;Small Shield;32;32;0;0;0;126;0;0;0;0
+Simple Small Leather Shield;Small Shield;26;0;28;0;0;70;80.5;0;0;0
+Crystal Small Leather Shield;Small Shield;20;0;33;0;0;66.5;91;0;0;0
+Fire Small Leather Shield;Small Shield;0;0;0;0;0;115.5;0;115.5;0;0
+Chaos Small Leather Shield;Small Shield;24;0;22;22;0;70;0;91;0;0
+Lightning Small Leather Shield;Small Shield;20;0;0;33;0;66.5;0;0;91;0
+Deep Small Leather Shield;Small Shield;0;0;0;0;0;115.5;0;0;0;115.5
+Dark Small Leather Shield;Small Shield;24;0;22;22;0;70;0;0;0;91
+Poison Small Leather Shield;Small Shield;28;0;0;0;0;108.5;0;0;0;0
+Blood Small Leather Shield;Small Shield;28;0;0;0;0;108.5;0;0;0;0
+Raw Small Leather Shield;Small Shield;0;0;0;0;0;175;0;0;0;0
+Blessed Small Leather Shield;Small Shield;22;0;0;26;0;91;0;0;0;0
+Hollow Small Leather Shield;Small Shield;28;0;0;0;6;133;0;0;0;0
+Round Shield;Shield;42;0;0;0;0;158;0;0;0;0
+Heavy Round Shield;Shield;63;0;0;0;0;146.15;0;0;0;0
+Sharp Round Shield;Shield;33;0;0;0;0;146.15;0;0;0;0
+Refined Round Shield;Shield;40;40;0;0;0;142.2;0;0;0;0
+Simple Round Shield;Shield;39;0;42;0;0;79;90.85;0;0;0
+Crystal Round Shield;Shield;30;0;49.5;0;0;75.05;102.7;0;0;0
+Fire Round Shield;Shield;0;0;0;0;0;130.35;0;130.35;0;0
+Chaos Round Shield;Shield;36;0;33;33;0;79;0;102.7;0;0
+Lightning Round Shield;Shield;30;0;0;49.5;0;75.05;0;0;102.7;0
+Deep Round Shield;Shield;0;0;0;0;0;130.35;0;0;0;130.35
+Dark Round Shield;Shield;36;0;33;33;0;79;0;0;0;102.7
+Poison Round Shield;Shield;42;0;0;0;0;122.45;0;0;0;0
+Blood Round Shield;Shield;42;0;0;0;0;122.45;0;0;0;0
+Raw Round Shield;Shield;0;0;0;0;0;197.5;0;0;0;0
+Blessed Round Shield;Shield;33;0;0;39;0;102.7;0;0;0;0
+Hollow Round Shield;Shield;42;0;0;0;9;150.1;0;0;0;0
+Large Leather Shield;Shield;42;0;0;0;0;156;0;0;0;0
+Heavy Large Leather Shield;Shield;63;0;0;0;0;144.3;0;0;0;0
+Sharp Large Leather Shield;Shield;33;0;0;0;0;144.3;0;0;0;0
+Refined Large Leather Shield;Shield;40;40;0;0;0;140.4;0;0;0;0
+Simple Large Leather Shield;Shield;39;0;42;0;0;78;89.7;0;0;0
+Crystal Large Leather Shield;Shield;30;0;49.5;0;0;74.1;101.4;0;0;0
+Fire Large Leather Shield;Shield;0;0;0;0;0;128.7;0;128.7;0;0
+Chaos Large Leather Shield;Shield;36;0;33;33;0;78;0;101.4;0;0
+Lightning Large Leather Shield;Shield;30;0;0;49.5;0;74.1;0;0;101.4;0
+Deep Large Leather Shield;Shield;0;0;0;0;0;128.7;0;0;0;128.7
+Dark Large Leather Shield;Shield;36;0;33;33;0;78;0;0;0;101.4
+Poison Large Leather Shield;Shield;42;0;0;0;0;120.9;0;0;0;0
+Blood Large Leather Shield;Shield;42;0;0;0;0;120.9;0;0;0;0
+Raw Large Leather Shield;Shield;0;0;0;0;0;195;0;0;0;0
+Blessed Large Leather Shield;Shield;33;0;0;39;0;101.4;0;0;0;0
+Hollow Large Leather Shield;Shield;42;0;0;0;9;148.2;0;0;0;0
+Hawkwood's Shield;Small Shield;28;0;0;0;0;144;0;0;0;0
+Heavy Hawkwood's Shield;Small Shield;42;0;0;0;0;133.2;0;0;0;0
+Sharp Hawkwood's Shield;Small Shield;22;0;0;0;0;133.2;0;0;0;0
+Refined Hawkwood's Shield;Small Shield;32;32;0;0;0;129.6;0;0;0;0
+Simple Hawkwood's Shield;Small Shield;26;0;28;0;0;72;82.8;0;0;0
+Crystal Hawkwood's Shield;Small Shield;20;0;33;0;0;68.4;93.6;0;0;0
+Fire Hawkwood's Shield;Small Shield;0;0;0;0;0;118.8;0;118.8;0;0
+Chaos Hawkwood's Shield;Small Shield;24;0;22;22;0;72;0;93.6;0;0
+Lightning Hawkwood's Shield;Small Shield;20;0;0;33;0;68.4;0;0;93.6;0
+Deep Hawkwood's Shield;Small Shield;0;0;0;0;0;118.8;0;0;0;118.8
+Dark Hawkwood's Shield;Small Shield;24;0;22;22;0;72;0;0;0;93.6
+Poison Hawkwood's Shield;Small Shield;28;0;0;0;0;111.6;0;0;0;0
+Blood Hawkwood's Shield;Small Shield;28;0;0;0;0;111.6;0;0;0;0
+Raw Hawkwood's Shield;Small Shield;0;0;0;0;0;180;0;0;0;0
+Blessed Hawkwood's Shield;Small Shield;22;0;0;26;0;93.6;0;0;0;0
+Hollow Hawkwood's Shield;Small Shield;28;0;0;0;6;136.8;0;0;0;0
+Iron Round Shield;Small Shield;28;0;0;0;0;142;0;0;0;0
+Heavy Iron Round Shield;Small Shield;42;0;0;0;0;131.35;0;0;0;0
+Sharp Iron Round Shield;Small Shield;22;0;0;0;0;131.35;0;0;0;0
+Refined Iron Round Shield;Small Shield;32;32;0;0;0;127.8;0;0;0;0
+Simple Iron Round Shield;Small Shield;26;0;28;0;0;71;81.65;0;0;0
+Crystal Iron Round Shield;Small Shield;20;0;33;0;0;67.45;92.3;0;0;0
+Fire Iron Round Shield;Small Shield;0;0;0;0;0;117.15;0;117.15;0;0
+Chaos Iron Round Shield;Small Shield;24;0;22;22;0;71;0;92.3;0;0
+Lightning Iron Round Shield;Small Shield;20;0;0;33;0;67.45;0;0;92.3;0
+Deep Iron Round Shield;Small Shield;0;0;0;0;0;117.15;0;0;0;117.15
+Dark Iron Round Shield;Small Shield;24;0;22;22;0;71;0;0;0;92.3
+Poison Iron Round Shield;Small Shield;28;0;0;0;0;110.05;0;0;0;0
+Blood Iron Round Shield;Small Shield;28;0;0;0;0;110.05;0;0;0;0
+Raw Iron Round Shield;Small Shield;0;0;0;0;0;177.5;0;0;0;0
+Blessed Iron Round Shield;Small Shield;22;0;0;26;0;92.3;0;0;0;0
+Hollow Iron Round Shield;Small Shield;28;0;0;0;6;134.9;0;0;0;0
+Wooden Shield;Shield;42;0;0;0;0;156;0;0;0;0
+Heavy Wooden Shield;Shield;63;0;0;0;0;144.3;0;0;0;0
+Sharp Wooden Shield;Shield;33;0;0;0;0;144.3;0;0;0;0
+Refined Wooden Shield;Shield;40;40;0;0;0;140.4;0;0;0;0
+Simple Wooden Shield;Shield;39;0;42;0;0;78;89.7;0;0;0
+Crystal Wooden Shield;Shield;30;0;49.5;0;0;74.1;101.4;0;0;0
+Fire Wooden Shield;Shield;0;0;0;0;0;128.7;0;128.7;0;0
+Chaos Wooden Shield;Shield;36;0;33;33;0;78;0;101.4;0;0
+Lightning Wooden Shield;Shield;30;0;0;49.5;0;74.1;0;0;101.4;0
+Deep Wooden Shield;Shield;0;0;0;0;0;128.7;0;0;0;128.7
+Dark Wooden Shield;Shield;36;0;33;33;0;78;0;0;0;101.4
+Poison Wooden Shield;Shield;42;0;0;0;0;120.9;0;0;0;0
+Blood Wooden Shield;Shield;42;0;0;0;0;120.9;0;0;0;0
+Raw Wooden Shield;Shield;0;0;0;0;0;195;0;0;0;0
+Blessed Wooden Shield;Shield;33;0;0;39;0;101.4;0;0;0;0
+Hollow Wooden Shield;Shield;42;0;0;0;9;148.2;0;0;0;0
+Kite Shield;Shield;42;0;0;0;0;160;0;0;0;0
+Heavy Kite Shield;Shield;63;0;0;0;0;148;0;0;0;0
+Sharp Kite Shield;Shield;33;0;0;0;0;148;0;0;0;0
+Refined Kite Shield;Shield;40;40;0;0;0;144;0;0;0;0
+Simple Kite Shield;Shield;39;0;42;0;0;80;92;0;0;0
+Crystal Kite Shield;Shield;30;0;49.5;0;0;76;104;0;0;0
+Fire Kite Shield;Shield;0;0;0;0;0;132;0;132;0;0
+Chaos Kite Shield;Shield;36;0;33;33;0;80;0;104;0;0
+Lightning Kite Shield;Shield;30;0;0;49.5;0;76;0;0;104;0
+Deep Kite Shield;Shield;0;0;0;0;0;132;0;0;0;132
+Dark Kite Shield;Shield;36;0;33;33;0;80;0;0;0;104
+Poison Kite Shield;Shield;42;0;0;0;0;124;0;0;0;0
+Blood Kite Shield;Shield;42;0;0;0;0;124;0;0;0;0
+Raw Kite Shield;Shield;0;0;0;0;0;200;0;0;0;0
+Blessed Kite Shield;Shield;33;0;0;39;0;104;0;0;0;0
+Hollow Kite Shield;Shield;42;0;0;0;9;152;0;0;0;0
+Ghru Rotshield;Small Shield;28;0;0;0;0;156;0;0;0;0
+Heavy Ghru Rotshield;Small Shield;42;0;0;0;0;144.3;0;0;0;0
+Sharp Ghru Rotshield;Small Shield;22;0;0;0;0;144.3;0;0;0;0
+Refined Ghru Rotshield;Small Shield;32;32;0;0;0;140.4;0;0;0;0
+Simple Ghru Rotshield;Small Shield;26;0;28;0;0;78;89.7;0;0;0
+Crystal Ghru Rotshield;Small Shield;20;0;33;0;0;74.1;101.4;0;0;0
+Fire Ghru Rotshield;Small Shield;0;0;0;0;0;128.7;0;128.7;0;0
+Chaos Ghru Rotshield;Small Shield;24;0;22;22;0;78;0;101.4;0;0
+Lightning Ghru Rotshield;Small Shield;20;0;0;33;0;74.1;0;0;101.4;0
+Deep Ghru Rotshield;Small Shield;0;0;0;0;0;128.7;0;0;0;128.7
+Dark Ghru Rotshield;Small Shield;24;0;22;22;0;78;0;0;0;101.4
+Poison Ghru Rotshield;Small Shield;28;0;0;0;0;120.9;0;0;0;0
+Blood Ghru Rotshield;Small Shield;28;0;0;0;0;120.9;0;0;0;0
+Raw Ghru Rotshield;Small Shield;0;0;0;0;0;195;0;0;0;0
+Blessed Ghru Rotshield;Small Shield;22;0;0;26;0;101.4;0;0;0;0
+Hollow Ghru Rotshield;Small Shield;28;0;0;0;6;148.2;0;0;0;0
+Havel's Greatshield;Greatshield;51.8;0;0;0;0;250;0;0;0;0
+Target Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+Heavy Target Shield;Small Shield;42;0;0;0;0;127.65;0;0;0;0
+Sharp Target Shield;Small Shield;22;0;0;0;0;127.65;0;0;0;0
+Refined Target Shield;Small Shield;32;32;0;0;0;124.2;0;0;0;0
+Simple Target Shield;Small Shield;26;0;28;0;0;69;79.35;0;0;0
+Crystal Target Shield;Small Shield;20;0;33;0;0;65.55;89.7;0;0;0
+Fire Target Shield;Small Shield;0;0;0;0;0;113.85;0;113.85;0;0
+Chaos Target Shield;Small Shield;24;0;22;22;0;69;0;89.7;0;0
+Lightning Target Shield;Small Shield;20;0;0;33;0;65.55;0;0;89.7;0
+Deep Target Shield;Small Shield;0;0;0;0;0;113.85;0;0;0;113.85
+Dark Target Shield;Small Shield;24;0;22;22;0;69;0;0;0;89.7
+Poison Target Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Blood Target Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Raw Target Shield;Small Shield;0;0;0;0;0;172.5;0;0;0;0
+Blessed Target Shield;Small Shield;22;0;0;26;0;89.7;0;0;0;0
+Hollow Target Shield;Small Shield;28;0;0;0;6;131.1;0;0;0;0
+Elkhorn Round Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+Heavy Elkhorn Round Shield;Small Shield;42;0;0;0;0;127.65;0;0;0;0
+Sharp Elkhorn Round Shield;Small Shield;22;0;0;0;0;127.65;0;0;0;0
+Refined Elkhorn Round Shield;Small Shield;32;32;0;0;0;124.2;0;0;0;0
+Simple Elkhorn Round Shield;Small Shield;26;0;28;0;0;69;79.35;0;0;0
+Crystal Elkhorn Round Shield;Small Shield;20;0;33;0;0;65.55;89.7;0;0;0
+Fire Elkhorn Round Shield;Small Shield;0;0;0;0;0;113.85;0;113.85;0;0
+Chaos Elkhorn Round Shield;Small Shield;24;0;22;22;0;69;0;89.7;0;0
+Lightning Elkhorn Round Shield;Small Shield;20;0;0;33;0;65.55;0;0;89.7;0
+Deep Elkhorn Round Shield;Small Shield;0;0;0;0;0;113.85;0;0;0;113.85
+Dark Elkhorn Round Shield;Small Shield;24;0;22;22;0;69;0;0;0;89.7
+Poison Elkhorn Round Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Blood Elkhorn Round Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Raw Elkhorn Round Shield;Small Shield;0;0;0;0;0;172.5;0;0;0;0
+Blessed Elkhorn Round Shield;Small Shield;22;0;0;26;0;89.7;0;0;0;0
+Hollow Elkhorn Round Shield;Small Shield;28;0;0;0;6;131.1;0;0;0;0
+Warrior's Round Shield;Small Shield;28;0;0;0;0;148;0;0;0;0
+Heavy Warrior's Round Shield;Small Shield;42;0;0;0;0;136.9;0;0;0;0
+Sharp Warrior's Round Shield;Small Shield;22;0;0;0;0;136.9;0;0;0;0
+Refined Warrior's Round Shield;Small Shield;32;32;0;0;0;133.2;0;0;0;0
+Simple Warrior's Round Shield;Small Shield;26;0;28;0;0;74;85.1;0;0;0
+Crystal Warrior's Round Shield;Small Shield;20;0;33;0;0;70.3;96.2;0;0;0
+Fire Warrior's Round Shield;Small Shield;0;0;0;0;0;122.1;0;122.1;0;0
+Chaos Warrior's Round Shield;Small Shield;24;0;22;22;0;74;0;96.2;0;0
+Lightning Warrior's Round Shield;Small Shield;20;0;0;33;0;70.3;0;0;96.2;0
+Deep Warrior's Round Shield;Small Shield;0;0;0;0;0;122.1;0;0;0;122.1
+Dark Warrior's Round Shield;Small Shield;24;0;22;22;0;74;0;0;0;96.2
+Poison Warrior's Round Shield;Small Shield;28;0;0;0;0;114.7;0;0;0;0
+Blood Warrior's Round Shield;Small Shield;28;0;0;0;0;114.7;0;0;0;0
+Raw Warrior's Round Shield;Small Shield;0;0;0;0;0;185;0;0;0;0
+Blessed Warrior's Round Shield;Small Shield;22;0;0;26;0;96.2;0;0;0;0
+Hollow Warrior's Round Shield;Small Shield;28;0;0;0;6;140.6;0;0;0;0
+Caduceus Round Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+Heavy Caduceus Round Shield;Small Shield;42;0;0;0;0;127.65;0;0;0;0
+Sharp Caduceus Round Shield;Small Shield;22;0;0;0;0;127.65;0;0;0;0
+Refined Caduceus Round Shield;Small Shield;32;32;0;0;0;124.2;0;0;0;0
+Simple Caduceus Round Shield;Small Shield;26;0;28;0;0;69;79.35;0;0;0
+Crystal Caduceus Round Shield;Small Shield;20;0;33;0;0;65.55;89.7;0;0;0
+Fire Caduceus Round Shield;Small Shield;0;0;0;0;0;113.85;0;113.85;0;0
+Chaos Caduceus Round Shield;Small Shield;24;0;22;22;0;69;0;89.7;0;0
+Lightning Caduceus Round Shield;Small Shield;20;0;0;33;0;65.55;0;0;89.7;0
+Deep Caduceus Round Shield;Small Shield;0;0;0;0;0;113.85;0;0;0;113.85
+Dark Caduceus Round Shield;Small Shield;24;0;22;22;0;69;0;0;0;89.7
+Poison Caduceus Round Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Blood Caduceus Round Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Raw Caduceus Round Shield;Small Shield;0;0;0;0;0;172.5;0;0;0;0
+Blessed Caduceus Round Shield;Small Shield;22;0;0;26;0;89.7;0;0;0;0
+Hollow Caduceus Round Shield;Small Shield;28;0;0;0;6;131.1;0;0;0;0
+Red and White Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+Heavy Red and White Shield;Small Shield;42;0;0;0;0;127.65;0;0;0;0
+Sharp Red and White Shield;Small Shield;22;0;0;0;0;127.65;0;0;0;0
+Refined Red and White Shield;Small Shield;32;32;0;0;0;124.2;0;0;0;0
+Simple Red and White Shield;Small Shield;26;0;28;0;0;69;79.35;0;0;0
+Crystal Red and White Shield;Small Shield;20;0;33;0;0;65.55;89.7;0;0;0
+Fire Red and White Shield;Small Shield;0;0;0;0;0;113.85;0;113.85;0;0
+Chaos Red and White Shield;Small Shield;24;0;22;22;0;69;0;89.7;0;0
+Lightning Red and White Shield;Small Shield;20;0;0;33;0;65.55;0;0;89.7;0
+Deep Red and White Shield;Small Shield;0;0;0;0;0;113.85;0;0;0;113.85
+Dark Red and White Shield;Small Shield;24;0;22;22;0;69;0;0;0;89.7
+Poison Red and White Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Blood Red and White Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Raw Red and White Shield;Small Shield;0;0;0;0;0;172.5;0;0;0;0
+Blessed Red and White Shield;Small Shield;22;0;0;26;0;89.7;0;0;0;0
+Hollow Red and White Shield;Small Shield;28;0;0;0;6;131.1;0;0;0;0
+Plank Shield;Small Shield;26.6;0;0;0;0;106;0;0;0;0
+Heavy Plank Shield;Small Shield;39.9;0;0;0;0;98.05;0;0;0;0
+Sharp Plank Shield;Small Shield;20.9;0;0;0;0;98.05;0;0;0;0
+Refined Plank Shield;Small Shield;30.4;30.4;0;0;0;95.4;0;0;0;0
+Simple Plank Shield;Small Shield;24.7;0;26.6;0;0;53;60.95;0;0;0
+Crystal Plank Shield;Small Shield;19;0;31.35;0;0;50.35;68.9;0;0;0
+Fire Plank Shield;Small Shield;0;0;0;0;0;87.45;0;87.45;0;0
+Chaos Plank Shield;Small Shield;22.8;0;20.9;20.9;0;53;0;68.9;0;0
+Lightning Plank Shield;Small Shield;19;0;0;31.35;0;50.35;0;0;68.9;0
+Deep Plank Shield;Small Shield;0;0;0;0;0;87.45;0;0;0;87.45
+Dark Plank Shield;Small Shield;22.8;0;20.9;20.9;0;53;0;0;0;68.9
+Poison Plank Shield;Small Shield;26.6;0;0;0;0;82.15;0;0;0;0
+Blood Plank Shield;Small Shield;26.6;0;0;0;0;82.15;0;0;0;0
+Raw Plank Shield;Small Shield;0;0;0;0;0;132.5;0;0;0;0
+Blessed Plank Shield;Small Shield;20.9;0;0;24.7;0;68.9;0;0;0;0
+Hollow Plank Shield;Small Shield;26.6;0;0;0;6;100.7;0;0;0;0
+Leather Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+Heavy Leather Shield;Small Shield;42;0;0;0;0;127.65;0;0;0;0
+Sharp Leather Shield;Small Shield;22;0;0;0;0;127.65;0;0;0;0
+Refined Leather Shield;Small Shield;32;32;0;0;0;124.2;0;0;0;0
+Simple Leather Shield;Small Shield;26;0;28;0;0;69;79.35;0;0;0
+Crystal Leather Shield;Small Shield;20;0;33;0;0;65.55;89.7;0;0;0
+Fire Leather Shield;Small Shield;0;0;0;0;0;113.85;0;113.85;0;0
+Chaos Leather Shield;Small Shield;24;0;22;22;0;69;0;89.7;0;0
+Lightning Leather Shield;Small Shield;20;0;0;33;0;65.55;0;0;89.7;0
+Deep Leather Shield;Small Shield;0;0;0;0;0;113.85;0;0;0;113.85
+Dark Leather Shield;Small Shield;24;0;22;22;0;69;0;0;0;89.7
+Poison Leather Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Blood Leather Shield;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Raw Leather Shield;Small Shield;0;0;0;0;0;172.5;0;0;0;0
+Blessed Leather Shield;Small Shield;22;0;0;26;0;89.7;0;0;0;0
+Hollow Leather Shield;Small Shield;28;0;0;0;6;131.1;0;0;0;0
+Crimson Parma;Small Shield;28;0;0;0;0;138;0;0;0;0
+Heavy Crimson Parma;Small Shield;42;0;0;0;0;127.65;0;0;0;0
+Sharp Crimson Parma;Small Shield;22;0;0;0;0;127.65;0;0;0;0
+Refined Crimson Parma;Small Shield;32;32;0;0;0;124.2;0;0;0;0
+Simple Crimson Parma;Small Shield;26;0;28;0;0;69;79.35;0;0;0
+Crystal Crimson Parma;Small Shield;20;0;33;0;0;65.55;89.7;0;0;0
+Fire Crimson Parma;Small Shield;0;0;0;0;0;113.85;0;113.85;0;0
+Chaos Crimson Parma;Small Shield;24;0;22;22;0;69;0;89.7;0;0
+Lightning Crimson Parma;Small Shield;20;0;0;33;0;65.55;0;0;89.7;0
+Deep Crimson Parma;Small Shield;0;0;0;0;0;113.85;0;0;0;113.85
+Dark Crimson Parma;Small Shield;24;0;22;22;0;69;0;0;0;89.7
+Poison Crimson Parma;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Blood Crimson Parma;Small Shield;28;0;0;0;0;106.95;0;0;0;0
+Raw Crimson Parma;Small Shield;0;0;0;0;0;172.5;0;0;0;0
+Blessed Crimson Parma;Small Shield;22;0;0;26;0;89.7;0;0;0;0
+Hollow Crimson Parma;Small Shield;28;0;0;0;6;131.1;0;0;0;0
+Eastern Iron Shield;Small Shield;29.4;0;0;0;0;162;0;0;0;0
+Heavy Eastern Iron Shield;Small Shield;44.1;0;0;0;0;149.85;0;0;0;0
+Sharp Eastern Iron Shield;Small Shield;23.1;0;0;0;0;149.85;0;0;0;0
+Refined Eastern Iron Shield;Small Shield;32;32;0;0;0;145.8;0;0;0;0
+Simple Eastern Iron Shield;Small Shield;27.3;0;29.4;0;0;76;87.4;0;0;0
+Crystal Eastern Iron Shield;Small Shield;21;0;34.65;0;0;72.2;98.8;0;0;0
+Fire Eastern Iron Shield;Small Shield;0;0;0;0;0;125.4;0;125.4;0;0
+Chaos Eastern Iron Shield;Small Shield;25.2;0;23.1;23.1;0;76;0;98.8;0;0
+Lightning Eastern Iron Shield;Small Shield;21;0;0;34.65;0;72.2;0;0;98.8;0
+Deep Eastern Iron Shield;Small Shield;0;0;0;0;0;125.4;0;0;0;125.4
+Dark Eastern Iron Shield;Small Shield;25.2;0;23.1;23.1;0;76;0;0;0;98.8
+Poison Eastern Iron Shield;Small Shield;29.4;0;0;0;0;125.55;0;0;0;0
+Blood Eastern Iron Shield;Small Shield;29.4;0;0;0;0;125.55;0;0;0;0
+Raw Eastern Iron Shield;Small Shield;0;0;0;0;0;202.5;0;0;0;0
+Blessed Eastern Iron Shield;Small Shield;23.1;0;0;27.3;0;98.8;0;0;0;0
+Hollow Eastern Iron Shield;Small Shield;29.4;0;0;0;7.5;153.9;0;0;0;0
+Llewellyn Shield;Small Shield;29.4;0;0;0;0;152;0;0;0;0
+Heavy Llewellyn Shield;Small Shield;44.1;0;0;0;0;140.6;0;0;0;0
+Sharp Llewellyn Shield;Small Shield;23.1;0;0;0;0;140.6;0;0;0;0
+Refined Llewellyn Shield;Small Shield;32;32;0;0;0;136.8;0;0;0;0
+Simple Llewellyn Shield;Small Shield;27.3;0;29.4;0;0;76;87.4;0;0;0
+Crystal Llewellyn Shield;Small Shield;21;0;34.65;0;0;72.2;98.8;0;0;0
+Fire Llewellyn Shield;Small Shield;0;0;0;0;0;125.4;0;125.4;0;0
+Chaos Llewellyn Shield;Small Shield;25.2;0;23.1;23.1;0;76;0;98.8;0;0
+Lightning Llewellyn Shield;Small Shield;21;0;0;34.65;0;72.2;0;0;98.8;0
+Deep Llewellyn Shield;Small Shield;0;0;0;0;0;125.4;0;0;0;125.4
+Dark Llewellyn Shield;Small Shield;25.2;0;23.1;23.1;0;76;0;0;0;98.8
+Poison Llewellyn Shield;Small Shield;29.4;0;0;0;0;117.8;0;0;0;0
+Blood Llewellyn Shield;Small Shield;29.4;0;0;0;0;117.8;0;0;0;0
+Raw Llewellyn Shield;Small Shield;0;0;0;0;0;190;0;0;0;0
+Blessed Llewellyn Shield;Small Shield;23.1;0;0;27.3;0;98.8;0;0;0;0
+Hollow Llewellyn Shield;Small Shield;29.4;0;0;0;7.5;144.4;0;0;0;0
+Golden Falcon Shield;Small Shield;29.4;0;0;0;0;148;0;0;0;0
+Heavy Golden Falcon Shield;Small Shield;44.1;0;0;0;0;136.9;0;0;0;0
+Sharp Golden Falcon Shield;Small Shield;23.1;0;0;0;0;136.9;0;0;0;0
+Refined Golden Falcon Shield;Small Shield;32;32;0;0;0;133.2;0;0;0;0
+Simple Golden Falcon Shield;Small Shield;27.3;0;29.4;0;0;74;85.1;0;0;0
+Crystal Golden Falcon Shield;Small Shield;21;0;34.65;0;0;70.3;96.2;0;0;0
+Fire Golden Falcon Shield;Small Shield;0;0;0;0;0;122.1;0;122.1;0;0
+Chaos Golden Falcon Shield;Small Shield;25.2;0;23.1;23.1;0;74;0;96.2;0;0
+Lightning Golden Falcon Shield;Small Shield;21;0;0;34.65;0;70.3;0;0;96.2;0
+Deep Golden Falcon Shield;Small Shield;0;0;0;0;0;122.1;0;0;0;122.1
+Dark Golden Falcon Shield;Small Shield;25.2;0;23.1;23.1;0;74;0;0;0;96.2
+Poison Golden Falcon Shield;Small Shield;29.4;0;0;0;0;114.7;0;0;0;0
+Blood Golden Falcon Shield;Small Shield;29.4;0;0;0;0;114.7;0;0;0;0
+Raw Golden Falcon Shield;Small Shield;0;0;0;0;0;185;0;0;0;0
+Blessed Golden Falcon Shield;Small Shield;23.1;0;0;27.3;0;96.2;0;0;0;0
+Hollow Golden Falcon Shield;Small Shield;29.4;0;0;0;7.5;140.6;0;0;0;0
+Sacred Bloom Shield;Small Shield;29.4;0;0;0;0;144;0;0;0;0
+Ancient Dragon Greatshield;Greatshield;49;0;0;0;0;152;0;0;0;0
+Lothric Knight Shield;Shield;42;0;0;0;0;166;0;0;0;0
+Heavy Lothric Knight Shield;Shield;63;0;0;0;0;153.55;0;0;0;0
+Sharp Lothric Knight Shield;Shield;33;0;0;0;0;153.55;0;0;0;0
+Refined Lothric Knight Shield;Shield;40;40;0;0;0;149.4;0;0;0;0
+Simple Lothric Knight Shield;Shield;39;0;42;0;0;83;95.45;0;0;0
+Crystal Lothric Knight Shield;Shield;30;0;49.5;0;0;78.85;107.9;0;0;0
+Fire Lothric Knight Shield;Shield;0;0;0;0;0;136.95;0;136.95;0;0
+Chaos Lothric Knight Shield;Shield;36;0;33;33;0;83;0;107.9;0;0
+Lightning Lothric Knight Shield;Shield;30;0;0;49.5;0;78.85;0;0;107.9;0
+Deep Lothric Knight Shield;Shield;0;0;0;0;0;136.95;0;0;0;136.95
+Dark Lothric Knight Shield;Shield;36;0;33;33;0;83;0;0;0;107.9
+Poison Lothric Knight Shield;Shield;42;0;0;0;0;128.65;0;0;0;0
+Blood Lothric Knight Shield;Shield;42;0;0;0;0;128.65;0;0;0;0
+Raw Lothric Knight Shield;Shield;0;0;0;0;0;207.5;0;0;0;0
+Blessed Lothric Knight Shield;Shield;33;0;0;39;0;107.9;0;0;0;0
+Hollow Lothric Knight Shield;Shield;42;0;0;0;9;157.7;0;0;0;0
+Knight Shield;Shield;40.6;0;0;0;0;158;0;0;0;0
+Heavy Knight Shield;Shield;60.9;0;0;0;0;146.15;0;0;0;0
+Sharp Knight Shield;Shield;31.9;0;0;0;0;146.15;0;0;0;0
+Refined Knight Shield;Shield;38.4;38.4;0;0;0;142.2;0;0;0;0
+Simple Knight Shield;Shield;37.7;0;40.6;0;0;79;90.85;0;0;0
+Crystal Knight Shield;Shield;29;0;47.85;0;0;75.05;102.7;0;0;0
+Fire Knight Shield;Shield;0;0;0;0;0;130.35;0;130.35;0;0
+Chaos Knight Shield;Shield;34.8;0;31.9;31.9;0;79;0;102.7;0;0
+Lightning Knight Shield;Shield;29;0;0;47.85;0;75.05;0;0;102.7;0
+Deep Knight Shield;Shield;0;0;0;0;0;130.35;0;0;0;130.35
+Dark Knight Shield;Shield;34.8;0;31.9;31.9;0;79;0;0;0;102.7
+Poison Knight Shield;Shield;40.6;0;0;0;0;122.45;0;0;0;0
+Blood Knight Shield;Shield;40.6;0;0;0;0;122.45;0;0;0;0
+Raw Knight Shield;Shield;0;0;0;0;0;197.5;0;0;0;0
+Blessed Knight Shield;Shield;31.9;0;0;37.7;0;102.7;0;0;0;0
+Hollow Knight Shield;Shield;40.6;0;0;0;9;150.1;0;0;0;0
+Pontiff Knight Shield;Shield;35;0;0;0;0;110;0;0;0;0
+Carthus Shield;Shield;42;0;0;0;0;112;0;0;0;0
+Heavy Carthus Shield;Shield;63;0;0;0;0;103.6;0;0;0;0
+Sharp Carthus Shield;Shield;33;0;0;0;0;103.6;0;0;0;0
+Refined Carthus Shield;Shield;40;40;0;0;0;100.8;0;0;0;0
+Simple Carthus Shield;Shield;39;0;42;0;0;56;64.4;0;0;0
+Crystal Carthus Shield;Shield;30;0;49.5;0;0;53.2;72.8;0;0;0
+Fire Carthus Shield;Shield;0;0;0;0;0;92.4;0;92.4;0;0
+Chaos Carthus Shield;Shield;36;0;33;33;0;56;0;72.8;0;0
+Lightning Carthus Shield;Shield;30;0;0;49.5;0;53.2;0;0;72.8;0
+Deep Carthus Shield;Shield;0;0;0;0;0;92.4;0;0;0;92.4
+Dark Carthus Shield;Shield;36;0;33;33;0;56;0;0;0;72.8
+Poison Carthus Shield;Shield;42;0;0;0;0;86.8;0;0;0;0
+Blood Carthus Shield;Shield;42;0;0;0;0;86.8;0;0;0;0
+Raw Carthus Shield;Shield;0;0;0;0;0;140;0;0;0;0
+Blessed Carthus Shield;Shield;33;0;0;39;0;72.8;0;0;0;0
+Hollow Carthus Shield;Shield;42;0;0;0;9;106.4;0;0;0;0
+Black Knight Shield;Shield;43.4;0;0;0;0;198;0;0;0;0
+Silver Knight Shield;Shield;43.4;0;0;0;0;172;0;0;0;0
+Spiked Shield;Shield;42;0;0;0;0;172;0;0;0;0
+Heavy Spiked Shield;Shield;63;0;0;0;0;159.1;0;0;0;0
+Sharp Spiked Shield;Shield;33;0;0;0;0;159.1;0;0;0;0
+Refined Spiked Shield;Shield;40;40;0;0;0;154.8;0;0;0;0
+Simple Spiked Shield;Shield;39;0;42;0;0;81;93.15;0;0;0
+Crystal Spiked Shield;Shield;30;0;49.5;0;0;76.95;105.3;0;0;0
+Fire Spiked Shield;Shield;0;0;0;0;0;133.65;0;133.65;0;0
+Chaos Spiked Shield;Shield;36;0;33;33;0;81;0;105.3;0;0
+Lightning Spiked Shield;Shield;30;0;0;49.5;0;76.95;0;0;105.3;0
+Deep Spiked Shield;Shield;0;0;0;0;0;133.65;0;0;0;133.65
+Dark Spiked Shield;Shield;36;0;33;33;0;81;0;0;0;105.3
+Poison Spiked Shield;Shield;42;0;0;0;0;133.3;0;0;0;0
+Blood Spiked Shield;Shield;42;0;0;0;0;133.3;0;0;0;0
+Raw Spiked Shield;Shield;0;0;0;0;0;215;0;0;0;0
+Blessed Spiked Shield;Shield;33;0;0;39;0;105.3;0;0;0;0
+Hollow Spiked Shield;Shield;42;0;0;0;9;163.4;0;0;0;0
+Pierce Shield;Shield;43.4;0;0;0;0;174;0;0;0;0
+Heavy Pierce Shield;Shield;65.1;0;0;0;0;160.95;0;0;0;0
+Sharp Pierce Shield;Shield;34.1;0;0;0;0;160.95;0;0;0;0
+Refined Pierce Shield;Shield;40;40;0;0;0;156.6;0;0;0;0
+Simple Pierce Shield;Shield;40.3;0;43.4;0;0;82;94.3;0;0;0
+Crystal Pierce Shield;Shield;31;0;51.15;0;0;77.9;106.6;0;0;0
+Fire Pierce Shield;Shield;0;0;0;0;0;135.3;0;135.3;0;0
+Chaos Pierce Shield;Shield;37.2;0;34.1;34.1;0;82;0;106.6;0;0
+Lightning Pierce Shield;Shield;31;0;0;51.15;0;77.9;0;0;106.6;0
+Deep Pierce Shield;Shield;0;0;0;0;0;135.3;0;0;0;135.3
+Dark Pierce Shield;Shield;37.2;0;34.1;34.1;0;82;0;0;0;106.6
+Poison Pierce Shield;Shield;43.4;0;0;0;0;134.85;0;0;0;0
+Blood Pierce Shield;Shield;43.4;0;0;0;0;134.85;0;0;0;0
+Raw Pierce Shield;Shield;0;0;0;0;0;217.5;0;0;0;0
+Blessed Pierce Shield;Shield;34.1;0;0;40.3;0;106.6;0;0;0;0
+Hollow Pierce Shield;Shield;43.4;0;0;0;10.5;165.3;0;0;0;0
+East-West Shield;Shield;40.6;0;0;0;0;152;0;0;0;0
+Heavy East-West Shield;Shield;60.9;0;0;0;0;140.6;0;0;0;0
+Sharp East-West Shield;Shield;31.9;0;0;0;0;140.6;0;0;0;0
+Refined East-West Shield;Shield;38.4;38.4;0;0;0;136.8;0;0;0;0
+Simple East-West Shield;Shield;37.7;0;40.6;0;0;76;87.4;0;0;0
+Crystal East-West Shield;Shield;29;0;47.85;0;0;72.2;98.8;0;0;0
+Fire East-West Shield;Shield;0;0;0;0;0;125.4;0;125.4;0;0
+Chaos East-West Shield;Shield;34.8;0;31.9;31.9;0;76;0;98.8;0;0
+Lightning East-West Shield;Shield;29;0;0;47.85;0;72.2;0;0;98.8;0
+Deep East-West Shield;Shield;0;0;0;0;0;125.4;0;0;0;125.4
+Dark East-West Shield;Shield;34.8;0;31.9;31.9;0;76;0;0;0;98.8
+Poison East-West Shield;Shield;40.6;0;0;0;0;117.8;0;0;0;0
+Blood East-West Shield;Shield;40.6;0;0;0;0;117.8;0;0;0;0
+Raw East-West Shield;Shield;0;0;0;0;0;190;0;0;0;0
+Blessed East-West Shield;Shield;31.9;0;0;37.7;0;98.8;0;0;0;0
+Hollow East-West Shield;Shield;40.6;0;0;0;9;144.4;0;0;0;0
+Sunlight Shield;Shield;42;0;0;0;0;164;0;0;0;0
+Heavy Sunlight Shield;Shield;63;0;0;0;0;151.7;0;0;0;0
+Sharp Sunlight Shield;Shield;33;0;0;0;0;151.7;0;0;0;0
+Refined Sunlight Shield;Shield;40;40;0;0;0;147.6;0;0;0;0
+Simple Sunlight Shield;Shield;39;0;42;0;0;82;94.3;0;0;0
+Crystal Sunlight Shield;Shield;30;0;49.5;0;0;77.9;106.6;0;0;0
+Fire Sunlight Shield;Shield;0;0;0;0;0;135.3;0;135.3;0;0
+Chaos Sunlight Shield;Shield;36;0;33;33;0;82;0;106.6;0;0
+Lightning Sunlight Shield;Shield;30;0;0;49.5;0;77.9;0;0;106.6;0
+Deep Sunlight Shield;Shield;0;0;0;0;0;135.3;0;0;0;135.3
+Dark Sunlight Shield;Shield;36;0;33;33;0;82;0;0;0;106.6
+Poison Sunlight Shield;Shield;42;0;0;0;0;127.1;0;0;0;0
+Blood Sunlight Shield;Shield;42;0;0;0;0;127.1;0;0;0;0
+Raw Sunlight Shield;Shield;0;0;0;0;0;205;0;0;0;0
+Blessed Sunlight Shield;Shield;33;0;0;39;0;106.6;0;0;0;0
+Hollow Sunlight Shield;Shield;42;0;0;0;9;155.8;0;0;0;0
+Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
+Dragon Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
+Spider Shield;Shield;42;0;0;0;0;176;0;0;0;0
+Heavy Spider Shield;Shield;63;0;0;0;0;162.8;0;0;0;0
+Sharp Spider Shield;Shield;33;0;0;0;0;162.8;0;0;0;0
+Refined Spider Shield;Shield;40;40;0;0;0;158.4;0;0;0;0
+Simple Spider Shield;Shield;39;0;42;0;0;88;101.2;0;0;0
+Crystal Spider Shield;Shield;30;0;49.5;0;0;83.6;114.4;0;0;0
+Fire Spider Shield;Shield;0;0;0;0;0;145.2;0;145.2;0;0
+Chaos Spider Shield;Shield;36;0;33;33;0;88;0;114.4;0;0
+Lightning Spider Shield;Shield;30;0;0;49.5;0;83.6;0;0;114.4;0
+Deep Spider Shield;Shield;0;0;0;0;0;145.2;0;0;0;145.2
+Dark Spider Shield;Shield;36;0;33;33;0;88;0;0;0;114.4
+Poison Spider Shield;Shield;42;0;0;0;0;136.4;0;0;0;0
+Blood Spider Shield;Shield;42;0;0;0;0;136.4;0;0;0;0
+Raw Spider Shield;Shield;0;0;0;0;0;220;0;0;0;0
+Blessed Spider Shield;Shield;33;0;0;39;0;114.4;0;0;0;0
+Hollow Spider Shield;Shield;42;0;0;0;9;167.2;0;0;0;0
+Grass Crest Shield;Shield;42;0;0;0;0;160;0;0;0;0
+Sunset Shield;Shield;42;0;0;0;0;164;0;0;0;0
+Heavy Sunset Shield;Shield;63;0;0;0;0;151.7;0;0;0;0
+Sharp Sunset Shield;Shield;33;0;0;0;0;151.7;0;0;0;0
+Refined Sunset Shield;Shield;40;40;0;0;0;147.6;0;0;0;0
+Simple Sunset Shield;Shield;39;0;42;0;0;82;94.3;0;0;0
+Crystal Sunset Shield;Shield;30;0;49.5;0;0;77.9;106.6;0;0;0
+Fire Sunset Shield;Shield;0;0;0;0;0;135.3;0;135.3;0;0
+Chaos Sunset Shield;Shield;36;0;33;33;0;82;0;106.6;0;0
+Lightning Sunset Shield;Shield;30;0;0;49.5;0;77.9;0;0;106.6;0
+Deep Sunset Shield;Shield;0;0;0;0;0;135.3;0;0;0;135.3
+Dark Sunset Shield;Shield;36;0;33;33;0;82;0;0;0;106.6
+Poison Sunset Shield;Shield;42;0;0;0;0;127.1;0;0;0;0
+Blood Sunset Shield;Shield;42;0;0;0;0;127.1;0;0;0;0
+Raw Sunset Shield;Shield;0;0;0;0;0;205;0;0;0;0
+Blessed Sunset Shield;Shield;33;0;0;39;0;106.6;0;0;0;0
+Hollow Sunset Shield;Shield;42;0;0;0;9;155.8;0;0;0;0
+Golden Wing Crest Shield;Shield;43.4;0;0;0;0;178;0;0;0;0
+Blue Wooden Shield;Shield;40.6;0;0;0;0;154;0;0;0;0
+Heavy Blue Wooden Shield;Shield;60.9;0;0;0;0;142.45;0;0;0;0
+Sharp Blue Wooden Shield;Shield;31.9;0;0;0;0;142.45;0;0;0;0
+Refined Blue Wooden Shield;Shield;38.4;38.4;0;0;0;138.6;0;0;0;0
+Simple Blue Wooden Shield;Shield;37.7;0;40.6;0;0;77;88.55;0;0;0
+Crystal Blue Wooden Shield;Shield;29;0;47.85;0;0;73.15;100.1;0;0;0
+Fire Blue Wooden Shield;Shield;0;0;0;0;0;127.05;0;127.05;0;0
+Chaos Blue Wooden Shield;Shield;34.8;0;31.9;31.9;0;77;0;100.1;0;0
+Lightning Blue Wooden Shield;Shield;29;0;0;47.85;0;73.15;0;0;100.1;0
+Deep Blue Wooden Shield;Shield;0;0;0;0;0;127.05;0;0;0;127.05
+Dark Blue Wooden Shield;Shield;34.8;0;31.9;31.9;0;77;0;0;0;100.1
+Poison Blue Wooden Shield;Shield;40.6;0;0;0;0;119.35;0;0;0;0
+Blood Blue Wooden Shield;Shield;40.6;0;0;0;0;119.35;0;0;0;0
+Raw Blue Wooden Shield;Shield;0;0;0;0;0;192.5;0;0;0;0
+Blessed Blue Wooden Shield;Shield;31.9;0;0;37.7;0;100.1;0;0;0;0
+Hollow Blue Wooden Shield;Shield;40.6;0;0;0;9;146.3;0;0;0;0
+Silver Eagle Kite Shield;Shield;40.6;0;0;0;0;176;0;0;0;0
+Heavy Silver Eagle Kite Shield;Shield;60.9;0;0;0;0;162.8;0;0;0;0
+Sharp Silver Eagle Kite Shield;Shield;31.9;0;0;0;0;162.8;0;0;0;0
+Refined Silver Eagle Kite Shield;Shield;38.4;38.4;0;0;0;158.4;0;0;0;0
+Simple Silver Eagle Kite Shield;Shield;37.7;0;40.6;0;0;88;101.2;0;0;0
+Crystal Silver Eagle Kite Shield;Shield;29;0;47.85;0;0;83.6;114.4;0;0;0
+Fire Silver Eagle Kite Shield;Shield;0;0;0;0;0;145.2;0;145.2;0;0
+Chaos Silver Eagle Kite Shield;Shield;34.8;0;31.9;31.9;0;88;0;114.4;0;0
+Lightning Silver Eagle Kite Shield;Shield;29;0;0;47.85;0;83.6;0;0;114.4;0
+Deep Silver Eagle Kite Shield;Shield;0;0;0;0;0;145.2;0;0;0;145.2
+Dark Silver Eagle Kite Shield;Shield;34.8;0;31.9;31.9;0;88;0;0;0;114.4
+Poison Silver Eagle Kite Shield;Shield;40.6;0;0;0;0;136.4;0;0;0;0
+Blood Silver Eagle Kite Shield;Shield;40.6;0;0;0;0;136.4;0;0;0;0
+Raw Silver Eagle Kite Shield;Shield;0;0;0;0;0;220;0;0;0;0
+Blessed Silver Eagle Kite Shield;Shield;31.9;0;0;37.7;0;114.4;0;0;0;0
+Hollow Silver Eagle Kite Shield;Shield;40.6;0;0;0;9;167.2;0;0;0;0
+Stone Parma;Shield;42;0;0;0;0;188;0;0;0;0
+Heavy Stone Parma;Shield;63;0;0;0;0;173.9;0;0;0;0
+Sharp Stone Parma;Shield;33;0;0;0;0;173.9;0;0;0;0
+Refined Stone Parma;Shield;40;40;0;0;0;169.2;0;0;0;0
+Simple Stone Parma;Shield;39;0;42;0;0;89;102.35;0;0;0
+Crystal Stone Parma;Shield;30;0;49.5;0;0;84.55;115.7;0;0;0
+Fire Stone Parma;Shield;0;0;0;0;0;146.85;0;146.85;0;0
+Chaos Stone Parma;Shield;36;0;33;33;0;89;0;115.7;0;0
+Lightning Stone Parma;Shield;30;0;0;49.5;0;84.55;0;0;115.7;0
+Deep Stone Parma;Shield;0;0;0;0;0;146.85;0;0;0;146.85
+Dark Stone Parma;Shield;36;0;33;33;0;89;0;0;0;115.7
+Poison Stone Parma;Shield;42;0;0;0;0;145.7;0;0;0;0
+Blood Stone Parma;Shield;42;0;0;0;0;145.7;0;0;0;0
+Raw Stone Parma;Shield;0;0;0;0;0;235;0;0;0;0
+Blessed Stone Parma;Shield;33;0;0;39;0;115.7;0;0;0;0
+Hollow Stone Parma;Shield;42;0;0;0;9;178.6;0;0;0;0
+Spirit Tree Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
+Porcine Shield;Shield;42;0;0;0;0;170;0;0;0;0
+Heavy Porcine Shield;Shield;63;0;0;0;0;157.25;0;0;0;0
+Sharp Porcine Shield;Shield;33;0;0;0;0;157.25;0;0;0;0
+Refined Porcine Shield;Shield;40;40;0;0;0;153;0;0;0;0
+Simple Porcine Shield;Shield;39;0;42;0;0;80;92;0;0;0
+Crystal Porcine Shield;Shield;30;0;49.5;0;0;76;104;0;0;0
+Fire Porcine Shield;Shield;0;0;0;0;0;132;0;132;0;0
+Chaos Porcine Shield;Shield;36;0;33;33;0;80;0;104;0;0
+Lightning Porcine Shield;Shield;30;0;0;49.5;0;76;0;0;104;0
+Deep Porcine Shield;Shield;0;0;0;0;0;132;0;0;0;132
+Dark Porcine Shield;Shield;36;0;33;33;0;80;0;0;0;104
+Poison Porcine Shield;Shield;42;0;0;0;0;131.75;0;0;0;0
+Blood Porcine Shield;Shield;42;0;0;0;0;131.75;0;0;0;0
+Raw Porcine Shield;Shield;0;0;0;0;0;212.5;0;0;0;0
+Blessed Porcine Shield;Shield;33;0;0;39;0;104;0;0;0;0
+Hollow Porcine Shield;Shield;42;0;0;0;9;161.5;0;0;0;0
+Shield of Want;Shield;43.4;0;0;0;0;190;0;0;0;0
+Wargod Wooden Shield;Shield;42;0;0;0;0;176;0;0;0;0
+Heavy Wargod Wooden Shield;Shield;63;0;0;0;0;162.8;0;0;0;0
+Sharp Wargod Wooden Shield;Shield;33;0;0;0;0;162.8;0;0;0;0
+Refined Wargod Wooden Shield;Shield;40;40;0;0;0;158.4;0;0;0;0
+Simple Wargod Wooden Shield;Shield;39;0;42;0;0;88;101.2;0;0;0
+Crystal Wargod Wooden Shield;Shield;30;0;49.5;0;0;83.6;114.4;0;0;0
+Fire Wargod Wooden Shield;Shield;0;0;0;0;0;145.2;0;145.2;0;0
+Chaos Wargod Wooden Shield;Shield;36;0;33;33;0;88;0;114.4;0;0
+Lightning Wargod Wooden Shield;Shield;30;0;0;49.5;0;83.6;0;0;114.4;0
+Deep Wargod Wooden Shield;Shield;0;0;0;0;0;145.2;0;0;0;145.2
+Dark Wargod Wooden Shield;Shield;36;0;33;33;0;88;0;0;0;114.4
+Poison Wargod Wooden Shield;Shield;42;0;0;0;0;136.4;0;0;0;0
+Blood Wargod Wooden Shield;Shield;42;0;0;0;0;136.4;0;0;0;0
+Raw Wargod Wooden Shield;Shield;0;0;0;0;0;220;0;0;0;0
+Blessed Wargod Wooden Shield;Shield;33;0;0;39;0;114.4;0;0;0;0
+Hollow Wargod Wooden Shield;Shield;42;0;0;0;9;167.2;0;0;0;0
+Lothric Knight Greatshield;Greatshield;49;0;0;0;0;222;0;0;0;0
+Heavy Lothric Knight Greatshield;Greatshield;73.5;0;0;0;0;205.35;0;0;0;0
+Sharp Lothric Knight Greatshield;Greatshield;38.5;0;0;0;0;205.35;0;0;0;0
+Refined Lothric Knight Greatshield;Greatshield;43.2;43.2;0;0;0;199.8;0;0;0;0
+Simple Lothric Knight Greatshield;Greatshield;45.5;0;49;0;0;106;121.9;0;0;0
+Crystal Lothric Knight Greatshield;Greatshield;35;0;57.75;0;0;100.7;137.8;0;0;0
+Fire Lothric Knight Greatshield;Greatshield;0;0;0;0;0;174.9;0;174.9;0;0
+Chaos Lothric Knight Greatshield;Greatshield;42;0;38.5;38.5;0;106;0;137.8;0;0
+Lightning Lothric Knight Greatshield;Greatshield;35;0;0;57.75;0;100.7;0;0;137.8;0
+Deep Lothric Knight Greatshield;Greatshield;0;0;0;0;0;174.9;0;0;0;174.9
+Dark Lothric Knight Greatshield;Greatshield;42;0;38.5;38.5;0;106;0;0;0;137.8
+Poison Lothric Knight Greatshield;Greatshield;49;0;0;0;0;172.05;0;0;0;0
+Blood Lothric Knight Greatshield;Greatshield;49;0;0;0;0;172.05;0;0;0;0
+Raw Lothric Knight Greatshield;Greatshield;0;0;0;0;0;277.5;0;0;0;0
+Blessed Lothric Knight Greatshield;Greatshield;38.5;0;0;45.5;0;137.8;0;0;0;0
+Hollow Lothric Knight Greatshield;Greatshield;49;0;0;0;10.5;210.9;0;0;0;0
+Cathedral Knight Greatshield;Greatshield;49;0;0;0;0;224;0;0;0;0
+Heavy Cathedral Knight Greatshield;Greatshield;73.5;0;0;0;0;207.2;0;0;0;0
+Sharp Cathedral Knight Greatshield;Greatshield;38.5;0;0;0;0;207.2;0;0;0;0
+Refined Cathedral Knight Greatshield;Greatshield;43.2;43.2;0;0;0;201.6;0;0;0;0
+Simple Cathedral Knight Greatshield;Greatshield;45.5;0;49;0;0;107;123.05;0;0;0
+Crystal Cathedral Knight Greatshield;Greatshield;35;0;57.75;0;0;101.65;139.1;0;0;0
+Fire Cathedral Knight Greatshield;Greatshield;0;0;0;0;0;176.55;0;176.55;0;0
+Chaos Cathedral Knight Greatshield;Greatshield;42;0;38.5;38.5;0;107;0;139.1;0;0
+Lightning Cathedral Knight Greatshield;Greatshield;35;0;0;57.75;0;101.65;0;0;139.1;0
+Deep Cathedral Knight Greatshield;Greatshield;0;0;0;0;0;176.55;0;0;0;176.55
+Dark Cathedral Knight Greatshield;Greatshield;42;0;38.5;38.5;0;107;0;0;0;139.1
+Poison Cathedral Knight Greatshield;Greatshield;49;0;0;0;0;173.6;0;0;0;0
+Blood Cathedral Knight Greatshield;Greatshield;49;0;0;0;0;173.6;0;0;0;0
+Raw Cathedral Knight Greatshield;Greatshield;0;0;0;0;0;280;0;0;0;0
+Blessed Cathedral Knight Greatshield;Greatshield;38.5;0;0;45.5;0;139.1;0;0;0;0
+Hollow Cathedral Knight Greatshield;Greatshield;49;0;0;0;10.5;212.8;0;0;0;0
+Dragonslayer Greatshield;Greatshield;50.4;0;0;0;0;244;0;0;0;0
+Moaning Shield;Greatshield;51.8;0;0;0;0;238;0;0;0;0
+Yhorm's Greatshield;Greatshield;50.4;0;0;0;0;240;0;0;0;0
+Black Iron Greatshield;Greatshield;49;0;0;0;0;224;0;0;0;0
+Heavy Black Iron Greatshield;Greatshield;73.5;0;0;0;0;207.2;0;0;0;0
+Sharp Black Iron Greatshield;Greatshield;38.5;0;0;0;0;207.2;0;0;0;0
+Refined Black Iron Greatshield;Greatshield;43.2;43.2;0;0;0;201.6;0;0;0;0
+Simple Black Iron Greatshield;Greatshield;45.5;0;49;0;0;107;123.05;0;0;0
+Crystal Black Iron Greatshield;Greatshield;35;0;57.75;0;0;101.65;139.1;0;0;0
+Fire Black Iron Greatshield;Greatshield;0;0;0;0;0;176.55;0;176.55;0;0
+Chaos Black Iron Greatshield;Greatshield;42;0;38.5;38.5;0;107;0;139.1;0;0
+Lightning Black Iron Greatshield;Greatshield;35;0;0;57.75;0;101.65;0;0;139.1;0
+Deep Black Iron Greatshield;Greatshield;0;0;0;0;0;176.55;0;0;0;176.55
+Dark Black Iron Greatshield;Greatshield;42;0;38.5;38.5;0;107;0;0;0;139.1
+Poison Black Iron Greatshield;Greatshield;49;0;0;0;0;173.6;0;0;0;0
+Blood Black Iron Greatshield;Greatshield;49;0;0;0;0;173.6;0;0;0;0
+Raw Black Iron Greatshield;Greatshield;0;0;0;0;0;280;0;0;0;0
+Blessed Black Iron Greatshield;Greatshield;38.5;0;0;45.5;0;139.1;0;0;0;0
+Hollow Black Iron Greatshield;Greatshield;49;0;0;0;10.5;212.8;0;0;0;0
+Wolf Knight's Greatshield;Greatshield;50.4;0;0;0;0;216;0;0;0;0
+Twin Dragon Greatshield;Greatshield;49;0;0;0;0;212;0;0;0;0
+Heavy Twin Dragon Greatshield;Greatshield;73.5;0;0;0;0;196.1;0;0;0;0
+Sharp Twin Dragon Greatshield;Greatshield;38.5;0;0;0;0;196.1;0;0;0;0
+Refined Twin Dragon Greatshield;Greatshield;43.2;43.2;0;0;0;190.8;0;0;0;0
+Simple Twin Dragon Greatshield;Greatshield;45.5;0;49;0;0;101;116.15;0;0;0
+Crystal Twin Dragon Greatshield;Greatshield;35;0;57.75;0;0;95.95;131.3;0;0;0
+Fire Twin Dragon Greatshield;Greatshield;0;0;0;0;0;166.65;0;166.65;0;0
+Chaos Twin Dragon Greatshield;Greatshield;42;0;38.5;38.5;0;101;0;131.3;0;0
+Lightning Twin Dragon Greatshield;Greatshield;35;0;0;57.75;0;95.95;0;0;131.3;0
+Deep Twin Dragon Greatshield;Greatshield;0;0;0;0;0;166.65;0;0;0;166.65
+Dark Twin Dragon Greatshield;Greatshield;42;0;38.5;38.5;0;101;0;0;0;131.3
+Poison Twin Dragon Greatshield;Greatshield;49;0;0;0;0;164.3;0;0;0;0
+Blood Twin Dragon Greatshield;Greatshield;49;0;0;0;0;164.3;0;0;0;0
+Raw Twin Dragon Greatshield;Greatshield;0;0;0;0;0;265;0;0;0;0
+Blessed Twin Dragon Greatshield;Greatshield;38.5;0;0;45.5;0;131.3;0;0;0;0
+Hollow Twin Dragon Greatshield;Greatshield;49;0;0;0;10.5;201.4;0;0;0;0
+Greatshield of Glory;Greatshield;50.4;0;0;0;0;234;0;0;0;0
+Curse Ward Greatshield;Greatshield;49;0;0;0;0;228;0;0;0;0
+Bonewheel Shield;Greatshield;49;0;0;0;0;222;0;0;0;0
+Heavy Bonewheel Shield;Greatshield;73.5;0;0;0;0;205.35;0;0;0;0
+Sharp Bonewheel Shield;Greatshield;38.5;0;0;0;0;205.35;0;0;0;0
+Refined Bonewheel Shield;Greatshield;43.2;43.2;0;0;0;199.8;0;0;0;0
+Simple Bonewheel Shield;Greatshield;45.5;0;49;0;0;101;116.15;0;0;0
+Crystal Bonewheel Shield;Greatshield;35;0;57.75;0;0;95.95;131.3;0;0;0
+Fire Bonewheel Shield;Greatshield;0;0;0;0;0;166.65;0;166.65;0;0
+Chaos Bonewheel Shield;Greatshield;42;0;38.5;38.5;0;101;0;131.3;0;0
+Lightning Bonewheel Shield;Greatshield;35;0;0;57.75;0;95.95;0;0;131.3;0
+Deep Bonewheel Shield;Greatshield;0;0;0;0;0;166.65;0;0;0;166.65
+Dark Bonewheel Shield;Greatshield;42;0;38.5;38.5;0;101;0;0;0;131.3
+Poison Bonewheel Shield;Greatshield;49;0;0;0;0;172.05;0;0;0;0
+Blood Bonewheel Shield;Greatshield;49;0;0;0;0;172.05;0;0;0;0
+Raw Bonewheel Shield;Greatshield;0;0;0;0;0;277.5;0;0;0;0
+Blessed Bonewheel Shield;Greatshield;38.5;0;0;45.5;0;131.3;0;0;0;0
+Hollow Bonewheel Shield;Greatshield;49;0;0;0;10.5;210.9;0;0;0;0
+Stone Greatshield;Greatshield;50.4;0;0;0;0;230;0;0;0;0
+Heavy Stone Greatshield;Greatshield;75.6;0;0;0;0;212.75;0;0;0;0
+Sharp Stone Greatshield;Greatshield;39.6;0;0;0;0;212.75;0;0;0;0
+Refined Stone Greatshield;Greatshield;44.8;44.8;0;0;0;207;0;0;0;0
+Simple Stone Greatshield;Greatshield;46.8;0;50.4;0;0;110;126.5;0;0;0
+Crystal Stone Greatshield;Greatshield;36;0;59.4;0;0;104.5;143;0;0;0
+Fire Stone Greatshield;Greatshield;0;0;0;0;0;181.5;0;181.5;0;0
+Chaos Stone Greatshield;Greatshield;43.2;0;39.6;39.6;0;110;0;143;0;0
+Lightning Stone Greatshield;Greatshield;36;0;0;59.4;0;104.5;0;0;143;0
+Deep Stone Greatshield;Greatshield;0;0;0;0;0;181.5;0;0;0;181.5
+Dark Stone Greatshield;Greatshield;43.2;0;39.6;39.6;0;110;0;0;0;143
+Poison Stone Greatshield;Greatshield;50.4;0;0;0;0;178.25;0;0;0;0
+Blood Stone Greatshield;Greatshield;50.4;0;0;0;0;178.25;0;0;0;0
+Raw Stone Greatshield;Greatshield;0;0;0;0;0;287.5;0;0;0;0
+Blessed Stone Greatshield;Greatshield;39.6;0;0;46.8;0;143;0;0;0;0
+Hollow Stone Greatshield;Greatshield;50.4;0;0;0;12;218.5;0;0;0;0
+Torch;Torch;49;0;0;0;0;70;0;160;0;0
