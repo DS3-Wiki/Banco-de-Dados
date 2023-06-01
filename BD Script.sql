@@ -2,13 +2,6 @@ create database soulsbuilds;
 
 use soulsbuilds;
 
-load data infile 'ds3.csv'
-into table itens
-fields terminated by ';'
-ignore 1 rows;
-
-SHOW VARIABLES LIKE "secure_file_priv";
-
 create user 'insert'@'localhost' identified by 'insert';
 	grant insert on * to 'insert';
     
@@ -16,16 +9,7 @@ create user 'select'@'localhost' identified by 'select';
 	grant select on * to 'select';
 
 
-
-select * from build_itens;
-
-
-create table itens (
-item varchar(5000)
-);
 select * from itens;
-truncate table itens;
-drop table itens;
 
 create table boss_status (
 fk_boss int,
@@ -93,7 +77,6 @@ insert into boss_status values
 	(19,'Resistance', 3),
 	(19,'Weakness', 8);
 
-    
 
 insert into status values
 	(1, 'Dark'),
