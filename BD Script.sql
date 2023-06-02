@@ -7,15 +7,15 @@ create user 'insert'@'localhost' identified by 'insert';
     
 create user 'select'@'localhost' identified by 'select';
 	grant select on * to 'select';
-
-
+    
+    
 select * from itens;
 
 create table boss_status (
 fk_boss int,
 effect_status varchar(45),
 fk_status int,
-	constraint fk_status foreign key (fk_status) references status (fk_status)
+	constraint fk_status foreign key (fk_status) references all_status (id_status)
 );
 
 insert into boss_status values 
@@ -78,7 +78,7 @@ insert into boss_status values
 	(19,'Weakness', 8);
 
 
-insert into status values
+insert into all_status values
 	(1, 'Dark'),
 	(2, 'Bleed'),
 	(3, 'Fire'),
@@ -90,15 +90,21 @@ insert into status values
     (9, 'Slash'),
     (10, 'None');
 
+
+
+
 select 
 bosses.name,
-status.id_status,
-status.status
+boss_status.effect_status,
+all_status.status
 	from bosses join boss_status
-	on fkBoss = id_boss
-    join soulsbuilds.status
+		on id_boss = fk_boss
+	join all_status
 		on id_status = fk_status;
-	
+
+        
+
+
 create table usuario (
 id_user int primary key auto_increment,
 nome varchar(45),
@@ -128,7 +134,7 @@ dificuldade int,
 	foreign key (fk_user) references usuario (id_user)
 );
 
-create table status(
+create table all_status(
 id_status int primary key auto_increment,
 status varchar(45)
 );
@@ -146,6 +152,7 @@ faith int,
 luck int
 );
 
+
 create table bosses(
 id_boss int primary key,
 name varchar(45),
@@ -158,32 +165,34 @@ fk_img int,
 
 create table bosses_img(
 id_img int primary key,
-src varchar(120)
+src varchar(160)
 );
 
+drop tables bosses, bosses_img;
+
 insert into bosses_img values
-    (1,'https://static.wikia.nocookie.net/darksouls/images/8/85/Iudex_Gundyr_-_01.jpg/revision/latest?cb=20170524133508'), 
-	(2,'https://static.wikia.nocookie.net/darksouls/images/a/ae/Vordt_of_the_Boreal_Valley.jpg/revision/latest?cb=20160414211515'),
-	(3,'https://static.wikia.nocookie.net/darksouls/images/2/28/Greatwood.jpg/revision/latest?cb=20160423230044'),
-	(4,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/053%20-%206SQeZqA.jpg'),
-	(5,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/abyss-watchers-dks3.jpg'),
-	(6,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/053%20-%206SQeZqA.jpg'),
-	(7,'https://static.wikia.nocookie.net/darksouls/images/7/75/High_Lord_Wolnir_6.png/revision/latest?cb=20160620200907'),
+    (1,'http://darksouls3.wdfiles.com/local--files/boss-image:iudex-gundyr/Iudex_Gundyr.jpg'), 
+	(2,'http://darksouls3.wdfiles.com/local--files/boss-image:vordt/Vordt.jpg'),
+	(3,'https://darksouls3.wdfiles.com/local--files/boss-image:curse-rotted-greatwoodv1/Curse-rotted_Greatwoodv1.jpg'),
+	(4,'./Assets/img/chefes/Crystal_sage_boss_29.webp'), 
+	(5,'./Assets/img/chefes/abyss.jpg'),
+	(6,'./Assets/img/chefes/053 - 6SQeZqA.jpg'), 
+	(7,'./Assets/img/chefes/High_Lord_Wolnir_6.webp'),
 	(8,'https://i.redd.it/54vd7p9q58u71.jpg'),
-	(9,'https://static.wikia.nocookie.net/villains/images/2/21/Pontiff_Sulyvahn.png/revision/latest?cb=20190929035127'),
-	(10,'https://static.wikia.nocookie.net/darksouls/images/5/5d/Yhorm_the_Giant.png/revision/latest?cb=20160416230601'),
+	(9,'./Assets/img/chefes/Pontiff_Sulyvahn.webp'),
+	(10,'https://darksouls3.wdfiles.com/local--files/boss-image:yhorm1/Yhorm1.jpg'),
 	(11,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/aldritch1_tc.jpg'),
 	(12,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/20160414042459_1.jpg'),
 	(13,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Dragonslayer_Armour_Swing.jpg'),
-	(14,'https://static.wikia.nocookie.net/darksouls/images/d/de/Oceiros_-_01.png/revision/latest?cb=20170327063945'),
+	(14,'./Assets/img/chefes/Oceiros_-_01.webp'),
 	(15,'https://darksouls3.wdfiles.com/local--files/boss-image:champion-gundyr/Champion_Gundyr.jpg'),
-	(16,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Lothric_&_Lorian_Risen.jpg'),
+	(16,'./Assets/img/chefes/Twin_Princes.webp'),
 	(17,'https://darksouls3.wdfiles.com/local--files/boss-image:ancient-wyvern1/Ancient_Wyvern1.jpg'),
-	(18,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/namelessking2_tc.jpg'),
+	(18,'./Assets/img/chefes/MDMxLmpwYiUsGjpeXwxvMG9CbgQZVWFmOFp2T19PdXI1THVVXwcqaTgIIAIREz5qOggvCR5ZPShiSnxcRlh9cGIcLR8bKD4rOBQ_MkMoPyEuJ3xeQVknNCpaM.webp'),
 	(19,'https://darksouls3.wdfiles.com/local--files/boss-image:soul-of-cinder-2-2/Soul_of_Cinder_2_2.jpg');
 
 insert into bosses values
-	(1, 'Iudex Gundyr', 1037, 3000, 1, 1),
+	(1, 'Iudex 	Gundyr', 1037, 3000, 1, 1),
 	(2, 'Vordt of the Boreal Valley', 1328, 3000, 15, 2),
 	(3, 'Curse-Rotted Greatwood', 5405, 7000, 25, 3),
 	(4, 'Crstal Sage', 2723, 8000, 30, 4),
