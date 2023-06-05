@@ -1,16 +1,16 @@
-﻿teste;enchatment;name;type;Str;Dex;Int;Faith;Luck;Physical;Magic;Fire;Lightning;Dark
-;not_infusable;Ancient Dragon Greatshield;Greatshield;49;0;0;0;0;152;0;0;0;0
-;not_infusable;Anri's Straight Sword;Straight Sword;21;19.6;0;11.2;110.6;204;0;0;0;0
-;not_infusable;Arbalest;Crossbow;0;0;0;0;0;273;0;0;0;0
-;not_infusable;Archdeacon's Great Staff;Staff;29.4;0;0;156.8;0;156;0;0;0;0
-;not_infusable;Arstor's Spear;Spear;29.4;82.6;0;0;0;216;0;0;0;0
-;not_infusable;Astora Greatsword;Ultra Greatsword;63;71.4;0;0;0;264;0;0;0;0
-;not_infusable;Astora Straight Sword;Straight Sword;36.4;28;0;0;0;258;0;0;0;0
-;not_infusable;Avelyn;Crossbow;0;0;0;0;0;128;0;0;0;0
-;not_infusable;Bandit's Knife;Dagger;35;42;0;0;0;140;0;0;0;0
-;not_infusable;Barbed Straight Sword;Straight Sword;63;43.4;0;0;0;222;0;0;0;0
-;not_infusable;Bastard Sword;Greatsword;63;42;0;0;0;276;0;0;0;0
-;not_infusable;Battle Axe;Axe;63;35;0;0;0;250;0;0;0;0
+﻿teste;enchatment;name;type;str;dex;int;faith;luck;Physical;Magic;Fire;Lightning;Dark
+;;Ancient Dragon Greatshield;Greatshield;49;0;0;0;0;152;0;0;0;0
+;;Anri's Straight Sword;Straight Sword;21;19.6;0;11.2;110.6;204;0;0;0;0
+;;Arbalest;Crossbow;0;0;0;0;0;273;0;0;0;0
+;;Archdeacon's Great Staff;Staff;29.4;0;0;156.8;0;156;0;0;0;0
+;;Arstor's Spear;Spear;29.4;82.6;0;0;0;216;0;0;0;0
+;;Astora Greatsword;Ultra Greatsword;63;71.4;0;0;0;264;0;0;0;0
+;;Astora Straight Sword;Straight Sword;36.4;28;0;0;0;258;0;0;0;0
+;;Avelyn;Crossbow;0;0;0;0;0;128;0;0;0;0
+;;Bandit's Knife;Dagger;35;42;0;0;0;140;0;0;0;0
+;;Barbed Straight Sword;Straight Sword;63;43.4;0;0;0;222;0;0;0;0
+;;Bastard Sword;Greatsword;63;42;0;0;0;276;0;0;0;0
+;;Battle Axe;Axe;63;35;0;0;0;250;0;0;0;0
 ;Black Knight;Black Blade;Katana;29.4;68.6;0;0;0;244;0;0;0;0
 ;Black Knight;Black Bow of Pharis;Bow;22.4;89.6;0;0;0;134;0;0;0;0
 ;Black Knight;Black Iron Greatshield;Greatshield;49;0;0;0;0;224;0;0;0;0
@@ -19,7 +19,7 @@
 ;Black Knight;Black Knight Greatsword;Ultra Greatsword;85.4;35;0;0;0;322;0;0;0;0
 ;Black Knight;Black Knight Shield;Shield;43.4;0;0;0;0;198;0;0;0;0
 ;Black Knight;Black Knight Sword;Greatsword;57.4;49;0;0;0;302;0;0;0;0
-;not_infusable;Blacksmith Hammer;Hammer;82.6;0;0;0;0;210;0;0;0;0
+;;Blacksmith Hammer;Hammer;82.6;0;0;0;0;210;0;0;0;0
 ;Blessed;Astora Greatsword;Ultra Greatsword;49.5;56.1;0;124.8;0;171.6;0;0;0;0
 ;Blessed;Astora Straight Sword;Straight Sword;28.6;22;0;59.8;0;141.7;0;0;0;0
 ;Blessed;Bandit's Knife;Dagger;27.5;33;0;71.5;0;97.5;0;0;0;0
@@ -280,25 +280,25 @@
 ;Blood;Winged Spear;Spear;56;84;0;0;0;147.25;0;0;0;0
 ;Blood;Wooden Shield;Shield;42;0;0;0;0;120.9;0;0;0;0
 ;Blood;Zweihander;Ultra Greatsword;70;49;0;0;0;224.75;0;0;0;0
-;not_infusable;Bloodlust;Katana;8.4;110.6;0;0;0;184;0;0;0;0
-;not_infusable;Blue Wooden Shield;Shield;40.6;0;0;0;0;154;0;0;0;0
-;not_infusable;Bonewheel Shield;Greatshield;49;0;0;0;0;222;0;0;0;0
-;not_infusable;Brigand Axe;Axe;63;36.4;0;0;0;248;0;0;0;0
-;not_infusable;Brigand Twindaggers;Dagger (Paired);49;49;0;0;0;134;0;0;0;0
-;not_infusable;Broadsword;Straight Sword;71.4;42;0;0;0;234;0;0;0;0
-;not_infusable;Broken Straight Sword;Straight Sword;53.2;44.8;0;0;0;140;0;0;0;0
-;not_infusable;Buckler;Small Shield;26.6;0;0;0;0;134;0;0;0;0
-;not_infusable;Butcher Knife;Axe;145.6;0;0;0;0;190;0;0;0;0
-;not_infusable;Caduceus Round Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
-;not_infusable;Caestus;Fist;56;56;0;0;0;160;0;0;0;0
-;not_infusable;Caitha's Chime;Sacred Chime;28;0;112;124.6;0;130;0;0;0;0
-;not_infusable;Canvas Talisman;Talisman;29.4;0;0;134.4;0;118.8;0;0;0;0
-;not_infusable;Carthus Curved Greatsword;Curved Greatsword;57.4;77;0;0;0;244;0;0;0;0
-;not_infusable;Carthus Curved Sword;Curved Sword;43.4;70;0;0;0;230;0;0;0;0
-;not_infusable;Carthus Shield;Shield;42;0;0;0;0;112;0;0;0;0
-;not_infusable;Carthus Shotel;Curved Sword;21;81.2;0;0;0;212;0;0;0;0
-;not_infusable;Cathedral Knight Greatshield;Greatshield;49;0;0;0;0;224;0;0;0;0
-;not_infusable;Cathedral Knight Greatsword;Ultra Greatsword;78.4;28;0;0;0;298;0;0;0;0
+;;Bloodlust;Katana;8.4;110.6;0;0;0;184;0;0;0;0
+;;Blue Wooden Shield;Shield;40.6;0;0;0;0;154;0;0;0;0
+;;Bonewheel Shield;Greatshield;49;0;0;0;0;222;0;0;0;0
+;;Brigand Axe;Axe;63;36.4;0;0;0;248;0;0;0;0
+;;Brigand Twindaggers;Dagger (Paired);49;49;0;0;0;134;0;0;0;0
+;;Broadsword;Straight Sword;71.4;42;0;0;0;234;0;0;0;0
+;;Broken Straight Sword;Straight Sword;53.2;44.8;0;0;0;140;0;0;0;0
+;;Buckler;Small Shield;26.6;0;0;0;0;134;0;0;0;0
+;;Butcher Knife;Axe;145.6;0;0;0;0;190;0;0;0;0
+;;Caduceus Round Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+;;Caestus;Fist;56;56;0;0;0;160;0;0;0;0
+;;Caitha's Chime;Sacred Chime;28;0;112;124.6;0;130;0;0;0;0
+;;Canvas Talisman;Talisman;29.4;0;0;134.4;0;118.8;0;0;0;0
+;;Carthus Curved Greatsword;Curved Greatsword;57.4;77;0;0;0;244;0;0;0;0
+;;Carthus Curved Sword;Curved Sword;43.4;70;0;0;0;230;0;0;0;0
+;;Carthus Shield;Shield;42;0;0;0;0;112;0;0;0;0
+;;Carthus Shotel;Curved Sword;21;81.2;0;0;0;212;0;0;0;0
+;;Cathedral Knight Greatshield;Greatshield;49;0;0;0;0;224;0;0;0;0
+;;Cathedral Knight Greatsword;Ultra Greatsword;78.4;28;0;0;0;298;0;0;0;0
 ;Chaos;Astora Greatsword;Ultra Greatsword;54;61.2;105.6;105.6;0;132;0;171.6;0;0
 ;Chaos;Astora Straight Sword;Straight Sword;31.2;24;50.6;50.6;0;109;0;141.7;0;0
 ;Chaos;Bandit's Knife;Dagger;30;36;60.5;60.5;0;75;0;97.5;0;0
@@ -430,18 +430,18 @@
 ;Chaos;Winged Spear;Spear;48;72;110;110;0;95;0;123.5;0;0
 ;Chaos;Wooden Shield;Shield;36;0;33;33;0;78;0;101.4;0;0
 ;Chaos;Zweihander;Ultra Greatsword;60;42;93.5;93.5;0;135;0;175.5;0;0
-;not_infusable;Claw;Claw;22.4;77;0;0;0;150;0;0;0;0
-;not_infusable;Claymore;Greatsword;56;49;0;0;0;276;0;0;0;0
-;not_infusable;Cleric's Candlestick;Straight Sword;35;29.4;112;0;0;115.2;126;0;0;0
-;not_infusable;Cleric's Sacred Chime;Sacred Chime;29.4;0;0;147;0;118.8;0;0;0;0
-;not_infusable;Club;Hammer;91;0;0;0;0;216;0;0;0;0
-;not_infusable;Composite Bow;Bow;50.4;42;0;0;0;146;0;0;0;0
-;not_infusable;Corvian Greatknife;Dagger;25.2;25.2;0;0;0;184;0;0;0;0
-;not_infusable;Court Sorcerer's Staff;Staff;28;0;154;0;0;135;0;0;0;0
-;not_infusable;Crescent Axe;Halberd;49;57.4;0;0;0;238;0;0;0;0
-;not_infusable;Crescent Moon Sword;Curved Sword;0;77;43.4;0;0;142;142;0;0;0
-;not_infusable;Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
-;not_infusable;Crimson Parma;Small Shield;28;0;0;0;0;138;0;0;0;0
+;;Claw;Claw;22.4;77;0;0;0;150;0;0;0;0
+;;Claymore;Greatsword;56;49;0;0;0;276;0;0;0;0
+;;Cleric's Candlestick;Straight Sword;35;29.4;112;0;0;115.2;126;0;0;0
+;;Cleric's Sacred Chime;Sacred Chime;29.4;0;0;147;0;118.8;0;0;0;0
+;;Club;Hammer;91;0;0;0;0;216;0;0;0;0
+;;Composite Bow;Bow;50.4;42;0;0;0;146;0;0;0;0
+;;Corvian Greatknife;Dagger;25.2;25.2;0;0;0;184;0;0;0;0
+;;Court Sorcerer's Staff;Staff;28;0;154;0;0;135;0;0;0;0
+;;Crescent Axe;Halberd;49;57.4;0;0;0;238;0;0;0;0
+;;Crescent Moon Sword;Curved Sword;0;77;43.4;0;0;142;142;0;0;0
+;;Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
+;;Crimson Parma;Small Shield;28;0;0;0;0;138;0;0;0;0
 ;Crystal;Astora Greatsword;Ultra Greatsword;45;51;158.4;0;0;125.4;171.6;0;0;0
 ;Crystal;Astora Straight Sword;Straight Sword;26;20;75.9;0;0;103.55;141.7;0;0;0
 ;Crystal;Bandit's Knife;Dagger;25;30;90.75;0;0;71.25;97.5;0;0;0
@@ -574,9 +574,9 @@
 ;Crystal;Winged Spear;Spear;40;60;165;0;0;90.25;123.5;0;0;0
 ;Crystal;Wooden Shield;Shield;30;0;49.5;0;0;74.1;101.4;0;0;0
 ;Crystal;Zweihander;Ultra Greatsword;50;35;140.25;0;0;128.25;175.5;0;0;0
-;not_infusable;Curse Ward Greatshield;Greatshield;49;0;0;0;0;228;0;0;0;0
-;not_infusable;Dagger;Dagger;14;98;0;0;0;116;0;0;0;0
-;not_infusable;Dancer's Enchanted Swords;Curved Sword (Paired);36.4;49;50.4;50.4;0;144;114;114;0;0
+;;Curse Ward Greatshield;Greatshield;49;0;0;0;0;228;0;0;0;0
+;;Dagger;Dagger;14;98;0;0;0;116;0;0;0;0
+;;Dancer's Enchanted Swords;Curved Sword (Paired);36.4;49;50.4;50.4;0;144;114;114;0;0
 ;Dark;Astora Greatsword;Ultra Greatsword;54;61.2;105.6;105.6;0;132;0;0;0;171.6
 ;Dark;Astora Straight Sword;Straight Sword;31.2;24;50.6;50.6;0;109;0;0;0;141.7
 ;Dark;Bandit's Knife;Dagger;30;36;60.5;60.5;0;75;0;0;0;97.5
@@ -709,8 +709,8 @@
 ;Dark;Winged Spear;Spear;48;72;110;110;0;95;0;0;0;123.5
 ;Dark;Wooden Shield;Shield;36;0;33;33;0;78;0;0;0;101.4
 ;Dark;Zweihander;Ultra Greatsword;60;42;93.5;93.5;0;135;0;0;0;175.5
-;not_infusable;Darkdrift;Katana;28;57.4;0;0;0;234;0;0;0;0
-;not_infusable;Darkmoon Longbow;Bow;0;14;84;0;0;66;80;0;0;0
+;;Darkdrift;Katana;28;57.4;0;0;0;234;0;0;0;0
+;;Darkmoon Longbow;Bow;0;14;84;0;0;66;80;0;0;0
 ;Deep;Astora Greatsword;Ultra Greatsword;0;0;0;0;0;217.8;0;0;0;217.8
 ;Deep;Astora Straight Sword;Straight Sword;0;0;0;0;0;179.85;0;0;0;179.85
 ;Deep;Bandit's Knife;Dagger;0;0;0;0;0;127.05;0;0;0;127.05
@@ -841,29 +841,29 @@
 ;Deep;Winged Spear;Spear;0;0;0;0;0;156.75;0;0;0;156.75
 ;Deep;Wooden Shield;Shield;0;0;0;0;0;128.7;0;0;0;128.7
 ;Deep;Zweihander;Ultra Greatsword;0;0;0;0;0;222.75;0;0;0;222.75
-;not_infusable;Demon's Fist;Fist;63;0;28;28;0;170;0;140;0;0
-;not_infusable;Demon's Greataxe;Greataxe;84;19.6;35;35;0;286;0;160;0;0
-;not_infusable;Dragon Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
-;not_infusable;Dragon Tooth;Great Hammer;88.2;0;0;0;0;342;0;0;0;0
-;not_infusable;Dragonrider Bow;Bow;43.4;21;0;0;0;200;0;0;0;0
-;not_infusable;Dragonslayer Greataxe;Greataxe;58.8;18.2;0;50.4;0;364;0;0;136;0
-;not_infusable;Dragonslayer Greatbow;Greatbow;49;70;0;0;0;220;0;0;0;0
-;not_infusable;Dragonslayer Greatshield;Greatshield;50.4;0;0;0;0;244;0;0;0;0
-;not_infusable;Dragonslayer Spear;Spear;43.4;84;0;36.4;0;198;0;0;122;0
-;not_infusable;Dragonslayer Swordspear;Spear;43.4;68.6;0;57.4;0;234;0;0;62;0
-;not_infusable;Dragonslayer's Axe;Axe;36.4;11.2;0;0;0;210;0;0;210;0
-;not_infusable;Drakeblood Greatsword;Greatsword;42;42;0;0;0;178;142;0;142;0
-;not_infusable;Drang Hammers;Hammer (Paired);77;14;0;0;0;220;0;0;0;0
-;not_infusable;Drang Twinspears;Spear (Paired);42;70;0;0;0;200;0;0;0;0
-;not_infusable;Eastern Iron Shield;Small Shield;29.4;0;0;0;0;162;0;0;0;0
-;not_infusable;East-West Shield;Shield;40.6;0;0;0;0;152;0;0;0;0
-;not_infusable;Eleonora;Axe;43.4;21;0;0;0;284;0;0;0;0
-;not_infusable;Elkhorn Round Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
-;not_infusable;Estoc;Thrusting Sword;35;70;0;0;0;210;0;0;0;0
-;not_infusable;Executioner's Greatsword;Greatsword;85.4;28;0;0;0;262;0;0;0;0
-;not_infusable;Exile Greatsword;Curved Greatsword;56;63;0;0;0;292;0;0;0;0
-;not_infusable;Falchion;Curved Sword;35;63;0;0;0;234;0;0;0;0
-;not_infusable;Farron Greatsword;Ultra Greatsword (Unique);57.4;102.2;0;0;0;228;0;0;0;0
+;;Demon's Fist;Fist;63;0;28;28;0;170;0;140;0;0
+;;Demon's Greataxe;Greataxe;84;19.6;35;35;0;286;0;160;0;0
+;;Dragon Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
+;;Dragon Tooth;Great Hammer;88.2;0;0;0;0;342;0;0;0;0
+;;Dragonrider Bow;Bow;43.4;21;0;0;0;200;0;0;0;0
+;;Dragonslayer Greataxe;Greataxe;58.8;18.2;0;50.4;0;364;0;0;136;0
+;;Dragonslayer Greatbow;Greatbow;49;70;0;0;0;220;0;0;0;0
+;;Dragonslayer Greatshield;Greatshield;50.4;0;0;0;0;244;0;0;0;0
+;;Dragonslayer Spear;Spear;43.4;84;0;36.4;0;198;0;0;122;0
+;;Dragonslayer Swordspear;Spear;43.4;68.6;0;57.4;0;234;0;0;62;0
+;;Dragonslayer's Axe;Axe;36.4;11.2;0;0;0;210;0;0;210;0
+;;Drakeblood Greatsword;Greatsword;42;42;0;0;0;178;142;0;142;0
+;;Drang Hammers;Hammer (Paired);77;14;0;0;0;220;0;0;0;0
+;;Drang Twinspears;Spear (Paired);42;70;0;0;0;200;0;0;0;0
+;;Eastern Iron Shield;Small Shield;29.4;0;0;0;0;162;0;0;0;0
+;;East-West Shield;Shield;40.6;0;0;0;0;152;0;0;0;0
+;;Eleonora;Axe;43.4;21;0;0;0;284;0;0;0;0
+;;Elkhorn Round Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+;;Estoc;Thrusting Sword;35;70;0;0;0;210;0;0;0;0
+;;Executioner's Greatsword;Greatsword;85.4;28;0;0;0;262;0;0;0;0
+;;Exile Greatsword;Curved Greatsword;56;63;0;0;0;292;0;0;0;0
+;;Falchion;Curved Sword;35;63;0;0;0;234;0;0;0;0
+;;Farron Greatsword;Ultra Greatsword (Unique);57.4;102.2;0;0;0;228;0;0;0;0
 ;Fire;Astora Greatsword;Ultra Greatsword;0;0;0;0;0;217.8;0;217.8;0;0
 ;Fire;Astora Straight Sword;Straight Sword;0;0;0;0;0;179.85;0;179.85;0;0
 ;Fire;Bandit's Knife;Dagger;0;0;0;0;0;127.05;0;127.05;0;0
@@ -994,37 +994,37 @@
 ;Fire;Winged Spear;Spear;0;0;0;0;0;156.75;0;156.75;0;0
 ;Fire;Wooden Shield;Shield;0;0;0;0;0;128.7;0;128.7;0;0
 ;Fire;Zweihander;Ultra Greatsword;0;0;0;0;0;222.75;0;222.75;0;0
-;not_infusable;Firelink Greatsword;Greatsword;43.4;40.6;0;0;0;234;0;162;0;0
-;not_infusable;Flamberge;Greatsword;35;29.4;0;0;0;316;0;0;0;0
-;not_infusable;Four-Pronged Plow;Spear;47.6;65.8;0;0;0;210;0;0;0;0
-;not_infusable;Fume Ultra Greatsword;Ultra Greatsword;148.4;7;0;0;0;260;0;0;0;0
-;not_infusable;Gargoyle Flame Hammer;Great Hammer;70;0;28;28;0;244;0;200;0;0
-;not_infusable;Gargoyle Flame Spear;Spear;28;49;28;28;0;206;0;180;0;0
-;not_infusable;Ghru Rotshield;Small Shield;28;0;0;0;0;156;0;0;0;0
-;not_infusable;Glaive;Halberd;57.4;21;0;0;0;282;0;0;0;0
-;not_infusable;Golden Falcon Shield;Small Shield;29.4;0;0;0;0;148;0;0;0;0
-;not_infusable;Golden Ritual Spear;Spear;21;51.8;0;134.4;0;128;134;0;0;0
-;not_infusable;Golden Wing Crest Shield;Shield;43.4;0;0;0;0;178;0;0;0;0
-;not_infusable;Gotthard Twinswords;Sword (Paired);63;56;0;0;0;200;0;0;0;0
-;not_infusable;Grass Crest Shield;Shield;42;0;0;0;0;160;0;0;0;0
-;not_infusable;Great Club;Great Hammer;93.8;0;0;0;0;304;0;0;0;0
-;not_infusable;Great Corvian Scythe;Reaper;56;92.4;0;0;0;194;0;0;0;0
-;not_infusable;Great Mace;Great Hammer;56;0;0;0;0;346;0;0;0;0
-;not_infusable;Great Machete;Greataxe;61.6;22.4;0;0;0;334;0;0;0;0
-;not_infusable;Great Scythe;Reaper;28;84;0;0;0;210;0;0;0;0
-;not_infusable;Great Wooden Hammer;Great Hammer;85.4;0;0;0;0;206;0;0;0;0
-;not_infusable;Greataxe;Greataxe;64.4;19.6;0;0;0;376;0;0;0;0
-;not_infusable;Greatlance;Pike;57.4;42;0;0;0;258;0;0;0;0
-;not_infusable;Greatshield of Glory;Greatshield;50.4;0;0;0;0;234;0;0;0;0
-;not_infusable;Greatsword;Ultra Greatsword;63;56;0;0;0;318;0;0;0;0
-;not_infusable;Greatsword of Judgement;Greatsword;50.4;49;78.4;0;0;200;158;0;0;0
-;not_infusable;Gundyr's Halberd;Halberd;93.8;14;0;0;0;264;0;0;0;0
-;not_infusable;Halberd;Halberd;42;70;0;0;0;250;0;0;0;0
-;not_infusable;Hand Axe;Axe;63;49;0;0;0;220;0;0;0;0
-;not_infusable;Handmaid's Dagger;Dagger;21;22.4;0;0;0;154;0;0;0;0
-;not_infusable;Harpe;Dagger;12.6;93.8;0;0;0;114;0;0;0;0
-;not_infusable;Havel's Greatshield;Greatshield;51.8;0;0;0;0;250;0;0;0;0
-;not_infusable;Hawkwood's Shield;Small Shield;28;0;0;0;0;144;0;0;0;0
+;;Firelink Greatsword;Greatsword;43.4;40.6;0;0;0;234;0;162;0;0
+;;Flamberge;Greatsword;35;29.4;0;0;0;316;0;0;0;0
+;;Four-Pronged Plow;Spear;47.6;65.8;0;0;0;210;0;0;0;0
+;;Fume Ultra Greatsword;Ultra Greatsword;148.4;7;0;0;0;260;0;0;0;0
+;;Gargoyle Flame Hammer;Great Hammer;70;0;28;28;0;244;0;200;0;0
+;;Gargoyle Flame Spear;Spear;28;49;28;28;0;206;0;180;0;0
+;;Ghru Rotshield;Small Shield;28;0;0;0;0;156;0;0;0;0
+;;Glaive;Halberd;57.4;21;0;0;0;282;0;0;0;0
+;;Golden Falcon Shield;Small Shield;29.4;0;0;0;0;148;0;0;0;0
+;;Golden Ritual Spear;Spear;21;51.8;0;134.4;0;128;134;0;0;0
+;;Golden Wing Crest Shield;Shield;43.4;0;0;0;0;178;0;0;0;0
+;;Gotthard Twinswords;Sword (Paired);63;56;0;0;0;200;0;0;0;0
+;;Grass Crest Shield;Shield;42;0;0;0;0;160;0;0;0;0
+;;Great Club;Great Hammer;93.8;0;0;0;0;304;0;0;0;0
+;;Great Corvian Scythe;Reaper;56;92.4;0;0;0;194;0;0;0;0
+;;Great Mace;Great Hammer;56;0;0;0;0;346;0;0;0;0
+;;Great Machete;Greataxe;61.6;22.4;0;0;0;334;0;0;0;0
+;;Great Scythe;Reaper;28;84;0;0;0;210;0;0;0;0
+;;Great Wooden Hammer;Great Hammer;85.4;0;0;0;0;206;0;0;0;0
+;;Greataxe;Greataxe;64.4;19.6;0;0;0;376;0;0;0;0
+;;Greatlance;Pike;57.4;42;0;0;0;258;0;0;0;0
+;;Greatshield of Glory;Greatshield;50.4;0;0;0;0;234;0;0;0;0
+;;Greatsword;Ultra Greatsword;63;56;0;0;0;318;0;0;0;0
+;;Greatsword of Judgement;Greatsword;50.4;49;78.4;0;0;200;158;0;0;0
+;;Gundyr's Halberd;Halberd;93.8;14;0;0;0;264;0;0;0;0
+;;Halberd;Halberd;42;70;0;0;0;250;0;0;0;0
+;;Hand Axe;Axe;63;49;0;0;0;220;0;0;0;0
+;;Handmaid's Dagger;Dagger;21;22.4;0;0;0;154;0;0;0;0
+;;Harpe;Dagger;12.6;93.8;0;0;0;114;0;0;0;0
+;;Havel's Greatshield;Greatshield;51.8;0;0;0;0;250;0;0;0;0
+;;Hawkwood's Shield;Small Shield;28;0;0;0;0;144;0;0;0;0
 ;Heavy;Astora Greatsword;Ultra Greatsword;109.2;0;0;0;0;244.2;0;0;0;0
 ;Heavy;Astora Straight Sword;Straight Sword;54.6;0;0;0;0;238.65;0;0;0;0
 ;Heavy;Bandit's Knife;Dagger;69.3;0;0;0;0;129.5;0;0;0;0
@@ -1156,8 +1156,8 @@
 ;Heavy;Winged Spear;Spear;115.5;0;0;0;0;175.75;0;0;0;0
 ;Heavy;Wooden Shield;Shield;63;0;0;0;0;144.3;0;0;0;0
 ;Heavy;Zweihander;Ultra Greatsword;105;0;0;0;0;268.25;0;0;0;0
-;not_infusable;Heretic's Staff;Staff;29.4;0;134.4;0;0;142.2;0;0;0;0
-;not_infusable;Heysel Pick;Hammer;43.4;14;120.4;0;0;162;122;0;0;0
+;;Heretic's Staff;Staff;29.4;0;134.4;0;0;142.2;0;0;0;0
+;;Heysel Pick;Hammer;43.4;14;120.4;0;0;162;122;0;0;0
 ;Hollow;Astora Greatsword;Ultra Greatsword;63;71.4;0;0;39;250.8;0;0;0;0
 ;Hollow;Astora Straight Sword;Straight Sword;36.4;28;0;0;21;245.1;0;0;0;0
 ;Hollow;Bandit's Knife;Dagger;35;42;0;0;24;133;0;0;0;0
@@ -1289,18 +1289,18 @@
 ;Hollow;Wooden Shield;Shield;42;0;0;0;9;148.2;0;0;0;0
 ;Hollow;Zweihander;Ultra Greatsword;70;49;0;0;33;275.5;0;0;0;0
 ;Hollow;slayer Greatsword;Greatsword;49;78.4;0;0;0;264;0;0;0;0
-;not_infusable;Immolation Tinder;Halberd;50.4;56;134.4;0;0;206;0;132;0;0
-;not_infusable;Irithyll Rapier;Thrusting Sword;57.4;70;0;0;0;202;0;0;0;0
-;not_infusable;Irithyll Straight Sword;Straight Sword;64.4;42;0;0;0;216;0;0;0;0
-;not_infusable;Iron Round Shield;Small Shield;28;0;0;0;0;142;0;0;0;0
-;not_infusable;Izalith Staff;Staff;43.4;42;117.6;71.4;0;210;0;0;0;0
-;not_infusable;Kite Shield;Shield;42;0;0;0;0;160;0;0;0;0
-;not_infusable;Knight Shield;Shield;40.6;0;0;0;0;158;0;0;0;0
-;not_infusable;Knight's Crossbow;Crossbow;0;0;0;0;0;140;0;0;140;0
-;not_infusable;Large Club;Great Hammer;81.2;0;0;0;0;296;0;0;0;0
-;not_infusable;Large Leather Shield;Shield;42;0;0;0;0;156;0;0;0;0
-;not_infusable;Leather Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
-;not_infusable;Light Crossbow;Crossbow;0;0;0;0;0;224;0;0;0;0
+;;Immolation Tinder;Halberd;50.4;56;134.4;0;0;206;0;132;0;0
+;;Irithyll Rapier;Thrusting Sword;57.4;70;0;0;0;202;0;0;0;0
+;;Irithyll Straight Sword;Straight Sword;64.4;42;0;0;0;216;0;0;0;0
+;;Iron Round Shield;Small Shield;28;0;0;0;0;142;0;0;0;0
+;;Izalith Staff;Staff;43.4;42;117.6;71.4;0;210;0;0;0;0
+;;Kite Shield;Shield;42;0;0;0;0;160;0;0;0;0
+;;Knight Shield;Shield;40.6;0;0;0;0;158;0;0;0;0
+;;Knight's Crossbow;Crossbow;0;0;0;0;0;140;0;0;140;0
+;;Large Club;Great Hammer;81.2;0;0;0;0;296;0;0;0;0
+;;Large Leather Shield;Shield;42;0;0;0;0;156;0;0;0;0
+;;Leather Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+;;Light Crossbow;Crossbow;0;0;0;0;0;224;0;0;0;0
 ;Lightning;Astora Greatsword;Ultra Greatsword;45;51;0;158.4;0;125.4;0;0;171.6;0
 ;Lightning;Astora Straight Sword;Straight Sword;26;20;0;75.9;0;103.55;0;0;141.7;0
 ;Lightning;Bandit's Knife;Dagger;25;30;0;90.75;0;71.25;0;0;97.5;0
@@ -1431,41 +1431,41 @@
 ;Lightning;Winged Spear;Spear;40;60;0;165;0;90.25;0;0;123.5;0
 ;Lightning;Wooden Shield;Shield;30;0;0;49.5;0;74.1;0;0;101.4;0
 ;Lightning;Zweihander;Ultra Greatsword;50;35;0;140.25;0;128.25;0;0;175.5;0
-;not_infusable;Llewellyn Shield;Small Shield;29.4;0;0;0;0;152;0;0;0;0
-;not_infusable;Longbow;Bow;14;49;0;0;0;164;0;0;0;0
-;not_infusable;Longsword;Straight Sword;70;49;0;0;0;220;0;0;0;0
-;not_infusable;Lorian's Greatsword;Ultra Greatsword;64.4;42;43.4;43.4;0;276;0;144;0;0
-;not_infusable;Lothric Knight Greatshield;Greatshield;49;0;0;0;0;222;0;0;0;0
-;not_infusable;Lothric Knight Greatsword;Ultra Greatsword;43.4;63;0;0;0;262;0;0;174;0
-;not_infusable;Lothric Knight Long Spear;Pike;43.4;70;0;0;0;224;0;0;0;0
-;not_infusable;Lothric Knight Shield;Shield;42;0;0;0;0;166;0;0;0;0
-;not_infusable;Lothric Knight Sword;Straight Sword;57.4;70;0;0;0;206;0;0;0;0
-;not_infusable;Lothric's Holy Sword;Straight Sword;46.2;63;0;18.2;0;196;0;0;0;0
-;not_infusable;Lucerne;Halberd;49;57.4;0;0;0;252;0;0;0;0
-;not_infusable;Mace;Hammer;77;21;0;0;0;230;0;0;0;0
-;not_infusable;Mail Breaker;Dagger;14;35;0;0;0;160;0;0;0;0
-;not_infusable;Man Serpent Hatchet;Axe;63;35;0;0;0;250;0;0;0;0
-;not_infusable;Man-grub's Staff;Staff;29.4;0;0;0;0;158;0;0;0;0
-;not_infusable;Manikin Claws;Claw;19.6;81.2;0;0;0;158;0;0;0;0
-;not_infusable;Mendicant's Staff;Staff;29.4;0;120.4;0;0;136.8;0;0;0;0
-;not_infusable;Moaning Shield;Greatshield;51.8;0;0;0;0;238;0;0;0;0
-;not_infusable;Moonlight Greatsword;Greatsword;18.2;0;100.8;0;0;126;238;0;0;0
-;not_infusable;Morion Blade;Straight Sword;64.4;35;0;0;0;228;0;0;0;0
-;not_infusable;Morne's Great Hammer;Great Hammer;65.8;0;0;30.8;0;348;0;0;0;0
-;not_infusable;Morning Star;Hammer;56;15.4;0;0;0;244;0;0;0;0
-;not_infusable;Murakumo;Curved Greatsword;58.8;74.2;0;0;0;250;0;0;0;0
-;not_infusable;Notched Whip;Whip;0;63;0;0;0;190;0;0;0;0
-;not_infusable;Old King's Great Hammer;Great Hammer;58.8;0;50.4;50.4;0;328;0;126;0;0
-;not_infusable;Old Wolf Curved Sword;Curved Greatsword;29.4;100.8;0;0;0;244;0;0;0;0
-;not_infusable;Onikiri and Ubadachi;Katana (Paired);56;71.4;0;0;0;208;0;0;0;0
-;not_infusable;Onislayer Greatbow;Greatbow;21;85.4;0;0;0;194;0;0;0;0
-;not_infusable;Painting Guardian's Curved Sword;Curved Sword;7;113.4;0;0;0;176;0;0;0;0
-;not_infusable;Parrying Dagger;Dagger;12.6;95.2;0;0;0;110;0;0;0;0
-;not_infusable;Partizan;Spear;49;64.4;0;0;0;216;0;0;0;0
-;not_infusable;Pickaxe;Great Hammer;82.6;0;0;0;0;280;0;0;0;0
-;not_infusable;Pierce Shield;Shield;43.4;0;0;0;0;174;0;0;0;0
-;not_infusable;Pike;Pike;40.6;72.8;0;0;0;210;0;0;0;0
-;not_infusable;Plank Shield;Small Shield;26.6;0;0;0;0;106;0;0;0;0
+;;Llewellyn Shield;Small Shield;29.4;0;0;0;0;152;0;0;0;0
+;;Longbow;Bow;14;49;0;0;0;164;0;0;0;0
+;;Longsword;Straight Sword;70;49;0;0;0;220;0;0;0;0
+;;Lorian's Greatsword;Ultra Greatsword;64.4;42;43.4;43.4;0;276;0;144;0;0
+;;Lothric Knight Greatshield;Greatshield;49;0;0;0;0;222;0;0;0;0
+;;Lothric Knight Greatsword;Ultra Greatsword;43.4;63;0;0;0;262;0;0;174;0
+;;Lothric Knight Long Spear;Pike;43.4;70;0;0;0;224;0;0;0;0
+;;Lothric Knight Shield;Shield;42;0;0;0;0;166;0;0;0;0
+;;Lothric Knight Sword;Straight Sword;57.4;70;0;0;0;206;0;0;0;0
+;;Lothric's Holy Sword;Straight Sword;46.2;63;0;18.2;0;196;0;0;0;0
+;;Lucerne;Halberd;49;57.4;0;0;0;252;0;0;0;0
+;;Mace;Hammer;77;21;0;0;0;230;0;0;0;0
+;;Mail Breaker;Dagger;14;35;0;0;0;160;0;0;0;0
+;;Man Serpent Hatchet;Axe;63;35;0;0;0;250;0;0;0;0
+;;Man-grub's Staff;Staff;29.4;0;0;0;0;158;0;0;0;0
+;;Manikin Claws;Claw;19.6;81.2;0;0;0;158;0;0;0;0
+;;Mendicant's Staff;Staff;29.4;0;120.4;0;0;136.8;0;0;0;0
+;;Moaning Shield;Greatshield;51.8;0;0;0;0;238;0;0;0;0
+;;Moonlight Greatsword;Greatsword;18.2;0;100.8;0;0;126;238;0;0;0
+;;Morion Blade;Straight Sword;64.4;35;0;0;0;228;0;0;0;0
+;;Morne's Great Hammer;Great Hammer;65.8;0;0;30.8;0;348;0;0;0;0
+;;Morning Star;Hammer;56;15.4;0;0;0;244;0;0;0;0
+;;Murakumo;Curved Greatsword;58.8;74.2;0;0;0;250;0;0;0;0
+;;Notched Whip;Whip;0;63;0;0;0;190;0;0;0;0
+;;Old King's Great Hammer;Great Hammer;58.8;0;50.4;50.4;0;328;0;126;0;0
+;;Old Wolf Curved Sword;Curved Greatsword;29.4;100.8;0;0;0;244;0;0;0;0
+;;Onikiri and Ubadachi;Katana (Paired);56;71.4;0;0;0;208;0;0;0;0
+;;Onislayer Greatbow;Greatbow;21;85.4;0;0;0;194;0;0;0;0
+;;Painting Guardian's Curved Sword;Curved Sword;7;113.4;0;0;0;176;0;0;0;0
+;;Parrying Dagger;Dagger;12.6;95.2;0;0;0;110;0;0;0;0
+;;Partizan;Spear;49;64.4;0;0;0;216;0;0;0;0
+;;Pickaxe;Great Hammer;82.6;0;0;0;0;280;0;0;0;0
+;;Pierce Shield;Shield;43.4;0;0;0;0;174;0;0;0;0
+;;Pike;Pike;40.6;72.8;0;0;0;210;0;0;0;0
+;;Plank Shield;Small Shield;26.6;0;0;0;0;106;0;0;0;0
 ;Poison;Astora Greatsword;Ultra Greatsword;63;71.4;0;0;0;204.6;0;0;0;0
 ;Poison;Astora Straight Sword;Straight Sword;36.4;28;0;0;0;199.95;0;0;0;0
 ;Poison;Bandit's Knife;Dagger;35;42;0;0;0;108.5;0;0;0;0
@@ -1596,14 +1596,14 @@
 ;Poison;Winged Spear;Spear;56;84;0;0;0;147.25;0;0;0;0
 ;Poison;Wooden Shield;Shield;42;0;0;0;0;120.9;0;0;0;0
 ;Poison;Zweihander;Ultra Greatsword;70;49;0;0;0;224.75;0;0;0;0
-;not_infusable;Pontiff Knight Curved Sword;Curved Sword;43.4;68.6;0;0;0;214;0;0;0;0
-;not_infusable;Pontiff Knight Great Scythe;Reaper;15.4;159.6;0;0;0;174;0;0;0;0
-;not_infusable;Pontiff Knight Shield;Shield;35;0;0;0;0;110;0;0;0;0
-;not_infusable;Porcine Shield;Shield;42;0;0;0;0;170;0;0;0;0
-;not_infusable;Priest's Chime;Sacred Chime;28;0;0;138.6;0;117;0;0;0;0
-;not_infusable;Profaned Greatsword;Ultra Greatsword;78.4;63;0;0;0;294;0;0;0;0
-;not_infusable;Pyromancy Flame;Pyromancy Flame;0;0;71.4;71.4;0;0;0;180;0;0
-;not_infusable;Rapier;Thrusting Sword;28;84;0;0;0;190;0;0;0;0
+;;Pontiff Knight Curved Sword;Curved Sword;43.4;68.6;0;0;0;214;0;0;0;0
+;;Pontiff Knight Great Scythe;Reaper;15.4;159.6;0;0;0;174;0;0;0;0
+;;Pontiff Knight Shield;Shield;35;0;0;0;0;110;0;0;0;0
+;;Porcine Shield;Shield;42;0;0;0;0;170;0;0;0;0
+;;Priest's Chime;Sacred Chime;28;0;0;138.6;0;117;0;0;0;0
+;;Profaned Greatsword;Ultra Greatsword;78.4;63;0;0;0;294;0;0;0;0
+;;Pyromancy Flame;Pyromancy Flame;0;0;71.4;71.4;0;0;0;180;0;0
+;;Rapier;Thrusting Sword;28;84;0;0;0;190;0;0;0;0
 ;Raw;Astora Greatsword;Ultra Greatsword;0;0;0;0;0;330;0;0;0;0
 ;Raw;Astora Straight Sword;Straight Sword;0;0;0;0;0;322.5;0;0;0;0
 ;Raw;Bandit's Knife;Dagger;0;0;0;0;0;175;0;0;0;0
@@ -1734,8 +1734,8 @@
 ;Raw;Winged Spear;Spear;0;0;0;0;0;237.5;0;0;0;0
 ;Raw;Wooden Shield;Shield;0;0;0;0;0;195;0;0;0;0
 ;Raw;Zweihander;Ultra Greatsword;0;0;0;0;0;362.5;0;0;0;0
-;not_infusable;Red and White Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
-;not_infusable;Red Hilted Halberd;Halberd;49;56;0;0;0;260;0;0;0;0
+;;Red and White Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+;;Red Hilted Halberd;Halberd;49;56;0;0;0;260;0;0;0;0
 ;Refined;Astora Greatsword;Ultra Greatsword;92.8;92.8;0;0;0;237.6;0;0;0;0
 ;Refined;Astora Straight Sword;Straight Sword;44.8;44.8;0;0;0;232.2;0;0;0;0
 ;Refined;Bandit's Knife;Dagger;59.2;59.2;0;0;0;126;0;0;0;0
@@ -1866,20 +1866,20 @@
 ;Refined;Winged Spear;Spear;96;96;0;0;0;171;0;0;0;0
 ;Refined;Wooden Shield;Shield;40;40;0;0;0;140.4;0;0;0;0
 ;Refined;Zweihander;Ultra Greatsword;83.2;83.2;0;0;0;261;0;0;0;0
-;not_infusable;Reinforced Club;Hammer;92.4;0;0;0;0;220;0;0;0;0
-;not_infusable;Ricard's Rapier;Thrusting Sword;29.4;84;0;0;0;194;0;0;0;0
-;not_infusable;Rotten Ghru Curved Sword;Curved Sword;21;81.2;0;0;0;206;0;0;0;0
-;not_infusable;Rotten Ghru Dagger;Dagger;12.6;92.4;0;0;0;118;0;0;0;0
-;not_infusable;Rotten Ghru Spear;Spear;47.6;65.8;0;0;0;208;0;0;0;0
-;not_infusable;Round Shield;Shield;42;0;0;0;0;158;0;0;0;0
-;not_infusable;Sacred Bloom Shield;Small Shield;29.4;0;0;0;0;144;0;0;0;0
-;not_infusable;Sage's Crystal Staff;Staff;28;0;119;0;0;154;0;0;0;0
-;not_infusable;Saint Bident;Spear;21;28;0;49;0;196;0;0;0;0
-;not_infusable;Saint's Talisman;Talisman;29.4;0;0;158.2;0;120.6;0;0;0;0
-;not_infusable;Saint-tree Bellvine;Sacred Chime;28;0;0;109.2;0;117;0;0;0;0
-;not_infusable;Scholar's Candlestick;Dagger;14;72.8;0;0;0;126;0;0;0;0
-;not_infusable;Scimitar;Curved Sword;7;112;0;0;0;180;0;0;0;0
-;not_infusable;Sellsword Twinblades;Curved Sword (Paired);21;81.2;0;0;0;198;0;0;0;0
+;;Reinforced Club;Hammer;92.4;0;0;0;0;220;0;0;0;0
+;;Ricard's Rapier;Thrusting Sword;29.4;84;0;0;0;194;0;0;0;0
+;;Rotten Ghru Curved Sword;Curved Sword;21;81.2;0;0;0;206;0;0;0;0
+;;Rotten Ghru Dagger;Dagger;12.6;92.4;0;0;0;118;0;0;0;0
+;;Rotten Ghru Spear;Spear;47.6;65.8;0;0;0;208;0;0;0;0
+;;Round Shield;Shield;42;0;0;0;0;158;0;0;0;0
+;;Sacred Bloom Shield;Small Shield;29.4;0;0;0;0;144;0;0;0;0
+;;Sage's Crystal Staff;Staff;28;0;119;0;0;154;0;0;0;0
+;;Saint Bident;Spear;21;28;0;49;0;196;0;0;0;0
+;;Saint's Talisman;Talisman;29.4;0;0;158.2;0;120.6;0;0;0;0
+;;Saint-tree Bellvine;Sacred Chime;28;0;0;109.2;0;117;0;0;0;0
+;;Scholar's Candlestick;Dagger;14;72.8;0;0;0;126;0;0;0;0
+;;Scimitar;Curved Sword;7;112;0;0;0;180;0;0;0;0
+;;Sellsword Twinblades;Curved Sword (Paired);21;81.2;0;0;0;198;0;0;0;0
 ;Sharp;Astora Greatsword;Ultra Greatsword;31.9;94.5;0;0;0;244.2;0;0;0;0
 ;Sharp;Astora Straight Sword;Straight Sword;28.6;48;0;0;0;238.65;0;0;0;0
 ;Sharp;Bandit's Knife;Dagger;13.2;63;0;0;0;129.5;0;0;0;0
@@ -2010,12 +2010,12 @@
 ;Sharp;Winged Spear;Spear;28.6;113.4;0;0;0;175.75;0;0;0;0
 ;Sharp;Wooden Shield;Shield;33;0;0;0;0;144.3;0;0;0;0
 ;Sharp;Zweihander;Ultra Greatsword;55;84;0;0;0;268.25;0;0;0;0
-;not_infusable;Shield of Want;Shield;43.4;0;0;0;0;190;0;0;0;0
-;not_infusable;Short Bow;Bow;14;50.4;0;0;0;154;0;0;0;0
-;not_infusable;Shortsword;Straight Sword;56;71.4;0;0;0;198;0;0;0;0
-;not_infusable;Shotel;Curved Sword;21;81.2;0;0;0;208;0;0;0;0
-;not_infusable;Silver Eagle Kite Shield;Shield;40.6;0;0;0;0;176;0;0;0;0
-;not_infusable;Silver Knight Shield;Shield;43.4;0;0;0;0;172;0;0;0;0
+;;Shield of Want;Shield;43.4;0;0;0;0;190;0;0;0;0
+;;Short Bow;Bow;14;50.4;0;0;0;154;0;0;0;0
+;;Shortsword;Straight Sword;56;71.4;0;0;0;198;0;0;0;0
+;;Shotel;Curved Sword;21;81.2;0;0;0;208;0;0;0;0
+;;Silver Eagle Kite Shield;Shield;40.6;0;0;0;0;176;0;0;0;0
+;;Silver Knight Shield;Shield;43.4;0;0;0;0;172;0;0;0;0
 ;Simple;Astora Greatsword;Ultra Greatsword;58.5;66.3;134.4;0;0;132;151.8;0;0;0
 ;Simple;Astora Straight Sword;Straight Sword;33.8;26;64.4;0;0;109;125.35;0;0;0
 ;Simple;Bandit's Knife;Dagger;32.5;39;77;0;0;75;86.25;0;0;0
@@ -2146,55 +2146,55 @@
 ;Simple;Winged Spear;Spear;52;78;140;0;0;95;109.25;0;0;0
 ;Simple;Wooden Shield;Shield;39;0;42;0;0;78;89.7;0;0;0
 ;Simple;Zweihander;Ultra Greatsword;65;45.5;119;0;0;135;155.25;0;0;0
-;not_infusable;Small Leather Shield;Small Shield;28;0;0;0;0;140;0;0;0;0
-;not_infusable;Smough's Great Hammer;Great Hammer;86.8;0;0;0;0;358;0;0;0;0
-;not_infusable;Sniper Crossbow;Crossbow;0;0;0;0;0;245;0;0;0;0
-;not_infusable;Soldering Iron;Spear;33.6;58.8;0;0;0;78;0;192;0;0
-;not_infusable;Sorcerer's Staff;Staff;28;0;140;0;0;135;0;0;0;0
-;not_infusable;Spear;Spear;42;71.4;0;0;0;208;0;0;0;0
-;not_infusable;Spider Shield;Shield;42;0;0;0;0;176;0;0;0;0
-;not_infusable;Spiked Mace;Great Hammer;84;0;0;0;0;298;0;0;0;0
-;not_infusable;Spiked Shield;Shield;42;0;0;0;0;172;0;0;0;0
-;not_infusable;Spirit Tree Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
-;not_infusable;Spotted Whip;Whip;0;63;0;0;0;204;0;0;0;0
-;not_infusable;Stone Greatshield;Greatshield;50.4;0;0;0;0;230;0;0;0;0
-;not_infusable;Stone Parma;Shield;42;0;0;0;0;188;0;0;0;0
-;not_infusable;Storm Curved Sword;Curved Sword;29.4;84;0;0;0;200;0;0;0;0
-;not_infusable;Storm Ruler;Greatsword;56;42;0;0;0;260;0;0;0;0
-;not_infusable;Storyteller's Staff;Staff;28;0;131.6;0;0;136.8;0;0;0;0
-;not_infusable;Sunless Talisman;Talisman;28;0;112;119;0;130;0;0;0;0
-;not_infusable;Sunlight Shield;Shield;42;0;0;0;0;164;0;0;0;0
-;not_infusable;Sunlight Straight Sword;Straight Sword;84;84;0;0;0;196;0;0;0;0
-;not_infusable;Sunlight Talisman;Talisman;29.4;0;0;114.8;0;120.6;0;0;0;0
-;not_infusable;Sunset Shield;Shield;42;0;0;0;0;164;0;0;0;0
-;not_infusable;Tailbone Short Sword;Dagger;14;28;0;0;0;174;0;0;0;0
-;not_infusable;Tailbone Spear;Spear;28;57.4;0;0;0;216;0;0;0;0
-;not_infusable;Talisman;Talisman;28;0;0;140;0;117;0;0;0;0
-;not_infusable;Target Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
-;not_infusable;Thrall Axe;Axe;60.2;53.2;0;0;0;208;0;0;0;0
-;not_infusable;Torch;Torch;49;0;0;0;0;70;0;160;0;0
-;not_infusable;Twin Dragon Greatshield;Greatshield;49;0;0;0;0;212;0;0;0;0
-;not_infusable;Twin Princes' Greatsword;Greatsword;43.4;42;36.4;36.4;0;230;0;152;0;0
-;not_infusable;Uchigatana;Katana;28;70;0;0;0;230;0;0;0;0
-;not_infusable;Vordt's Great Hammer;Great Hammer;85.4;0;0;0;0;320;0;0;0;0
-;not_infusable;Warden Twinblades;Curved Sword (Paired);43.4;63;0;0;0;186;0;0;0;0
-;not_infusable;Wargod Wooden Shield;Shield;42;0;0;0;0;176;0;0;0;0
-;not_infusable;Warpick;Hammer;75.6;22.4;0;0;0;226;0;0;0;0
-;not_infusable;Warrior's Round Shield;Small Shield;28;0;0;0;0;148;0;0;0;0
-;not_infusable;Washing Pole;Katana;35;63;0;0;0;242;0;0;0;0
-;not_infusable;Whip;Whip;0;84;0;0;0;180;0;0;0;0
-;not_infusable;White Hair Talisman;Talisman;28;0;42;70;0;128;0;138;0;0
-;not_infusable;Winged Knight Halberd;Halberd;57.4;21;0;0;0;290;0;0;0;0
-;not_infusable;Winged Knight Twinaxes;Axe (Paired);63;35;0;0;0;244;0;0;0;0
-;not_infusable;Winged Spear;Spear;56;84;0;0;0;190;0;0;0;0
-;not_infusable;Witch Tree Branch;Staff;28;0;93.8;0;0;129.6;0;0;0;0
-;not_infusable;Witch's Locks;Whip;0;49;84;84;0;134;0;140;0;0
-;not_infusable;Wolf Knight's Greatshield;Greatshield;50.4;0;0;0;0;216;0;0;0;0
-;not_infusable;Wolf Knight's Greatsword;Greatsword;79.8;61.6;0;0;0;254;0;0;0;0
-;not_infusable;Wolnir's Holy Sword;Greatsword;51.8;14;0;51.8;0;276;0;0;0;0
-;not_infusable;Wooden Shield;Shield;42;0;0;0;0;156;0;0;0;0
-;not_infusable;Yhorm's Great Machete;Greataxe;109.2;0;0;0;0;338;0;0;0;0
-;not_infusable;Yhorm's Greatshield;Greatshield;50.4;0;0;0;0;240;0;0;0;0
-;not_infusable;Yorshka's Chime;Sacred Chime;29.4;0;0;163.8;0;122.4;0;0;0;0
-;not_infusable;Yorshka's Spear;Spear;56;78.4;0;0;0;172;0;0;0;0
-;not_infusable;Zweihander;Ultra Greatsword;70;49;0;0;0;290;0;0;0;0
+;;Small Leather Shield;Small Shield;28;0;0;0;0;140;0;0;0;0
+;;Smough's Great Hammer;Great Hammer;86.8;0;0;0;0;358;0;0;0;0
+;;Sniper Crossbow;Crossbow;0;0;0;0;0;245;0;0;0;0
+;;Soldering Iron;Spear;33.6;58.8;0;0;0;78;0;192;0;0
+;;Sorcerer's Staff;Staff;28;0;140;0;0;135;0;0;0;0
+;;Spear;Spear;42;71.4;0;0;0;208;0;0;0;0
+;;Spider Shield;Shield;42;0;0;0;0;176;0;0;0;0
+;;Spiked Mace;Great Hammer;84;0;0;0;0;298;0;0;0;0
+;;Spiked Shield;Shield;42;0;0;0;0;172;0;0;0;0
+;;Spirit Tree Crest Shield;Shield;43.4;0;0;0;0;166;0;0;0;0
+;;Spotted Whip;Whip;0;63;0;0;0;204;0;0;0;0
+;;Stone Greatshield;Greatshield;50.4;0;0;0;0;230;0;0;0;0
+;;Stone Parma;Shield;42;0;0;0;0;188;0;0;0;0
+;;Storm Curved Sword;Curved Sword;29.4;84;0;0;0;200;0;0;0;0
+;;Storm Ruler;Greatsword;56;42;0;0;0;260;0;0;0;0
+;;Storyteller's Staff;Staff;28;0;131.6;0;0;136.8;0;0;0;0
+;;Sunless Talisman;Talisman;28;0;112;119;0;130;0;0;0;0
+;;Sunlight Shield;Shield;42;0;0;0;0;164;0;0;0;0
+;;Sunlight Straight Sword;Straight Sword;84;84;0;0;0;196;0;0;0;0
+;;Sunlight Talisman;Talisman;29.4;0;0;114.8;0;120.6;0;0;0;0
+;;Sunset Shield;Shield;42;0;0;0;0;164;0;0;0;0
+;;Tailbone Short Sword;Dagger;14;28;0;0;0;174;0;0;0;0
+;;Tailbone Spear;Spear;28;57.4;0;0;0;216;0;0;0;0
+;;Talisman;Talisman;28;0;0;140;0;117;0;0;0;0
+;;Target Shield;Small Shield;28;0;0;0;0;138;0;0;0;0
+;;Thrall Axe;Axe;60.2;53.2;0;0;0;208;0;0;0;0
+;;Torch;Torch;49;0;0;0;0;70;0;160;0;0
+;;Twin Dragon Greatshield;Greatshield;49;0;0;0;0;212;0;0;0;0
+;;Twin Princes' Greatsword;Greatsword;43.4;42;36.4;36.4;0;230;0;152;0;0
+;;Uchigatana;Katana;28;70;0;0;0;230;0;0;0;0
+;;Vordt's Great Hammer;Great Hammer;85.4;0;0;0;0;320;0;0;0;0
+;;Warden Twinblades;Curved Sword (Paired);43.4;63;0;0;0;186;0;0;0;0
+;;Wargod Wooden Shield;Shield;42;0;0;0;0;176;0;0;0;0
+;;Warpick;Hammer;75.6;22.4;0;0;0;226;0;0;0;0
+;;Warrior's Round Shield;Small Shield;28;0;0;0;0;148;0;0;0;0
+;;Washing Pole;Katana;35;63;0;0;0;242;0;0;0;0
+;;Whip;Whip;0;84;0;0;0;180;0;0;0;0
+;;White Hair Talisman;Talisman;28;0;42;70;0;128;0;138;0;0
+;;Winged Knight Halberd;Halberd;57.4;21;0;0;0;290;0;0;0;0
+;;Winged Knight Twinaxes;Axe (Paired);63;35;0;0;0;244;0;0;0;0
+;;Winged Spear;Spear;56;84;0;0;0;190;0;0;0;0
+;;Witch Tree Branch;Staff;28;0;93.8;0;0;129.6;0;0;0;0
+;;Witch's Locks;Whip;0;49;84;84;0;134;0;140;0;0
+;;Wolf Knight's Greatshield;Greatshield;50.4;0;0;0;0;216;0;0;0;0
+;;Wolf Knight's Greatsword;Greatsword;79.8;61.6;0;0;0;254;0;0;0;0
+;;Wolnir's Holy Sword;Greatsword;51.8;14;0;51.8;0;276;0;0;0;0
+;;Wooden Shield;Shield;42;0;0;0;0;156;0;0;0;0
+;;Yhorm's Great Machete;Greataxe;109.2;0;0;0;0;338;0;0;0;0
+;;Yhorm's Greatshield;Greatshield;50.4;0;0;0;0;240;0;0;0;0
+;;Yorshka's Chime;Sacred Chime;29.4;0;0;163.8;0;122.4;0;0;0;0
+;;Yorshka's Spear;Spear;56;78.4;0;0;0;172;0;0;0;0
+;;Zweihander;Ultra Greatsword;70;49;0;0;0;290;0;0;0;0
