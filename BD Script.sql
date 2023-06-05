@@ -171,25 +171,26 @@ src varchar(160)
 drop tables bosses, bosses_img;
 
 insert into bosses_img values
-    (1,'http://darksouls3.wdfiles.com/local--files/boss-image:iudex-gundyr/Iudex_Gundyr.jpg'), 
-	(2,'http://darksouls3.wdfiles.com/local--files/boss-image:vordt/Vordt.jpg'),
-	(3,'https://darksouls3.wdfiles.com/local--files/boss-image:curse-rotted-greatwoodv1/Curse-rotted_Greatwoodv1.jpg'),
-	(4,'./Assets/img/chefes/Crystal_sage_boss_29.webp'), 
-	(5,'./Assets/img/chefes/abyss.jpg'),
-	(6,'./Assets/img/chefes/053 - 6SQeZqA.jpg'), 
-	(7,'./Assets/img/chefes/High_Lord_Wolnir_6.webp'),
-	(8,'https://i.redd.it/54vd7p9q58u71.jpg'),
-	(9,'./Assets/img/chefes/Pontiff_Sulyvahn.webp'),
+    (1,	'http://darksouls3.wdfiles.com/local--files/boss-image:iudex-gundyr/Iudex_Gundyr.jpg'),
+	(2,	'http://darksouls3.wdfiles.com/local--files/boss-image:vordt/Vordt.jpg'),
+	(3,	'https://darksouls3.wdfiles.com/local--files/boss-image:curse-rotted-greatwoodv1/Curse-rotted_Greatwoodv1.jpg'),
+	(4,	'./Assets/img/chefes/Crystal_sage_boss_29.webp'),
+	(5,	'./Assets/img/chefes/abyss.jpg'),
+	(6,	'./Assets/img/chefes/053 - 6SQeZqA.jpg'),
+	(7,	'./Assets/img/chefes/High_Lord_Wolnir_6.webp'),
+	(8,	'https://i.redd.it/54vd7p9q58u71.jpg'),
+	(9,	'./Assets/img/chefes/Pontiff_Sulyvahn.webp'),
 	(10,'https://darksouls3.wdfiles.com/local--files/boss-image:yhorm1/Yhorm1.jpg'),
-	(11,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/aldritch1_tc.jpg'),
-	(12,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/20160414042459_1.jpg'),
-	(13,'https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/Dragonslayer_Armour_Swing.jpg'),
+	(11,'https://darksouls3.wdfiles.com/local--files/boss-image:aldrichv1/Aldrichv1.jpg'),
+	(12,'https://i.scdn.co/image/ab67706c0000da84a4dc42c0c3fb40477e87e9ee'),
+	(13,'https://i.ytimg.com/vi/2leoHoiZWQE/maxresdefault.jpg'),
 	(14,'./Assets/img/chefes/Oceiros_-_01.webp'),
 	(15,'https://darksouls3.wdfiles.com/local--files/boss-image:champion-gundyr/Champion_Gundyr.jpg'),
-	(16,'./Assets/img/chefes/Twin_Princes.webp'),
+	(16,'https://darksouls3.wdfiles.com/local--files/boss-image:twin-princesv2/Twin_Princesv2.jpg'),
 	(17,'https://darksouls3.wdfiles.com/local--files/boss-image:ancient-wyvern1/Ancient_Wyvern1.jpg'),
-	(18,'./Assets/img/chefes/MDMxLmpwYiUsGjpeXwxvMG9CbgQZVWFmOFp2T19PdXI1THVVXwcqaTgIIAIREz5qOggvCR5ZPShiSnxcRlh9cGIcLR8bKD4rOBQ_MkMoPyEuJ3xeQVknNCpaM.webp'),
+	(18,'https://e1.pxfuel.com/desktop-wallpaper/958/722/desktop-wallpaper-steam-workshop-dark-souls-iii-nameless-king.jpg'),
 	(19,'https://darksouls3.wdfiles.com/local--files/boss-image:soul-of-cinder-2-2/Soul_of_Cinder_2_2.jpg');
+select * from bosses_img;
 
 insert into bosses values
 	(1, 'Iudex 	Gundyr', 1037, 3000, 1, 1),
